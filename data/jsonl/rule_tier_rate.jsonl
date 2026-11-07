@@ -1,0 +1,8 @@
+{"earn_multiplier": "1.00", "effective_from": "2024-01-01", "rule_id": "RULE-EARN-2024-V1", "tier_id": "TIER-01"}
+{"earn_multiplier": "1.20", "effective_from": "2024-01-01", "rule_id": "RULE-EARN-2024-V1", "tier_id": "TIER-02"}
+{"earn_multiplier": "1.40", "effective_from": "2024-01-01", "rule_id": "RULE-EARN-2024-V1", "tier_id": "TIER-03"}
+{"earn_multiplier": "1.80", "effective_from": "2024-01-01", "rule_id": "RULE-EARN-2024-V1", "tier_id": "TIER-04"}
+{"earn_multiplier": "1.00", "effective_from": "2026-01-01", "rule_id": "RULE-EARN-2026-V2", "tier_id": "TIER-01"}
+{"earn_multiplier": "1.25", "effective_from": "2026-01-01", "rule_id": "RULE-EARN-2026-V2", "tier_id": "TIER-02"}
+{"earn_multiplier": "1.50", "effective_from": "2026-01-01", "rule_id": "RULE-EARN-2026-V2", "tier_id": "TIER-03"}
+{"earn_multiplier": "2.00", "effective_from": "2026-01-01", "rule_id": "RULE-EARN-2026-V2", "tier_id": "TIER-04"}

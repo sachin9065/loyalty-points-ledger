@@ -1,0 +1,1393 @@
+{
+  "tiers": [
+    {
+      "tier_id": "TIER-01",
+      "tier_name": "Member",
+      "rank": 1,
+      "qualify_spend_cents": 0,
+      "valid_from": "2024-01-01",
+      "valid_to": "",
+      "status": "active"
+    },
+    {
+      "tier_id": "TIER-02",
+      "tier_name": "Silver",
+      "rank": 2,
+      "qualify_spend_cents": 10000,
+      "valid_from": "2024-01-01",
+      "valid_to": "",
+      "status": "active"
+    },
+    {
+      "tier_id": "TIER-03",
+      "tier_name": "Gold",
+      "rank": 3,
+      "qualify_spend_cents": 35000,
+      "valid_from": "2024-01-01",
+      "valid_to": "",
+      "status": "active"
+    },
+    {
+      "tier_id": "TIER-04",
+      "tier_name": "Platinum",
+      "rank": 4,
+      "qualify_spend_cents": 80000,
+      "valid_from": "2024-01-01",
+      "valid_to": "",
+      "status": "active"
+    }
+  ],
+  "rules": [
+    {
+      "rule_id": "RULE-BONUS-V1",
+      "rule_code": "BONUS",
+      "version": 1,
+      "name": "Campaign and welcome bonus",
+      "effective_from": "2024-01-01T00:00:00Z",
+      "effective_to": "",
+      "parameters": "{\"expiry_months\":12,\"max_points\":500}",
+      "status": "active"
+    },
+    {
+      "rule_id": "RULE-EARN-2024-V1",
+      "rule_code": "EARN_RATE",
+      "version": 1,
+      "name": "Earn rate, 2024 schedule",
+      "effective_from": "2024-01-01T00:00:00Z",
+      "effective_to": "2025-12-31T23:59:59Z",
+      "parameters": "{\"basis\":\"net_eligible_line_spend\",\"points_per_gbp\":10,\"rounding\":\"floor\"}",
+      "status": "superseded"
+    },
+    {
+      "rule_id": "RULE-EARN-2026-V2",
+      "rule_code": "EARN_RATE",
+      "version": 2,
+      "name": "Earn rate, 2026 schedule",
+      "effective_from": "2026-01-01T00:00:00Z",
+      "effective_to": "",
+      "parameters": "{\"basis\":\"net_eligible_line_spend\",\"points_per_gbp\":10,\"rounding\":\"floor\"}",
+      "status": "active"
+    },
+    {
+      "rule_id": "RULE-EXPIRY-V1",
+      "rule_code": "EXPIRY",
+      "version": 1,
+      "name": "Points expiry by lot",
+      "effective_from": "2024-01-01T00:00:00Z",
+      "effective_to": "",
+      "parameters": "{\"accrual_months\":24,\"allocation\":\"expiry_first\",\"bonus_months\":12}",
+      "status": "active"
+    },
+    {
+      "rule_id": "RULE-REDEEM-V2",
+      "rule_code": "REDEMPTION",
+      "version": 2,
+      "name": "Reward redemption",
+      "effective_from": "2024-01-01T00:00:00Z",
+      "effective_to": "",
+      "parameters": "{\"max_share_of_basket\":0.5,\"minimum_points\":300,\"one_open_attempt_per_account\":true,\"points_per_gbp\":100}",
+      "status": "active"
+    },
+    {
+      "rule_id": "RULE-TIER-V1",
+      "rule_code": "TIER_REVIEW",
+      "version": 1,
+      "name": "Trailing twelve-month tier review",
+      "effective_from": "2024-01-01T00:00:00Z",
+      "effective_to": "",
+      "parameters": "{\"basis\":\"net_eligible_spend_after_returns\",\"lookback_days\":365,\"review_cadence\":\"on activity + annual_review\"}",
+      "status": "active"
+    }
+  ],
+  "rewards": [
+    {
+      "reward_id": "RWD-01",
+      "reward_name": "Free standard delivery",
+      "category": "delivery",
+      "points_cost": 300,
+      "cash_value_cents": 499,
+      "min_tier_rank": 1,
+      "status": "active",
+      "effective_from": "2024-01-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-02",
+      "reward_name": "£5 reward voucher",
+      "category": "voucher",
+      "points_cost": 500,
+      "cash_value_cents": 500,
+      "min_tier_rank": 1,
+      "status": "active",
+      "effective_from": "2024-01-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-03",
+      "reward_name": "£10 reward voucher",
+      "category": "voucher",
+      "points_cost": 1000,
+      "cash_value_cents": 1000,
+      "min_tier_rank": 1,
+      "status": "active",
+      "effective_from": "2024-01-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-04",
+      "reward_name": "Morrow canvas tote",
+      "category": "merchandise",
+      "points_cost": 1200,
+      "cash_value_cents": 1800,
+      "min_tier_rank": 2,
+      "status": "active",
+      "effective_from": "2024-03-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-05",
+      "reward_name": "£25 reward voucher",
+      "category": "voucher",
+      "points_cost": 2500,
+      "cash_value_cents": 2500,
+      "min_tier_rank": 2,
+      "status": "active",
+      "effective_from": "2024-01-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-06",
+      "reward_name": "Priority alterations",
+      "category": "service",
+      "points_cost": 1800,
+      "cash_value_cents": 2200,
+      "min_tier_rank": 3,
+      "status": "active",
+      "effective_from": "2024-06-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-07",
+      "reward_name": "£50 reward voucher",
+      "category": "voucher",
+      "points_cost": 5000,
+      "cash_value_cents": 5000,
+      "min_tier_rank": 3,
+      "status": "active",
+      "effective_from": "2024-01-01",
+      "effective_to": ""
+    },
+    {
+      "reward_id": "RWD-08",
+      "reward_name": "Archive print, limited",
+      "category": "merchandise",
+      "points_cost": 3200,
+      "cash_value_cents": 4000,
+      "min_tier_rank": 4,
+      "status": "retired",
+      "effective_from": "2024-02-01",
+      "effective_to": "2025-12-31"
+    }
+  ],
+  "reward_tier_eligibility": [
+    {
+      "reward_id": "RWD-01",
+      "tier_id": "TIER-01",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-01",
+      "tier_id": "TIER-02",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-01",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-01",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-02",
+      "tier_id": "TIER-01",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-02",
+      "tier_id": "TIER-02",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-02",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-02",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-03",
+      "tier_id": "TIER-01",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-03",
+      "tier_id": "TIER-02",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-03",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-03",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-04",
+      "tier_id": "TIER-02",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-04",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-04",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-05",
+      "tier_id": "TIER-02",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-05",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-05",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-06",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-06",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-07",
+      "tier_id": "TIER-03",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-07",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    },
+    {
+      "reward_id": "RWD-08",
+      "tier_id": "TIER-04",
+      "eligible": "true"
+    }
+  ],
+  "rule_tier_rate": [
+    {
+      "rule_id": "RULE-EARN-2024-V1",
+      "tier_id": "TIER-01",
+      "earn_multiplier": "1.00",
+      "effective_from": "2024-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2024-V1",
+      "tier_id": "TIER-02",
+      "earn_multiplier": "1.20",
+      "effective_from": "2024-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2024-V1",
+      "tier_id": "TIER-03",
+      "earn_multiplier": "1.40",
+      "effective_from": "2024-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2024-V1",
+      "tier_id": "TIER-04",
+      "earn_multiplier": "1.80",
+      "effective_from": "2024-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2026-V2",
+      "tier_id": "TIER-01",
+      "earn_multiplier": "1.00",
+      "effective_from": "2026-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2026-V2",
+      "tier_id": "TIER-02",
+      "earn_multiplier": "1.25",
+      "effective_from": "2026-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2026-V2",
+      "tier_id": "TIER-03",
+      "earn_multiplier": "1.50",
+      "effective_from": "2026-01-01"
+    },
+    {
+      "rule_id": "RULE-EARN-2026-V2",
+      "tier_id": "TIER-04",
+      "earn_multiplier": "2.00",
+      "effective_from": "2026-01-01"
+    }
+  ],
+  "data_dictionary": [
+    {
+      "entity": "Customer",
+      "table": "customers",
+      "primary_key": "customer_id",
+      "description": "A person enrolled in the Morrow & Finch loyalty programme. No real personal data is used.",
+      "fields": [
+        [
+          "customer_id",
+          "string",
+          "yes",
+          "C-000001",
+          "unique",
+          "Regex ^C-\\d{6}$; immutable"
+        ],
+        [
+          "first_name",
+          "string",
+          "yes",
+          "Aisha",
+          "-",
+          "2–40 chars; synthetic name"
+        ],
+        [
+          "last_name",
+          "string",
+          "yes",
+          "Patel",
+          "-",
+          "2–40 chars; synthetic name"
+        ],
+        [
+          "email",
+          "string",
+          "yes",
+          "aisha.patel.00001@example.test",
+          "unique",
+          "RFC 5322 basic pattern; .test domain only"
+        ],
+        [
+          "region",
+          "enum",
+          "yes",
+          "Greater London",
+          "-",
+          "One of the nine configured regions"
+        ],
+        [
+          "city",
+          "string",
+          "yes",
+          "London",
+          "-",
+          "Must match region lookup"
+        ],
+        [
+          "acquisition_channel",
+          "enum",
+          "yes",
+          "online",
+          "-",
+          "online | store | app | referral"
+        ],
+        [
+          "marketing_consent",
+          "boolean",
+          "yes",
+          "true",
+          "-",
+          "True or false; independent of programme state"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "active",
+          "-",
+          "active | inactive | deactivated"
+        ],
+        [
+          "joined_at",
+          "datetime",
+          "yes",
+          "2023-04-18T10:22:00Z",
+          "-",
+          "Before first account activity"
+        ],
+        [
+          "updated_at",
+          "datetime",
+          "yes",
+          "2026-10-31T18:00:00Z",
+          "-",
+          "At or after joined_at"
+        ]
+      ]
+    },
+    {
+      "entity": "LoyaltyAccount",
+      "table": "loyalty_accounts",
+      "primary_key": "account_id",
+      "description": "One programme account per customer; the materialised balance is derived from the ledger.",
+      "fields": [
+        [
+          "account_id",
+          "string",
+          "yes",
+          "LOY-C-000001",
+          "unique",
+          "Regex ^LOY-C-\\d{6}$; 1:1 with customer_id"
+        ],
+        [
+          "customer_id",
+          "string FK",
+          "yes",
+          "C-000001",
+          "unique",
+          "References customers.customer_id"
+        ],
+        [
+          "tier_id",
+          "string FK",
+          "yes",
+          "TIER-02",
+          "-",
+          "References tiers.tier_id"
+        ],
+        [
+          "opened_at",
+          "datetime",
+          "yes",
+          "2023-04-18T10:22:00Z",
+          "-",
+          "Must equal or follow customer.joined_at"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "active",
+          "-",
+          "active | suspended | closed"
+        ],
+        [
+          "available_points",
+          "integer",
+          "yes",
+          "1840",
+          "-",
+          ">= 0 in valid rows; equals ledger sum unless labelled mismatch"
+        ],
+        [
+          "pending_points",
+          "integer",
+          "yes",
+          "0",
+          "-",
+          ">= 0; pending earns are excluded from available balance"
+        ],
+        [
+          "lifetime_earned_points",
+          "integer",
+          "yes",
+          "12680",
+          "-",
+          "Sum of positive accrual, bonus and adjustment rows"
+        ],
+        [
+          "qualifying_spend_cents",
+          "integer",
+          "yes",
+          "54820",
+          "GBP cents",
+          "Trailing 365-day net eligible spend after returns"
+        ],
+        [
+          "tier_reviewed_at",
+          "datetime",
+          "yes",
+          "2026-10-01T00:00:00Z",
+          "-",
+          "Effective date of current tier"
+        ],
+        [
+          "last_activity_at",
+          "datetime",
+          "no",
+          "2026-10-30T14:16:00Z",
+          "-",
+          "Maximum posted_at across ledger rows"
+        ],
+        [
+          "updated_at",
+          "datetime",
+          "yes",
+          "2026-11-01T09:00:00Z",
+          "-",
+          "Snapshot materialisation time"
+        ]
+      ]
+    },
+    {
+      "entity": "Tier",
+      "table": "tiers",
+      "primary_key": "tier_id",
+      "description": "Configured membership tier and its qualifying-spend threshold.",
+      "fields": [
+        [
+          "tier_id",
+          "string",
+          "yes",
+          "TIER-02",
+          "unique",
+          "Regex ^TIER-\\d{2}$"
+        ],
+        [
+          "tier_name",
+          "string",
+          "yes",
+          "Silver",
+          "unique",
+          "Member | Silver | Gold | Platinum"
+        ],
+        [
+          "rank",
+          "integer",
+          "yes",
+          "2",
+          "ordinal",
+          "1–4; strictly increasing"
+        ],
+        [
+          "qualify_spend_cents",
+          "integer",
+          "yes",
+          "10000",
+          "GBP cents",
+          ">= 0; monotonic by rank"
+        ],
+        [
+          "valid_from",
+          "date",
+          "yes",
+          "2024-01-01",
+          "-",
+          "Effective date"
+        ],
+        [
+          "valid_to",
+          "date",
+          "no",
+          "",
+          "-",
+          "Null means open-ended; >= valid_from"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "active",
+          "-",
+          "active | retired"
+        ]
+      ]
+    },
+    {
+      "entity": "Rule",
+      "table": "rules",
+      "primary_key": "rule_id",
+      "description": "Versioned earning, redemption, expiry, tier and bonus policy with effective dates.",
+      "fields": [
+        [
+          "rule_id",
+          "string",
+          "yes",
+          "RULE-EARN-2024-V1",
+          "unique",
+          "Immutable; version suffix required"
+        ],
+        [
+          "rule_code",
+          "enum",
+          "yes",
+          "EARN_RATE",
+          "-",
+          "EARN_RATE | REDEMPTION | EXPIRY | TIER_REVIEW | BONUS"
+        ],
+        [
+          "version",
+          "integer",
+          "yes",
+          "1",
+          "-",
+          ">= 1; unique per rule_code"
+        ],
+        [
+          "name",
+          "string",
+          "yes",
+          "Earn rate, 2024 schedule",
+          "-",
+          "Human-readable policy name"
+        ],
+        [
+          "effective_from",
+          "datetime",
+          "yes",
+          "2024-01-01T00:00:00Z",
+          "-",
+          "Start of validity"
+        ],
+        [
+          "effective_to",
+          "datetime",
+          "no",
+          "2025-12-31T23:59:59Z",
+          "-",
+          "Null means current; later than effective_from"
+        ],
+        [
+          "parameters",
+          "json",
+          "yes",
+          "{\"points_per_gbp\":10}",
+          "-",
+          "Validated key/value policy object"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "active",
+          "-",
+          "draft | active | superseded"
+        ]
+      ]
+    },
+    {
+      "entity": "Order",
+      "table": "orders",
+      "primary_key": "order_id",
+      "description": "A completed purchase used as the source for accrual and return events.",
+      "fields": [
+        [
+          "order_id",
+          "string",
+          "yes",
+          "ORD-2026-000001",
+          "unique",
+          "Regex ^ORD-\\d{4}-\\d{6}$; year matches order_ts"
+        ],
+        [
+          "customer_id",
+          "string FK",
+          "yes",
+          "C-000001",
+          "-",
+          "References customers.customer_id"
+        ],
+        [
+          "account_id",
+          "string FK",
+          "yes",
+          "LOY-C-000001",
+          "-",
+          "References loyalty_accounts.account_id"
+        ],
+        [
+          "order_ts",
+          "datetime",
+          "yes",
+          "2026-10-17T14:32:00Z",
+          "-",
+          "Within dataset window; after account open"
+        ],
+        [
+          "channel",
+          "enum",
+          "yes",
+          "online",
+          "-",
+          "online | store | app"
+        ],
+        [
+          "store_id",
+          "string FK",
+          "no",
+          "S-11",
+          "-",
+          "Required for store orders; null otherwise"
+        ],
+        [
+          "gross_cents",
+          "integer",
+          "yes",
+          "12800",
+          "GBP cents",
+          ">= 0; equals sum of line gross"
+        ],
+        [
+          "discount_cents",
+          "integer",
+          "yes",
+          "1280",
+          "GBP cents",
+          ">= 0; <= gross"
+        ],
+        [
+          "tax_cents",
+          "integer",
+          "yes",
+          "2304",
+          "GBP cents",
+          "= floor((gross-discount) × 20%)"
+        ],
+        [
+          "shipping_cents",
+          "integer",
+          "yes",
+          "0",
+          "GBP cents",
+          "0 | 499 | 699"
+        ],
+        [
+          "net_eligible_cents",
+          "integer",
+          "yes",
+          "11520",
+          "GBP cents",
+          "Sum of eligible line net; excludes gift cards, tax and shipping"
+        ],
+        [
+          "refund_cents",
+          "integer",
+          "yes",
+          "0",
+          "GBP cents",
+          "0–(gross-discount); ties to returned_qty"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "completed",
+          "-",
+          "completed | partially_returned | returned | voided"
+        ],
+        [
+          "returned_at",
+          "datetime",
+          "no",
+          "",
+          "-",
+          "Required iff status is partially_returned or returned; after order_ts"
+        ]
+      ]
+    },
+    {
+      "entity": "OrderLine",
+      "table": "order_lines",
+      "primary_key": "order_line_id",
+      "description": "Product-level purchase line. Points accrue per eligible line, giving source-level traceability.",
+      "fields": [
+        [
+          "order_line_id",
+          "string",
+          "yes",
+          "OL-2026-000001",
+          "unique",
+          "Regex ^OL-\\d{4}-\\d{6}$"
+        ],
+        [
+          "order_id",
+          "string FK",
+          "yes",
+          "ORD-2026-000001",
+          "-",
+          "References orders.order_id"
+        ],
+        [
+          "sku",
+          "string",
+          "yes",
+          "APP-1042",
+          "unique per category",
+          "Synthetic SKU; no real catalogue data"
+        ],
+        [
+          "product_name",
+          "string",
+          "yes",
+          "Ribbed merino crew",
+          "-",
+          "Synthetic product label"
+        ],
+        [
+          "category",
+          "enum",
+          "yes",
+          "apparel",
+          "-",
+          "apparel | footwear | home | beauty | accessories | gift_card"
+        ],
+        [
+          "quantity",
+          "integer",
+          "yes",
+          "1",
+          "units",
+          "1–4"
+        ],
+        [
+          "unit_price_cents",
+          "integer",
+          "yes",
+          "6500",
+          "GBP cents",
+          "> 0"
+        ],
+        [
+          "discount_cents",
+          "integer",
+          "yes",
+          "650",
+          "GBP cents",
+          "0 <= discount <= quantity × unit_price"
+        ],
+        [
+          "line_net_cents",
+          "integer",
+          "yes",
+          "5850",
+          "GBP cents",
+          "quantity × unit_price - discount"
+        ],
+        [
+          "eligible_for_points",
+          "boolean",
+          "yes",
+          "true",
+          "-",
+          "False for gift_card category"
+        ],
+        [
+          "returned_qty",
+          "integer",
+          "yes",
+          "0",
+          "units",
+          "0–quantity; zero if not returned"
+        ],
+        [
+          "returned_amount_cents",
+          "integer",
+          "yes",
+          "0",
+          "GBP cents",
+          "0 <= returned_amount <= line_net"
+        ]
+      ]
+    },
+    {
+      "entity": "PointsTransaction",
+      "table": "points_transactions",
+      "primary_key": "points_txn_id",
+      "description": "Immutable, signed points ledger. Positive rows create lots; negative rows consume or remove them.",
+      "fields": [
+        [
+          "points_txn_id",
+          "string",
+          "yes",
+          "PTS-2026-00000001",
+          "unique",
+          "Regex ^PTS-\\d{4}-\\d{8}$; immutable"
+        ],
+        [
+          "account_id",
+          "string FK",
+          "yes",
+          "LOY-C-000001",
+          "-",
+          "References loyalty_accounts.account_id"
+        ],
+        [
+          "txn_type",
+          "enum",
+          "yes",
+          "ACCRUAL",
+          "-",
+          "ACCRUAL | REVERSAL | REDEMPTION | EXPIRATION | BONUS | ADJUSTMENT"
+        ],
+        [
+          "points_delta",
+          "integer",
+          "yes",
+          "248",
+          "points",
+          "Non-zero; positive for ACCRUAL/BONUS/ADJUSTMENT, negative otherwise"
+        ],
+        [
+          "posted_at",
+          "datetime",
+          "yes",
+          "2026-10-17T14:34:00Z",
+          "-",
+          "Chronological ledger time; no updates"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "posted",
+          "-",
+          "posted | reversed | partially_reversed"
+        ],
+        [
+          "source_order_id",
+          "string FK",
+          "no",
+          "ORD-2026-000001",
+          "-",
+          "Required for ACCRUAL and order-linked REVERSAL"
+        ],
+        [
+          "source_order_line_id",
+          "string FK",
+          "no",
+          "OL-2026-000001",
+          "-",
+          "Required for line-level ACCRUAL and REVERSAL"
+        ],
+        [
+          "reversal_of_pts_id",
+          "string FK",
+          "no",
+          "",
+          "-",
+          "Required for REVERSAL; references an ACCRUAL row"
+        ],
+        [
+          "redemption_id",
+          "string FK",
+          "no",
+          "",
+          "-",
+          "Required for REDEMPTION; references redemptions.redemption_id"
+        ],
+        [
+          "expiry_batch_id",
+          "string FK",
+          "no",
+          "",
+          "-",
+          "Required for EXPIRATION; references expiry_batches.expiry_batch_id"
+        ],
+        [
+          "expiry_source_pts_id",
+          "string FK",
+          "no",
+          "",
+          "-",
+          "For EXPIRATION, the accrual/bonus lot that expired"
+        ],
+        [
+          "rule_id",
+          "string FK",
+          "yes",
+          "RULE-EARN-2026-V2",
+          "-",
+          "Policy applied at posting time"
+        ],
+        [
+          "tier_id_at_post",
+          "string FK",
+          "no",
+          "TIER-02",
+          "-",
+          "Tier used for earning; null for non-accrual rows"
+        ],
+        [
+          "earn_multiplier",
+          "decimal",
+          "no",
+          "1.25",
+          "multiplier",
+          "Present for ACCRUAL rows; matches rule-tier bridge"
+        ],
+        [
+          "expires_at",
+          "datetime",
+          "no",
+          "2028-10-17T14:34:00Z",
+          "-",
+          "Required for positive earning rows; later than posted_at"
+        ],
+        [
+          "description",
+          "string",
+          "yes",
+          "Line accrual · ORD-2026-000001",
+          "-",
+          "Non-empty audit narrative"
+        ]
+      ]
+    },
+    {
+      "entity": "Reward",
+      "table": "rewards",
+      "primary_key": "reward_id",
+      "description": "Catalogue item that can be redeemed for points. Tier eligibility is many-to-many.",
+      "fields": [
+        [
+          "reward_id",
+          "string",
+          "yes",
+          "RWD-02",
+          "unique",
+          "Regex ^RWD-\\d{2}$"
+        ],
+        [
+          "reward_name",
+          "string",
+          "yes",
+          "£5 reward voucher",
+          "-",
+          "Human-readable label"
+        ],
+        [
+          "category",
+          "enum",
+          "yes",
+          "voucher",
+          "-",
+          "voucher | delivery | merchandise | service"
+        ],
+        [
+          "points_cost",
+          "integer",
+          "yes",
+          "500",
+          "points",
+          "> 0; multiple of 100"
+        ],
+        [
+          "cash_value_cents",
+          "integer",
+          "yes",
+          "500",
+          "GBP cents",
+          ">= 0; liability reference only"
+        ],
+        [
+          "min_tier_rank",
+          "integer",
+          "yes",
+          "1",
+          "ordinal",
+          "1–4; mirrored by reward_tier_eligibility"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "active",
+          "-",
+          "active | retired"
+        ],
+        [
+          "effective_from",
+          "date",
+          "yes",
+          "2024-01-01",
+          "-",
+          "Start of catalogue period"
+        ],
+        [
+          "effective_to",
+          "date",
+          "no",
+          "",
+          "-",
+          "Null means open-ended"
+        ]
+      ]
+    },
+    {
+      "entity": "Redemption",
+      "table": "redemptions",
+      "primary_key": "redemption_id",
+      "description": "One redemption attempt and its evaluated decision. Rejected attempts are retained and never posted.",
+      "fields": [
+        [
+          "redemption_id",
+          "string",
+          "yes",
+          "RDM-2026-000001",
+          "unique",
+          "Regex ^RDM-\\d{4}-\\d{6}$; immutable"
+        ],
+        [
+          "account_id",
+          "string FK",
+          "yes",
+          "LOY-C-000001",
+          "-",
+          "References loyalty_accounts.account_id"
+        ],
+        [
+          "reward_id",
+          "string FK",
+          "yes",
+          "RWD-02",
+          "-",
+          "References rewards.reward_id"
+        ],
+        [
+          "requested_at",
+          "datetime",
+          "yes",
+          "2026-06-18T11:03:00Z",
+          "-",
+          "After account open"
+        ],
+        [
+          "points_requested",
+          "integer",
+          "yes",
+          "500",
+          "points",
+          "> 0; equals reward points_cost"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "approved",
+          "-",
+          "approved | rejected"
+        ],
+        [
+          "decision_reason",
+          "enum",
+          "yes",
+          "approved",
+          "-",
+          "approved | insufficient_balance | concurrent_lock | reward_inactive | below_minimum | account_suspended"
+        ],
+        [
+          "balance_before",
+          "integer",
+          "yes",
+          "1820",
+          "points",
+          "Account ledger balance immediately before decision"
+        ],
+        [
+          "balance_after",
+          "integer",
+          "yes",
+          "1320",
+          "points",
+          "Equals balance_before less approved points"
+        ],
+        [
+          "points_txn_id",
+          "string FK",
+          "no",
+          "PTS-2026-00000218",
+          "-",
+          "Required iff approved; references points_transactions.points_txn_id"
+        ],
+        [
+          "request_group_id",
+          "string",
+          "no",
+          "",
+          "-",
+          "Set for concurrent attempts; at most one approval per group"
+        ]
+      ]
+    },
+    {
+      "entity": "ExpiryBatch",
+      "table": "expiry_batches",
+      "primary_key": "expiry_batch_id",
+      "description": "Idempotent expiry run. Each batch removes remaining points from one or more due lots for one account.",
+      "fields": [
+        [
+          "expiry_batch_id",
+          "string",
+          "yes",
+          "EXP-2026-000001",
+          "unique",
+          "Regex ^EXP-\\d{4}-\\d{6}$"
+        ],
+        [
+          "account_id",
+          "string FK",
+          "yes",
+          "LOY-C-000001",
+          "-",
+          "References loyalty_accounts.account_id"
+        ],
+        [
+          "run_at",
+          "datetime",
+          "yes",
+          "2026-09-01T00:00:00Z",
+          "-",
+          "Batch cut-off; >= each expired lot's expires_at"
+        ],
+        [
+          "points_expired",
+          "integer",
+          "yes",
+          "420",
+          "points",
+          "> 0; equals sum of linked EXPIRATION rows"
+        ],
+        [
+          "lot_count",
+          "integer",
+          "yes",
+          "2",
+          "lots",
+          ">= 1; count of distinct expiry_source_pts_id rows"
+        ],
+        [
+          "idempotency_key",
+          "string",
+          "yes",
+          "exp:LOY-C-000001:2026-09",
+          "unique",
+          "Unique in valid rows; duplicate intentionally labelled"
+        ],
+        [
+          "status",
+          "enum",
+          "yes",
+          "posted",
+          "-",
+          "posted | void"
+        ],
+        [
+          "rule_id",
+          "string FK",
+          "yes",
+          "RULE-EXPIRY-V1",
+          "-",
+          "References rules.rule_id"
+        ],
+        [
+          "created_at",
+          "datetime",
+          "yes",
+          "2026-09-01T00:00:04Z",
+          "-",
+          "Posting timestamp"
+        ]
+      ]
+    },
+    {
+      "entity": "TierHistory",
+      "table": "tier_history",
+      "primary_key": "history_id",
+      "description": "Append-only account tier changes, with the qualifying spend and rule that caused the change.",
+      "fields": [
+        [
+          "history_id",
+          "string",
+          "yes",
+          "TH-2026-000001",
+          "unique",
+          "Regex ^TH-\\d{4}-\\d{6}$"
+        ],
+        [
+          "account_id",
+          "string FK",
+          "yes",
+          "LOY-C-000001",
+          "-",
+          "References loyalty_accounts.account_id"
+        ],
+        [
+          "from_tier_id",
+          "string FK",
+          "no",
+          "",
+          "-",
+          "Null on opening tier; otherwise references tiers"
+        ],
+        [
+          "to_tier_id",
+          "string FK",
+          "yes",
+          "TIER-02",
+          "-",
+          "References tiers.tier_id"
+        ],
+        [
+          "changed_at",
+          "datetime",
+          "yes",
+          "2026-04-02T12:00:00Z",
+          "-",
+          "After account open; append-only"
+        ],
+        [
+          "reason",
+          "enum",
+          "yes",
+          "rolling_spend_upgrade",
+          "-",
+          "opening | rolling_spend_upgrade | annual_review_downgrade | correction"
+        ],
+        [
+          "qualifying_spend_cents",
+          "integer",
+          "yes",
+          "41200",
+          "GBP cents",
+          "Trailing 365-day net eligible spend at decision"
+        ],
+        [
+          "rule_id",
+          "string FK",
+          "yes",
+          "RULE-TIER-V1",
+          "-",
+          "References rules.rule_id"
+        ]
+      ]
+    }
+  ]
+}

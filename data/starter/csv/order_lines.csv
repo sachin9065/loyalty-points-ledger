@@ -1,0 +1,1983 @@
+order_line_id,order_id,sku,product_name,category,quantity,unit_price_cents,discount_cents,line_net_cents,eligible_for_points,returned_qty,returned_amount_cents
+OL-2024-000001,ORD-2024-000001,APP-6567,Heavyweight jersey tee,apparel,1,8750,438,8312,true,0,0
+OL-2024-000002,ORD-2024-000001,APP-3259,Pleated wool trouser,apparel,1,11650,0,11650,true,0,0
+OL-2024-000003,ORD-2024-000001,APP-6893,Washed cotton overshirt,apparel,1,12000,0,12000,true,0,0
+OL-2024-000004,ORD-2024-000002,GFT-7936,E-gift card,gift_card,1,3450,0,3450,false,0,0
+OL-2024-000005,ORD-2024-000002,HME-2243,Brushed cotton throw,home,1,5045,0,5045,true,0,0
+OL-2024-000006,ORD-2024-000002,ACC-1783,Waxed canvas pouch,accessories,1,4045,0,4045,true,0,0
+OL-2024-000007,ORD-2024-000003,APP-1246,Quilted patch jacket,apparel,1,12300,615,11685,true,0,0
+OL-2024-000008,ORD-2024-000003,FTW-3187,"Leather derby, oak",footwear,1,14300,715,13585,true,0,0
+OL-2024-000009,ORD-2024-000004,APP-8062,Ribbed merino crew,apparel,1,11745,0,11745,true,0,0
+OL-2024-000010,ORD-2024-000004,APP-8300,Heavyweight jersey tee,apparel,1,8700,0,8700,true,0,0
+OL-2024-000011,ORD-2024-000005,ACC-7203,Waxed canvas pouch,accessories,1,2150,430,1720,true,0,0
+OL-2024-000012,ORD-2024-000006,FTW-5913,Canvas low trainer,footwear,1,14895,0,14895,true,0,0
+OL-2024-000013,ORD-2024-000006,APP-1461,Quilted patch jacket,apparel,1,6450,322,6128,true,0,0
+OL-2024-000014,ORD-2024-000006,APP-6852,Heavyweight jersey tee,apparel,1,6595,989,5606,true,0,0
+OL-2024-000015,ORD-2024-000007,APP-3460,Quilted patch jacket,apparel,1,8095,0,8095,true,0,0
+OL-2024-000016,ORD-2024-000007,FTW-5422,"Leather derby, oak",footwear,1,13550,0,13550,true,0,0
+OL-2024-000017,ORD-2024-000008,BTY-1246,Cedar hand wash,beauty,1,2195,220,1975,true,0,0
+OL-2024-000018,ORD-2024-000008,APP-4592,Ribbed merino crew,apparel,1,4800,240,4560,true,0,0
+OL-2024-000019,ORD-2024-000009,FTW-1243,Suede field shoe,footwear,1,13250,662,12588,true,0,0
+OL-2024-000020,ORD-2024-000010,APP-3132,Pleated wool trouser,apparel,1,4250,0,4250,true,0,0
+OL-2024-000021,ORD-2024-000011,GFT-5912,E-gift card,gift_card,1,8150,1222,6928,false,0,0
+OL-2024-000022,ORD-2024-000012,GFT-4686,E-gift card,gift_card,1,2745,137,2608,false,0,0
+OL-2024-000023,ORD-2024-000013,APP-4020,Linen camp collar shirt,apparel,1,11750,0,11750,true,0,0
+OL-2024-000024,ORD-2024-000014,APP-1795,Heavyweight jersey tee,apparel,1,8800,440,8360,true,0,0
+OL-2024-000025,ORD-2024-000015,APP-8254,Ribbed merino crew,apparel,1,11750,1762,9988,true,0,0
+OL-2024-000026,ORD-2024-000016,FTW-3662,Suede field shoe,footwear,1,9995,0,9995,true,0,0
+OL-2024-000027,ORD-2024-000017,FTW-5734,"Chelsea boot, waxed",footwear,1,5900,0,5900,true,0,0
+OL-2024-000028,ORD-2024-000017,FTW-2879,"Leather derby, oak",footwear,1,13200,0,13200,true,0,0
+OL-2024-000029,ORD-2024-000018,HME-3443,Brushed cotton throw,home,1,2900,0,2900,true,0,0
+OL-2024-000030,ORD-2024-000018,APP-6932,Linen camp collar shirt,apparel,1,5800,0,5800,true,0,0
+OL-2024-000031,ORD-2024-000019,HME-2849,Oak desk tray,home,2,3900,780,7020,true,0,0
+OL-2024-000032,ORD-2024-000019,FTW-2986,"Chelsea boot, waxed",footwear,1,14350,0,14350,true,1,14350
+OL-2024-000033,ORD-2024-000020,BTY-3962,Rosehip body balm,beauty,1,3645,0,3645,true,0,0
+OL-2024-000034,ORD-2024-000020,FTW-8608,"Chelsea boot, waxed",footwear,1,8550,855,7695,true,0,0
+OL-2024-000035,ORD-2024-000020,HME-6729,Brushed cotton throw,home,1,6600,0,6600,true,0,0
+OL-2024-000036,ORD-2024-000021,APP-5403,Linen camp collar shirt,apparel,1,11045,0,11045,true,0,0
+OL-2024-000037,ORD-2024-000022,GFT-4391,Morrow & Finch gift card,gift_card,1,9850,492,9358,false,0,0
+OL-2024-000038,ORD-2024-000023,HME-9944,Stoneware serving bowl,home,1,5550,0,5550,true,0,0
+OL-2024-000039,ORD-2024-000023,APP-7345,Washed cotton overshirt,apparel,1,4050,405,3645,true,0,0
+OL-2024-000040,ORD-2024-000023,APP-5314,Pleated wool trouser,apparel,1,12050,602,11448,true,0,0
+OL-2024-000041,ORD-2024-000024,HME-5498,Stoneware serving bowl,home,2,3695,0,7390,true,0,0
+OL-2024-000042,ORD-2024-000025,APP-4401,Ribbed merino crew,apparel,1,6900,0,6900,true,0,0
+OL-2024-000043,ORD-2024-000025,BTY-5236,Mineral bath soak,beauty,1,1300,0,1300,true,0,0
+OL-2024-000044,ORD-2024-000026,APP-5079,Heavyweight jersey tee,apparel,1,6650,332,6318,true,0,0
+OL-2024-000045,ORD-2024-000026,APP-7910,Washed cotton overshirt,apparel,1,9900,0,9900,true,0,0
+OL-2024-000046,ORD-2024-000027,FTW-1231,"Chelsea boot, waxed",footwear,1,15450,0,15450,true,1,15450
+OL-2024-000047,ORD-2024-000028,HME-7592,Oak desk tray,home,1,7550,755,6795,true,0,0
+OL-2024-000048,ORD-2024-000029,HME-7422,Brushed cotton throw,home,1,6200,0,6200,true,0,0
+OL-2024-000049,ORD-2024-000029,APP-2676,Pleated wool trouser,apparel,1,5700,0,5700,true,0,0
+OL-2024-000050,ORD-2024-000030,APP-9564,Pleated wool trouser,apparel,1,5350,1070,4280,true,0,0
+OL-2024-000051,ORD-2024-000030,FTW-8338,"Leather derby, oak",footwear,1,10045,1004,9041,true,0,0
+OL-2024-000052,ORD-2024-000031,HME-7152,Brushed cotton throw,home,1,3850,192,3658,true,1,3658
+OL-2024-000053,ORD-2024-000031,HME-4030,Oak desk tray,home,1,5200,0,5200,true,0,0
+OL-2024-000054,ORD-2024-000031,HME-6129,Stoneware serving bowl,home,1,7650,0,7650,true,0,0
+OL-2024-000055,ORD-2024-000032,APP-2723,Heavyweight jersey tee,apparel,1,12200,1830,10370,true,0,0
+OL-2024-000056,ORD-2024-000032,HME-9064,"Ribbed glass tumbler, set of two",home,1,6900,0,6900,true,0,0
+OL-2024-000057,ORD-2024-000033,ACC-8033,Woven leather belt,accessories,1,2900,435,2465,true,0,0
+OL-2024-000058,ORD-2024-000033,APP-2133,Heavyweight jersey tee,apparel,1,11250,1125,10125,true,0,0
+OL-2024-000059,ORD-2024-000034,BTY-8888,Cedar hand wash,beauty,1,3850,0,3850,true,0,0
+OL-2024-000060,ORD-2024-000035,GFT-7142,Morrow & Finch gift card,gift_card,1,7850,392,7458,false,0,0
+OL-2024-000061,ORD-2024-000035,APP-4271,Washed cotton overshirt,apparel,1,9350,1402,7948,true,1,7948
+OL-2024-000062,ORD-2024-000036,FTW-7660,"Leather derby, oak",footwear,1,11550,0,11550,true,1,11550
+OL-2024-000063,ORD-2024-000036,HME-6997,Stoneware serving bowl,home,1,7800,0,7800,true,1,7800
+OL-2024-000064,ORD-2024-000037,ACC-8729,Woven leather belt,accessories,1,6445,0,6445,true,0,0
+OL-2024-000065,ORD-2024-000037,HME-5450,Beeswax pillar candle,home,1,6950,0,6950,true,0,0
+OL-2024-000066,ORD-2024-000037,APP-3106,Heavyweight jersey tee,apparel,1,5150,772,4378,true,0,0
+OL-2024-000067,ORD-2024-000037,APP-5485,Washed cotton overshirt,apparel,1,3900,0,3900,true,0,0
+OL-2024-000068,ORD-2024-000038,FTW-2247,"Walking sandal, moss",footwear,1,11250,0,11250,true,0,0
+OL-2024-000069,ORD-2024-000039,ACC-2346,Waxed canvas pouch,accessories,1,4095,0,4095,true,0,0
+OL-2024-000070,ORD-2024-000040,APP-6000,Quilted patch jacket,apparel,1,5650,848,4802,true,0,0
+OL-2024-000071,ORD-2024-000041,ACC-6670,Woven leather belt,accessories,1,3000,450,2550,true,0,0
+OL-2024-000072,ORD-2024-000041,FTW-9472,Canvas low trainer,footwear,1,13745,1374,12371,true,0,0
+OL-2024-000073,ORD-2024-000042,HME-4758,Stoneware serving bowl,home,1,5600,0,5600,true,0,0
+OL-2024-000074,ORD-2024-000042,BTY-9473,Cedar hand wash,beauty,1,3550,0,3550,true,0,0
+OL-2024-000075,ORD-2024-000043,ACC-5587,Woven leather belt,accessories,1,5050,0,5050,true,0,0
+OL-2024-000076,ORD-2024-000043,BTY-8537,Botanical face oil,beauty,2,1150,345,1955,true,0,0
+OL-2024-000077,ORD-2024-000044,FTW-3607,Canvas low trainer,footwear,1,5400,0,5400,true,0,0
+OL-2024-000078,ORD-2024-000044,APP-9934,Linen camp collar shirt,apparel,1,4000,0,4000,true,0,0
+OL-2024-000079,ORD-2024-000045,HME-6655,"Ribbed glass tumbler, set of two",home,1,4350,0,4350,true,0,0
+OL-2024-000080,ORD-2024-000045,APP-2560,Linen camp collar shirt,apparel,1,5700,0,5700,true,0,0
+OL-2024-000081,ORD-2024-000045,ACC-4358,Merino beanie,accessories,1,3100,310,2790,true,0,0
+OL-2024-000082,ORD-2024-000045,HME-4550,Stoneware serving bowl,home,1,2050,102,1948,true,0,0
+OL-2024-000083,ORD-2024-000046,HME-8502,Beeswax pillar candle,home,1,5450,545,4905,true,0,0
+OL-2024-000084,ORD-2024-000046,HME-1721,Stoneware serving bowl,home,1,3100,0,3100,true,0,0
+OL-2024-000085,ORD-2024-000046,BTY-7233,Mineral bath soak,beauty,1,4550,455,4095,true,0,0
+OL-2024-000086,ORD-2024-000047,FTW-6856,"Chelsea boot, waxed",footwear,1,9645,1447,8198,true,0,0
+OL-2024-000087,ORD-2024-000047,HME-4894,Oak desk tray,home,1,2050,0,2050,true,0,0
+OL-2024-000088,ORD-2024-000048,HME-5590,Oak desk tray,home,1,4700,0,4700,true,0,0
+OL-2024-000089,ORD-2024-000048,APP-8945,Washed cotton overshirt,apparel,1,11500,1150,10350,true,0,0
+OL-2024-000090,ORD-2024-000049,APP-6253,Quilted patch jacket,apparel,1,12245,0,12245,true,0,0
+OL-2024-000091,ORD-2024-000049,APP-4470,Ribbed merino crew,apparel,1,8700,1305,7395,true,0,0
+OL-2024-000092,ORD-2024-000050,APP-3500,Washed cotton overshirt,apparel,1,5600,0,5600,true,0,0
+OL-2024-000093,ORD-2024-000051,APP-2363,Pleated wool trouser,apparel,1,4900,0,4900,true,0,0
+OL-2024-000094,ORD-2024-000051,APP-4042,Ribbed merino crew,apparel,1,9350,935,8415,true,0,0
+OL-2024-000095,ORD-2024-000052,HME-1535,Brushed cotton throw,home,1,8200,0,8200,true,0,0
+OL-2024-000096,ORD-2024-000052,APP-3458,Heavyweight jersey tee,apparel,1,5550,0,5550,true,0,0
+OL-2024-000097,ORD-2024-000053,HME-2648,Stoneware serving bowl,home,1,5445,0,5445,true,0,0
+OL-2024-000098,ORD-2024-000053,HME-4511,Oak desk tray,home,1,4900,245,4655,true,0,0
+OL-2024-000099,ORD-2024-000053,ACC-9809,Woven leather belt,accessories,1,1300,0,1300,true,0,0
+OL-2024-000100,ORD-2024-000054,FTW-4314,"Chelsea boot, waxed",footwear,1,4600,230,4370,true,0,0
+OL-2024-000101,ORD-2024-000054,APP-7536,Ribbed merino crew,apparel,1,4150,415,3735,true,0,0
+OL-2024-000102,ORD-2024-000054,HME-2051,Brushed cotton throw,home,1,3250,488,2762,true,0,0
+OL-2024-000103,ORD-2024-000055,ACC-7203,Merino beanie,accessories,1,4700,470,4230,true,0,0
+OL-2024-000104,ORD-2024-000056,HME-1657,"Ribbed glass tumbler, set of two",home,1,2100,105,1995,true,0,0
+OL-2024-000105,ORD-2024-000056,BTY-1937,Vetiver travel candle,beauty,1,3950,592,3358,true,1,3358
+OL-2024-000106,ORD-2024-000056,BTY-1961,Mineral bath soak,beauty,1,1245,0,1245,true,0,0
+OL-2024-000107,ORD-2024-000056,BTY-5069,Mineral bath soak,beauty,1,3850,0,3850,true,0,0
+OL-2024-000108,ORD-2024-000057,HME-5463,Stoneware serving bowl,home,1,4195,0,4195,true,0,0
+OL-2024-000109,ORD-2024-000058,ACC-8031,Woven leather belt,accessories,1,4500,450,4050,true,0,0
+OL-2024-000110,ORD-2024-000058,HME-1799,Brushed cotton throw,home,1,3250,325,2925,true,0,0
+OL-2024-000111,ORD-2024-000059,HME-9056,Brushed cotton throw,home,1,5000,0,5000,true,0,0
+OL-2024-000112,ORD-2024-000059,HME-8781,Stoneware serving bowl,home,1,3450,345,3105,true,0,0
+OL-2024-000113,ORD-2024-000060,GFT-2686,E-gift card,gift_card,1,2745,274,2471,false,0,0
+OL-2024-000114,ORD-2024-000061,BTY-1318,Cedar hand wash,beauty,1,1900,95,1805,true,0,0
+OL-2024-000115,ORD-2024-000061,ACC-2893,Woven leather belt,accessories,1,1700,85,1615,true,0,0
+OL-2024-000116,ORD-2024-000062,HME-8558,Oak desk tray,home,1,2300,230,2070,true,0,0
+OL-2024-000117,ORD-2024-000062,APP-7019,Pleated wool trouser,apparel,1,5400,810,4590,true,0,0
+OL-2024-000118,ORD-2024-000063,APP-7894,Washed cotton overshirt,apparel,1,9450,0,9450,true,0,0
+OL-2024-000119,ORD-2024-000063,APP-7959,Linen camp collar shirt,apparel,1,8750,0,8750,true,1,8750
+OL-2024-000120,ORD-2024-000064,HME-8150,Oak desk tray,home,1,5450,545,4905,true,0,0
+OL-2024-000121,ORD-2024-000064,HME-2946,Beeswax pillar candle,home,1,4600,0,4600,true,0,0
+OL-2024-000122,ORD-2024-000065,BTY-7544,Botanical face oil,beauty,1,4150,0,4150,true,0,0
+OL-2024-000123,ORD-2024-000066,ACC-5587,Merino beanie,accessories,1,2500,0,2500,true,0,0
+OL-2024-000124,ORD-2024-000066,BTY-8133,Botanical face oil,beauty,1,4650,232,4418,true,0,0
+OL-2024-000125,ORD-2024-000066,FTW-1624,"Walking sandal, moss",footwear,1,14100,0,14100,true,0,0
+OL-2024-000126,ORD-2024-000066,BTY-9562,Vetiver travel candle,beauty,1,3400,340,3060,true,0,0
+OL-2024-000127,ORD-2024-000067,HME-4147,"Ribbed glass tumbler, set of two",home,1,6595,0,6595,true,0,0
+OL-2024-000128,ORD-2024-000067,APP-8085,Ribbed merino crew,apparel,1,12300,0,12300,true,1,12300
+OL-2024-000129,ORD-2024-000068,APP-9291,Heavyweight jersey tee,apparel,1,4850,0,4850,true,0,0
+OL-2024-000130,ORD-2024-000068,BTY-6531,Rosehip body balm,beauty,1,4100,615,3485,true,0,0
+OL-2024-000131,ORD-2024-000069,APP-9378,Linen camp collar shirt,apparel,1,3600,0,3600,true,0,0
+OL-2024-000132,ORD-2024-000070,APP-5832,Washed cotton overshirt,apparel,1,9450,0,9450,true,1,9450
+OL-2024-000133,ORD-2024-000070,APP-7209,Washed cotton overshirt,apparel,1,8450,845,7605,true,0,0
+OL-2024-000134,ORD-2024-000070,APP-8637,Ribbed merino crew,apparel,1,8250,0,8250,true,0,0
+OL-2024-000135,ORD-2024-000071,APP-7798,Quilted patch jacket,apparel,1,11300,0,11300,true,1,11300
+OL-2024-000136,ORD-2024-000071,APP-2813,Ribbed merino crew,apparel,1,6250,312,5938,true,0,0
+OL-2024-000137,ORD-2024-000072,BTY-8926,Vetiver travel candle,beauty,1,3400,0,3400,true,0,0
+OL-2024-000138,ORD-2024-000072,APP-6634,Quilted patch jacket,apparel,1,11495,1150,10345,true,0,0
+OL-2024-000139,ORD-2024-000072,BTY-8473,Rosehip body balm,beauty,1,2000,200,1800,true,0,0
+OL-2024-000140,ORD-2024-000073,GFT-4234,E-gift card,gift_card,1,5050,0,5050,false,0,0
+OL-2024-000141,ORD-2024-000073,FTW-5112,"Leather derby, oak",footwear,1,14195,710,13485,true,0,0
+OL-2024-000142,ORD-2024-000074,APP-5247,Pleated wool trouser,apparel,1,5600,0,5600,true,1,5600
+OL-2024-000143,ORD-2024-000074,FTW-7641,"Walking sandal, moss",footwear,1,7800,390,7410,true,0,0
+OL-2024-000144,ORD-2024-000075,APP-8785,Linen camp collar shirt,apparel,1,10100,1010,9090,true,0,0
+OL-2024-000145,ORD-2024-000075,APP-8567,Linen camp collar shirt,apparel,1,9250,1850,7400,true,0,0
+OL-2024-000146,ORD-2024-000076,APP-8811,Ribbed merino crew,apparel,1,6600,1320,5280,true,0,0
+OL-2024-000147,ORD-2024-000076,APP-6451,Ribbed merino crew,apparel,1,11950,0,11950,true,0,0
+OL-2024-000148,ORD-2024-000077,APP-1912,Heavyweight jersey tee,apparel,1,5400,0,5400,true,1,5400
+OL-2024-000149,ORD-2024-000078,GFT-6976,E-gift card,gift_card,1,3500,0,3500,false,0,0
+OL-2024-000150,ORD-2024-000078,APP-5713,Linen camp collar shirt,apparel,1,11100,555,10545,true,0,0
+OL-2024-000151,ORD-2024-000078,FTW-1452,"Chelsea boot, waxed",footwear,1,10550,1582,8968,true,0,0
+OL-2024-000152,ORD-2024-000078,HME-4472,"Ribbed glass tumbler, set of two",home,1,7750,0,7750,true,0,0
+OL-2024-000153,ORD-2024-000079,HME-3869,Stoneware serving bowl,home,1,3700,370,3330,true,0,0
+OL-2024-000154,ORD-2024-000079,FTW-2247,"Walking sandal, moss",footwear,1,7250,362,6888,true,0,0
+OL-2024-000155,ORD-2024-000080,HME-9355,Stoneware serving bowl,home,1,4650,232,4418,true,0,0
+OL-2024-000156,ORD-2024-000080,BTY-3466,Botanical face oil,beauty,2,2600,0,5200,true,0,0
+OL-2024-000157,ORD-2024-000081,APP-7731,Quilted patch jacket,apparel,1,7600,0,7600,true,0,0
+OL-2024-000158,ORD-2024-000082,GFT-5777,Morrow & Finch gift card,gift_card,1,7050,0,7050,false,0,0
+OL-2024-000159,ORD-2024-000083,APP-2645,Linen camp collar shirt,apparel,1,5695,0,5695,true,0,0
+OL-2024-000160,ORD-2024-000083,APP-9364,Quilted patch jacket,apparel,1,9900,0,9900,true,0,0
+OL-2024-000161,ORD-2024-000084,FTW-7662,Canvas low trainer,footwear,1,7650,0,7650,true,0,0
+OL-2024-000162,ORD-2024-000084,HME-4650,Brushed cotton throw,home,2,7450,0,14900,true,0,0
+OL-2024-000163,ORD-2024-000085,HME-5096,Oak desk tray,home,1,6845,0,6845,true,0,0
+OL-2024-000164,ORD-2024-000085,FTW-4322,"Leather derby, oak",footwear,1,12300,1230,11070,true,0,0
+OL-2024-000165,ORD-2024-000085,APP-6809,Linen camp collar shirt,apparel,1,5150,258,4892,true,0,0
+OL-2024-000166,ORD-2024-000086,APP-7886,Washed cotton overshirt,apparel,1,7450,0,7450,true,0,0
+OL-2024-000167,ORD-2024-000087,HME-4067,Beeswax pillar candle,home,1,6750,0,6750,true,0,0
+OL-2024-000168,ORD-2024-000087,APP-3197,Washed cotton overshirt,apparel,1,4550,455,4095,true,0,0
+OL-2024-000169,ORD-2024-000087,APP-2568,Ribbed merino crew,apparel,1,11450,0,11450,true,0,0
+OL-2024-000170,ORD-2024-000088,HME-6107,Beeswax pillar candle,home,1,5295,0,5295,true,1,5295
+OL-2024-000171,ORD-2024-000089,ACC-9581,Linen pocket square,accessories,1,3850,0,3850,true,0,0
+OL-2024-000172,ORD-2024-000090,BTY-5937,Botanical face oil,beauty,2,2300,230,4370,true,1,2185
+OL-2024-000173,ORD-2024-000090,BTY-8982,Botanical face oil,beauty,1,4300,645,3655,true,0,0
+OL-2024-000174,ORD-2024-000091,FTW-7415,"Leather derby, oak",footwear,1,12050,0,12050,true,0,0
+OL-2024-000175,ORD-2024-000092,HME-9781,Brushed cotton throw,home,1,4100,0,4100,true,0,0
+OL-2024-000176,ORD-2024-000092,GFT-2691,E-gift card,gift_card,1,9800,0,9800,false,0,0
+OL-2024-000177,ORD-2024-000093,APP-5106,Linen camp collar shirt,apparel,1,4800,960,3840,true,0,0
+OL-2024-000178,ORD-2024-000093,FTW-8979,"Walking sandal, moss",footwear,1,9000,900,8100,true,0,0
+OL-2024-000179,ORD-2024-000094,ACC-6941,Linen pocket square,accessories,1,5100,510,4590,true,1,4590
+OL-2024-000180,ORD-2024-000094,APP-1369,Heavyweight jersey tee,apparel,1,7300,0,7300,true,0,0
+OL-2024-000181,ORD-2024-000095,HME-2551,"Ribbed glass tumbler, set of two",home,1,2750,0,2750,true,0,0
+OL-2024-000182,ORD-2024-000095,BTY-1582,Mineral bath soak,beauty,1,2150,0,2150,true,0,0
+OL-2024-000183,ORD-2024-000095,FTW-1723,"Walking sandal, moss",footwear,1,5400,0,5400,true,0,0
+OL-2024-000184,ORD-2024-000096,HME-5062,Brushed cotton throw,home,1,6750,0,6750,true,0,0
+OL-2024-000185,ORD-2024-000096,BTY-3131,Cedar hand wash,beauty,2,4700,0,9400,true,0,0
+OL-2024-000186,ORD-2024-000097,FTW-6406,"Leather derby, oak",footwear,1,12600,1260,11340,true,0,0
+OL-2024-000187,ORD-2024-000097,BTY-4892,Cedar hand wash,beauty,1,2150,215,1935,true,0,0
+OL-2024-000188,ORD-2024-000098,FTW-4354,"Leather derby, oak",footwear,1,13550,1355,12195,true,0,0
+OL-2024-000189,ORD-2024-000099,HME-6381,Stoneware serving bowl,home,1,7750,0,7750,true,0,0
+OL-2024-000190,ORD-2024-000100,APP-2286,Linen camp collar shirt,apparel,1,8550,0,8550,true,0,0
+OL-2024-000191,ORD-2024-000101,HME-3826,Stoneware serving bowl,home,1,2800,0,2800,true,0,0
+OL-2024-000192,ORD-2024-000101,APP-7468,Linen camp collar shirt,apparel,1,9850,492,9358,true,0,0
+OL-2024-000193,ORD-2024-000101,BTY-9317,Botanical face oil,beauty,2,1500,300,2700,true,0,0
+OL-2024-000194,ORD-2024-000102,APP-3464,Quilted patch jacket,apparel,1,12050,1205,10845,true,0,0
+OL-2024-000195,ORD-2024-000102,APP-9377,Linen camp collar shirt,apparel,1,6550,0,6550,true,0,0
+OL-2024-000196,ORD-2024-000103,FTW-9593,"Chelsea boot, waxed",footwear,1,9400,940,8460,true,0,0
+OL-2024-000197,ORD-2024-000104,HME-7214,Brushed cotton throw,home,1,8150,0,8150,true,0,0
+OL-2024-000198,ORD-2024-000104,BTY-6127,Vetiver travel candle,beauty,1,1350,0,1350,true,0,0
+OL-2024-000199,ORD-2024-000105,FTW-5155,Canvas low trainer,footwear,1,9100,0,9100,true,0,0
+OL-2024-000200,ORD-2024-000105,FTW-1417,"Chelsea boot, waxed",footwear,1,8400,420,7980,true,0,0
+OL-2024-000201,ORD-2024-000106,FTW-9263,"Leather derby, oak",footwear,1,15150,0,15150,true,0,0
+OL-2024-000202,ORD-2024-000106,HME-8719,Stoneware serving bowl,home,1,4700,235,4465,true,0,0
+OL-2024-000203,ORD-2024-000107,APP-8231,Ribbed merino crew,apparel,1,8800,0,8800,true,0,0
+OL-2024-000204,ORD-2024-000108,HME-7229,Oak desk tray,home,1,4500,0,4500,true,1,4500
+OL-2024-000205,ORD-2024-000108,FTW-7771,"Leather derby, oak",footwear,1,5445,272,5173,true,0,0
+OL-2024-000206,ORD-2024-000109,FTW-6936,"Chelsea boot, waxed",footwear,1,11300,565,10735,true,1,10735
+OL-2024-000207,ORD-2024-000109,BTY-4926,Cedar hand wash,beauty,1,4445,0,4445,true,0,0
+OL-2024-000208,ORD-2024-000110,APP-3205,Ribbed merino crew,apparel,1,11200,1680,9520,true,1,9520
+OL-2024-000209,ORD-2024-000110,APP-5194,Pleated wool trouser,apparel,1,11950,0,11950,true,1,11950
+OL-2024-000210,ORD-2024-000110,FTW-3675,Canvas low trainer,footwear,1,10700,0,10700,true,1,10700
+OL-2024-000211,ORD-2024-000111,ACC-1666,Merino beanie,accessories,1,2595,0,2595,true,0,0
+OL-2024-000212,ORD-2024-000111,APP-2325,Linen camp collar shirt,apparel,1,10100,0,10100,true,0,0
+OL-2024-000213,ORD-2024-000111,APP-9102,Washed cotton overshirt,apparel,1,9595,0,9595,true,0,0
+OL-2024-000214,ORD-2024-000112,ACC-4231,Brass key ring,accessories,1,4550,0,4550,true,0,0
+OL-2024-000215,ORD-2024-000112,APP-4952,Quilted patch jacket,apparel,1,9400,940,8460,true,0,0
+OL-2024-000216,ORD-2024-000113,GFT-7031,E-gift card,gift_card,1,3150,0,3150,false,0,0
+OL-2024-000217,ORD-2024-000113,APP-1307,Heavyweight jersey tee,apparel,1,11295,2824,8471,true,1,8471
+OL-2024-000218,ORD-2024-000113,APP-5799,Ribbed merino crew,apparel,1,10950,2190,8760,true,0,0
+OL-2024-000219,ORD-2024-000113,HME-8689,Brushed cotton throw,home,1,8000,800,7200,true,0,0
+OL-2024-000220,ORD-2024-000114,FTW-6320,Suede field shoe,footwear,1,13245,0,13245,true,1,13245
+OL-2024-000221,ORD-2024-000115,FTW-2258,"Walking sandal, moss",footwear,1,11945,0,11945,true,0,0
+OL-2024-000222,ORD-2024-000115,ACC-5282,Linen pocket square,accessories,1,6400,320,6080,true,0,0
+OL-2024-000223,ORD-2024-000116,FTW-9918,Suede field shoe,footwear,1,10850,0,10850,true,0,0
+OL-2024-000224,ORD-2024-000116,BTY-6884,Botanical face oil,beauty,1,4200,0,4200,true,0,0
+OL-2024-000225,ORD-2024-000116,BTY-9308,Cedar hand wash,beauty,1,4600,230,4370,true,0,0
+OL-2024-000226,ORD-2024-000116,BTY-1783,Rosehip body balm,beauty,1,2050,0,2050,true,0,0
+OL-2024-000227,ORD-2024-000117,ACC-1555,Linen pocket square,accessories,1,1400,0,1400,true,0,0
+OL-2024-000228,ORD-2024-000118,APP-8678,Pleated wool trouser,apparel,1,7300,0,7300,true,0,0
+OL-2024-000229,ORD-2024-000118,HME-6596,"Ribbed glass tumbler, set of two",home,1,5250,788,4462,true,1,4462
+OL-2024-000230,ORD-2024-000119,ACC-8054,Merino beanie,accessories,1,6395,320,6075,true,0,0
+OL-2024-000231,ORD-2024-000120,ACC-5900,Merino beanie,accessories,1,5850,292,5558,true,0,0
+OL-2024-000232,ORD-2024-000120,APP-3596,Ribbed merino crew,apparel,1,7350,368,6982,true,0,0
+OL-2024-000233,ORD-2024-000120,APP-1609,Linen camp collar shirt,apparel,1,10300,515,9785,true,0,0
+OL-2024-000234,ORD-2024-000121,HME-8604,Beeswax pillar candle,home,1,5945,0,5945,true,0,0
+OL-2024-000235,ORD-2024-000121,APP-6359,Quilted patch jacket,apparel,1,7995,1199,6796,true,0,0
+OL-2024-000236,ORD-2024-000122,FTW-8544,Suede field shoe,footwear,1,9250,0,9250,true,0,0
+OL-2024-000237,ORD-2024-000122,APP-4995,Washed cotton overshirt,apparel,1,8550,0,8550,true,1,8550
+OL-2024-000238,ORD-2024-000123,APP-4658,Heavyweight jersey tee,apparel,1,5850,0,5850,true,0,0
+OL-2024-000239,ORD-2024-000124,BTY-4392,Rosehip body balm,beauty,1,4650,698,3952,true,0,0
+OL-2024-000240,ORD-2024-000125,HME-6319,"Ribbed glass tumbler, set of two",home,1,6345,0,6345,true,0,0
+OL-2024-000241,ORD-2024-000125,APP-5784,Quilted patch jacket,apparel,1,9795,0,9795,true,0,0
+OL-2024-000242,ORD-2024-000126,APP-9095,Linen camp collar shirt,apparel,1,6900,345,6555,true,0,0
+OL-2024-000243,ORD-2024-000126,HME-7695,Beeswax pillar candle,home,1,5000,0,5000,true,1,5000
+OL-2024-000244,ORD-2024-000126,BTY-1180,Vetiver travel candle,beauty,2,2650,265,5035,true,0,0
+OL-2024-000245,ORD-2024-000127,HME-6198,Beeswax pillar candle,home,1,5600,1120,4480,true,0,0
+OL-2024-000246,ORD-2024-000127,APP-7221,Pleated wool trouser,apparel,1,10250,0,10250,true,0,0
+OL-2024-000247,ORD-2024-000127,FTW-8513,"Leather derby, oak",footwear,1,8800,0,8800,true,0,0
+OL-2024-000248,ORD-2024-000128,APP-8369,Quilted patch jacket,apparel,1,11450,1145,10305,true,0,0
+OL-2024-000249,ORD-2024-000128,FTW-5704,Suede field shoe,footwear,1,8700,0,8700,true,0,0
+OL-2024-000250,ORD-2024-000128,APP-2481,Pleated wool trouser,apparel,1,11950,1195,10755,true,0,0
+OL-2024-000251,ORD-2024-000129,FTW-2051,Suede field shoe,footwear,1,4500,450,4050,true,0,0
+OL-2024-000252,ORD-2024-000129,FTW-8759,"Leather derby, oak",footwear,1,14695,735,13960,true,0,0
+OL-2024-000253,ORD-2024-000129,APP-1598,Linen camp collar shirt,apparel,1,11850,1778,10072,true,0,0
+OL-2024-000254,ORD-2024-000130,HME-9381,Stoneware serving bowl,home,1,2950,0,2950,true,0,0
+OL-2024-000255,ORD-2024-000131,APP-9997,Quilted patch jacket,apparel,1,11700,1170,10530,true,0,0
+OL-2024-000256,ORD-2024-000131,HME-8678,Oak desk tray,home,1,3100,0,3100,true,0,0
+OL-2024-000257,ORD-2024-000131,APP-2710,Ribbed merino crew,apparel,1,5145,0,5145,true,0,0
+OL-2024-000258,ORD-2024-000131,FTW-4921,Suede field shoe,footwear,1,14295,0,14295,true,0,0
+OL-2024-000259,ORD-2024-000132,APP-1122,Washed cotton overshirt,apparel,1,10400,0,10400,true,0,0
+OL-2024-000260,ORD-2024-000132,APP-6589,Linen camp collar shirt,apparel,1,9700,970,8730,true,0,0
+OL-2024-000261,ORD-2024-000133,BTY-9631,Rosehip body balm,beauty,1,4400,0,4400,true,0,0
+OL-2024-000262,ORD-2024-000134,FTW-3980,Suede field shoe,footwear,1,9895,495,9400,true,0,0
+OL-2024-000263,ORD-2024-000134,APP-6798,Washed cotton overshirt,apparel,1,6950,348,6602,true,0,0
+OL-2024-000264,ORD-2024-000135,APP-6573,Linen camp collar shirt,apparel,1,8400,1260,7140,true,0,0
+OL-2024-000265,ORD-2024-000135,BTY-6712,Botanical face oil,beauty,1,3450,518,2932,true,0,0
+OL-2024-000266,ORD-2024-000135,FTW-8066,Canvas low trainer,footwear,1,4750,0,4750,true,0,0
+OL-2024-000267,ORD-2024-000136,APP-4224,Washed cotton overshirt,apparel,1,10350,0,10350,true,1,10350
+OL-2024-000268,ORD-2024-000136,FTW-9774,Canvas low trainer,footwear,1,13595,0,13595,true,1,13595
+OL-2024-000269,ORD-2024-000137,BTY-2374,Botanical face oil,beauty,1,2745,0,2745,true,0,0
+OL-2024-000270,ORD-2024-000137,APP-9490,Quilted patch jacket,apparel,1,11095,0,11095,true,0,0
+OL-2024-000271,ORD-2024-000137,BTY-8647,Rosehip body balm,beauty,2,2900,580,5220,true,0,0
+OL-2024-000272,ORD-2024-000138,ACC-5749,Linen pocket square,accessories,1,4300,0,4300,true,0,0
+OL-2024-000273,ORD-2024-000138,FTW-1323,Canvas low trainer,footwear,1,13250,0,13250,true,0,0
+OL-2024-000274,ORD-2024-000138,APP-4304,Pleated wool trouser,apparel,1,8200,0,8200,true,0,0
+OL-2024-000275,ORD-2024-000139,APP-6155,Pleated wool trouser,apparel,1,5650,0,5650,true,0,0
+OL-2024-000276,ORD-2024-000139,BTY-7404,Vetiver travel candle,beauty,2,4795,0,9590,true,0,0
+OL-2024-000277,ORD-2024-000140,FTW-4260,Canvas low trainer,footwear,1,6450,0,6450,true,0,0
+OL-2024-000278,ORD-2024-000140,FTW-2689,"Walking sandal, moss",footwear,1,13045,0,13045,true,1,13045
+OL-2024-000279,ORD-2024-000141,FTW-1011,"Leather derby, oak",footwear,1,7100,355,6745,true,1,6745
+OL-2024-000280,ORD-2024-000141,APP-8468,Heavyweight jersey tee,apparel,1,6200,620,5580,true,0,0
+OL-2024-000281,ORD-2024-000142,HME-3246,Oak desk tray,home,1,6200,310,5890,true,0,0
+OL-2024-000282,ORD-2024-000142,APP-8600,Heavyweight jersey tee,apparel,1,11095,1110,9985,true,0,0
+OL-2024-000283,ORD-2024-000143,FTW-6093,"Walking sandal, moss",footwear,1,11200,0,11200,true,0,0
+OL-2024-000284,ORD-2024-000144,BTY-6226,Vetiver travel candle,beauty,2,2300,0,4600,true,0,0
+OL-2024-000285,ORD-2024-000144,APP-7626,Heavyweight jersey tee,apparel,1,4000,600,3400,true,1,3400
+OL-2024-000286,ORD-2024-000145,BTY-4681,Vetiver travel candle,beauty,2,3400,1020,5780,true,0,0
+OL-2024-000287,ORD-2024-000146,APP-7150,Heavyweight jersey tee,apparel,1,4000,0,4000,true,0,0
+OL-2024-000288,ORD-2024-000146,HME-7964,"Ribbed glass tumbler, set of two",home,1,3045,457,2588,true,1,2588
+OL-2024-000289,ORD-2024-000147,BTY-4232,Vetiver travel candle,beauty,2,3100,0,6200,true,0,0
+OL-2024-000290,ORD-2024-000147,HME-6249,"Ribbed glass tumbler, set of two",home,1,7395,0,7395,true,0,0
+OL-2024-000291,ORD-2024-000148,APP-4913,Linen camp collar shirt,apparel,1,10400,1040,9360,true,0,0
+OL-2024-000292,ORD-2024-000149,BTY-7737,Cedar hand wash,beauty,1,2750,0,2750,true,0,0
+OL-2024-000293,ORD-2024-000150,APP-4812,Pleated wool trouser,apparel,1,6900,690,6210,true,0,0
+OL-2024-000294,ORD-2024-000151,APP-6936,Ribbed merino crew,apparel,1,9745,0,9745,true,0,0
+OL-2024-000295,ORD-2024-000151,APP-9524,Heavyweight jersey tee,apparel,1,8300,0,8300,true,0,0
+OL-2024-000296,ORD-2024-000152,HME-9677,Stoneware serving bowl,home,1,4850,0,4850,true,0,0
+OL-2024-000297,ORD-2024-000152,GFT-5444,Morrow & Finch gift card,gift_card,1,4850,0,4850,false,0,0
+OL-2024-000298,ORD-2024-000153,FTW-2913,"Leather derby, oak",footwear,1,12300,0,12300,true,0,0
+OL-2024-000299,ORD-2024-000154,BTY-9747,Cedar hand wash,beauty,2,1150,345,1955,true,0,0
+OL-2024-000300,ORD-2024-000155,FTW-6032,"Walking sandal, moss",footwear,1,13200,660,12540,true,0,0
+OL-2024-000301,ORD-2024-000156,APP-7687,Quilted patch jacket,apparel,1,6400,320,6080,true,0,0
+OL-2024-000302,ORD-2024-000157,APP-8084,Ribbed merino crew,apparel,1,5800,0,5800,true,1,5800
+OL-2024-000303,ORD-2024-000158,APP-3594,Ribbed merino crew,apparel,1,8900,1335,7565,true,0,0
+OL-2024-000304,ORD-2024-000158,FTW-5613,"Walking sandal, moss",footwear,1,10350,0,10350,true,0,0
+OL-2024-000305,ORD-2024-000158,HME-3736,"Ribbed glass tumbler, set of two",home,1,4450,0,4450,true,0,0
+OL-2024-000306,ORD-2024-000159,ACC-4698,Waxed canvas pouch,accessories,1,2400,0,2400,true,1,2400
+OL-2024-000307,ORD-2024-000160,APP-9309,Ribbed merino crew,apparel,1,9945,1492,8453,true,0,0
+OL-2024-000308,ORD-2024-000160,FTW-7295,Suede field shoe,footwear,1,10450,0,10450,true,0,0
+OL-2024-000309,ORD-2024-000161,BTY-2084,Vetiver travel candle,beauty,1,3250,0,3250,true,0,0
+OL-2024-000310,ORD-2024-000161,APP-3430,Ribbed merino crew,apparel,1,5495,275,5220,true,0,0
+OL-2024-000311,ORD-2024-000162,APP-2257,Quilted patch jacket,apparel,1,11700,0,11700,true,0,0
+OL-2024-000312,ORD-2024-000162,FTW-1910,"Walking sandal, moss",footwear,1,12000,1200,10800,true,0,0
+OL-2024-000313,ORD-2024-000163,APP-4332,Quilted patch jacket,apparel,1,4700,705,3995,true,0,0
+OL-2024-000314,ORD-2024-000163,ACC-2017,Woven leather belt,accessories,1,3900,0,3900,true,0,0
+OL-2024-000315,ORD-2024-000163,APP-9629,Heavyweight jersey tee,apparel,1,7850,392,7458,true,1,7458
+OL-2024-000316,ORD-2024-000164,APP-1895,Pleated wool trouser,apparel,1,5250,0,5250,true,0,0
+OL-2024-000317,ORD-2024-000165,APP-4872,Linen camp collar shirt,apparel,1,10350,0,10350,true,0,0
+OL-2024-000318,ORD-2024-000165,BTY-5355,Botanical face oil,beauty,1,1400,140,1260,true,0,0
+OL-2024-000319,ORD-2024-000166,HME-3618,Beeswax pillar candle,home,1,7645,0,7645,true,0,0
+OL-2024-000320,ORD-2024-000166,APP-2336,Washed cotton overshirt,apparel,1,3845,0,3845,true,1,3845
+OL-2024-000321,ORD-2024-000167,BTY-3935,Mineral bath soak,beauty,1,3950,0,3950,true,0,0
+OL-2024-000322,ORD-2024-000167,FTW-2364,Suede field shoe,footwear,1,13050,0,13050,true,0,0
+OL-2024-000323,ORD-2024-000167,APP-9918,Pleated wool trouser,apparel,1,6000,0,6000,true,0,0
+OL-2024-000324,ORD-2024-000168,GFT-2607,E-gift card,gift_card,1,5750,862,4888,false,0,0
+OL-2024-000325,ORD-2024-000168,APP-5756,Quilted patch jacket,apparel,1,4750,950,3800,true,0,0
+OL-2024-000326,ORD-2024-000168,HME-9277,Brushed cotton throw,home,1,8145,0,8145,true,0,0
+OL-2024-000327,ORD-2024-000169,HME-1195,Brushed cotton throw,home,2,7750,0,15500,true,0,0
+OL-2024-000328,ORD-2024-000170,ACC-8007,Waxed canvas pouch,accessories,1,1350,135,1215,true,0,0
+OL-2024-000329,ORD-2024-000170,HME-2136,Oak desk tray,home,1,7950,0,7950,true,0,0
+OL-2024-000330,ORD-2024-000171,HME-4198,Beeswax pillar candle,home,2,3550,710,6390,true,1,3195
+OL-2024-000331,ORD-2024-000171,BTY-6771,Rosehip body balm,beauty,2,4000,1600,6400,true,0,0
+OL-2024-000332,ORD-2024-000172,BTY-8172,Vetiver travel candle,beauty,1,2300,345,1955,true,0,0
+OL-2024-000333,ORD-2024-000172,HME-7847,Beeswax pillar candle,home,1,7900,0,7900,true,0,0
+OL-2024-000334,ORD-2024-000173,BTY-9948,Botanical face oil,beauty,1,3300,165,3135,true,0,0
+OL-2024-000335,ORD-2024-000174,HME-7383,Beeswax pillar candle,home,1,8245,824,7421,true,0,0
+OL-2024-000336,ORD-2024-000174,BTY-6296,Rosehip body balm,beauty,1,950,0,950,true,0,0
+OL-2024-000337,ORD-2024-000174,FTW-5348,"Walking sandal, moss",footwear,1,5000,0,5000,true,0,0
+OL-2024-000338,ORD-2024-000175,HME-7778,"Ribbed glass tumbler, set of two",home,1,2750,138,2612,true,0,0
+OL-2024-000339,ORD-2024-000175,FTW-7565,Suede field shoe,footwear,1,13400,0,13400,true,0,0
+OL-2024-000340,ORD-2024-000176,APP-1996,Washed cotton overshirt,apparel,1,11100,1110,9990,true,0,0
+OL-2024-000341,ORD-2024-000177,ACC-1550,Brass key ring,accessories,1,2000,300,1700,true,0,0
+OL-2024-000342,ORD-2024-000177,APP-6885,Ribbed merino crew,apparel,1,9595,0,9595,true,0,0
+OL-2024-000343,ORD-2024-000177,APP-7249,Quilted patch jacket,apparel,1,9345,0,9345,true,0,0
+OL-2024-000344,ORD-2024-000178,APP-5037,Pleated wool trouser,apparel,1,12145,2429,9716,true,0,0
+OL-2024-000345,ORD-2024-000179,APP-4183,Heavyweight jersey tee,apparel,1,10050,1005,9045,true,0,0
+OL-2024-000346,ORD-2024-000179,APP-9590,Heavyweight jersey tee,apparel,1,5000,0,5000,true,0,0
+OL-2024-000347,ORD-2024-000180,HME-8834,Beeswax pillar candle,home,1,4050,405,3645,true,0,0
+OL-2024-000348,ORD-2024-000180,ACC-2340,Waxed canvas pouch,accessories,1,6050,0,6050,true,0,0
+OL-2024-000349,ORD-2024-000181,ACC-9174,Woven leather belt,accessories,1,5150,0,5150,true,0,0
+OL-2024-000350,ORD-2024-000181,APP-1931,Heavyweight jersey tee,apparel,1,8800,0,8800,true,0,0
+OL-2024-000351,ORD-2024-000181,APP-1420,Pleated wool trouser,apparel,1,10145,507,9638,true,0,0
+OL-2024-000352,ORD-2024-000182,APP-2708,Pleated wool trouser,apparel,1,3645,0,3645,true,0,0
+OL-2024-000353,ORD-2024-000182,APP-8508,Heavyweight jersey tee,apparel,1,10850,0,10850,true,0,0
+OL-2024-000354,ORD-2024-000183,BTY-5855,Cedar hand wash,beauty,1,2045,204,1841,true,0,0
+OL-2024-000355,ORD-2024-000183,APP-4547,Pleated wool trouser,apparel,1,9150,915,8235,true,0,0
+OL-2024-000356,ORD-2024-000183,BTY-4642,Vetiver travel candle,beauty,1,2600,390,2210,true,0,0
+OL-2024-000357,ORD-2024-000184,BTY-5182,Botanical face oil,beauty,1,1250,0,1250,true,0,0
+OL-2024-000358,ORD-2024-000185,APP-4714,Quilted patch jacket,apparel,1,6350,635,5715,true,0,0
+OL-2024-000359,ORD-2024-000185,APP-1472,Ribbed merino crew,apparel,1,12000,600,11400,true,0,0
+OL-2024-000360,ORD-2024-000185,APP-9362,Washed cotton overshirt,apparel,1,5100,255,4845,true,0,0
+OL-2024-000361,ORD-2024-000186,GFT-7053,E-gift card,gift_card,1,4300,0,4300,false,0,0
+OL-2024-000362,ORD-2024-000187,GFT-3685,Morrow & Finch gift card,gift_card,1,9750,0,9750,false,0,0
+OL-2024-000363,ORD-2024-000187,ACC-8723,Merino beanie,accessories,1,6550,328,6222,true,0,0
+OL-2024-000364,ORD-2024-000188,APP-7242,Linen camp collar shirt,apparel,1,9250,0,9250,true,0,0
+OL-2024-000365,ORD-2024-000188,APP-9536,Pleated wool trouser,apparel,1,4545,0,4545,true,0,0
+OL-2024-000366,ORD-2024-000189,BTY-6185,Vetiver travel candle,beauty,1,4400,0,4400,true,0,0
+OL-2024-000367,ORD-2024-000190,APP-3051,Washed cotton overshirt,apparel,1,8045,0,8045,true,0,0
+OL-2024-000368,ORD-2024-000190,HME-1160,Oak desk tray,home,1,6950,1042,5908,true,0,0
+OL-2024-000369,ORD-2024-000191,FTW-2777,"Walking sandal, moss",footwear,1,5750,288,5462,true,0,0
+OL-2024-000370,ORD-2024-000191,FTW-7655,"Leather derby, oak",footwear,1,14700,735,13965,true,0,0
+OL-2024-000371,ORD-2024-000191,FTW-2427,Suede field shoe,footwear,1,6300,630,5670,true,0,0
+OL-2024-000372,ORD-2024-000192,FTW-1313,"Chelsea boot, waxed",footwear,1,13600,0,13600,true,0,0
+OL-2024-000373,ORD-2024-000193,APP-9313,Heavyweight jersey tee,apparel,1,6850,0,6850,true,0,0
+OL-2024-000374,ORD-2024-000193,FTW-9434,"Chelsea boot, waxed",footwear,1,8850,0,8850,true,0,0
+OL-2024-000375,ORD-2024-000193,FTW-9023,"Walking sandal, moss",footwear,1,10695,0,10695,true,0,0
+OL-2024-000376,ORD-2024-000194,APP-1860,Washed cotton overshirt,apparel,1,6250,625,5625,true,1,5625
+OL-2024-000377,ORD-2024-000194,APP-9689,Linen camp collar shirt,apparel,1,8450,422,8028,true,0,0
+OL-2024-000378,ORD-2024-000195,APP-9259,Pleated wool trouser,apparel,1,7800,0,7800,true,0,0
+OL-2024-000379,ORD-2024-000195,APP-7073,Quilted patch jacket,apparel,1,9900,0,9900,true,0,0
+OL-2024-000380,ORD-2024-000195,APP-6612,Quilted patch jacket,apparel,1,4350,652,3698,true,0,0
+OL-2024-000381,ORD-2024-000196,APP-5154,Quilted patch jacket,apparel,1,10495,0,10495,true,0,0
+OL-2024-000382,ORD-2024-000196,FTW-4971,Canvas low trainer,footwear,1,15495,0,15495,true,0,0
+OL-2024-000383,ORD-2024-000196,APP-3357,Washed cotton overshirt,apparel,1,8500,0,8500,true,0,0
+OL-2024-000384,ORD-2024-000196,APP-8445,Quilted patch jacket,apparel,1,8050,0,8050,true,0,0
+OL-2024-000385,ORD-2024-000197,APP-4048,Linen camp collar shirt,apparel,1,9400,0,9400,true,0,0
+OL-2024-000386,ORD-2024-000197,ACC-7734,Waxed canvas pouch,accessories,1,6450,645,5805,true,0,0
+OL-2024-000387,ORD-2024-000198,APP-9436,Washed cotton overshirt,apparel,1,4950,495,4455,true,0,0
+OL-2024-000388,ORD-2024-000198,FTW-1143,"Chelsea boot, waxed",footwear,1,11800,590,11210,true,0,0
+OL-2024-000389,ORD-2024-000199,BTY-6250,Botanical face oil,beauty,1,1700,255,1445,true,0,0
+OL-2024-000390,ORD-2024-000200,BTY-3502,Vetiver travel candle,beauty,1,4795,240,4555,true,0,0
+OL-2024-000391,ORD-2024-000200,APP-4632,Ribbed merino crew,apparel,1,7550,378,7172,true,0,0
+OL-2024-000392,ORD-2024-000200,BTY-3060,Vetiver travel candle,beauty,1,4245,212,4033,true,0,0
+OL-2024-000393,ORD-2024-000201,BTY-6869,Cedar hand wash,beauty,1,4250,638,3612,true,0,0
+OL-2024-000394,ORD-2024-000202,HME-2801,Stoneware serving bowl,home,1,3400,0,3400,true,0,0
+OL-2024-000395,ORD-2024-000202,FTW-8023,Canvas low trainer,footwear,1,12045,0,12045,true,0,0
+OL-2024-000396,ORD-2024-000203,FTW-8756,Suede field shoe,footwear,1,15400,1540,13860,true,0,0
+OL-2024-000397,ORD-2024-000203,HME-8893,Oak desk tray,home,1,8350,1252,7098,true,0,0
+OL-2024-000398,ORD-2024-000203,HME-7751,Stoneware serving bowl,home,1,8400,0,8400,true,0,0
+OL-2024-000399,ORD-2024-000204,HME-1708,Stoneware serving bowl,home,1,2900,0,2900,true,0,0
+OL-2024-000400,ORD-2024-000205,APP-6675,Heavyweight jersey tee,apparel,1,3500,175,3325,true,0,0
+OL-2024-000401,ORD-2024-000205,ACC-4302,Brass key ring,accessories,1,5550,278,5272,true,0,0
+OL-2024-000402,ORD-2024-000206,FTW-7862,Canvas low trainer,footwear,1,12400,620,11780,true,0,0
+OL-2024-000403,ORD-2024-000206,ACC-5128,Waxed canvas pouch,accessories,1,5750,288,5462,true,0,0
+OL-2024-000404,ORD-2024-000207,FTW-6998,Suede field shoe,footwear,1,7100,0,7100,true,0,0
+OL-2024-000405,ORD-2024-000208,APP-3300,Pleated wool trouser,apparel,1,7000,700,6300,true,0,0
+OL-2024-000406,ORD-2024-000208,FTW-3821,Suede field shoe,footwear,1,8200,0,8200,true,0,0
+OL-2024-000407,ORD-2024-000208,FTW-6058,"Walking sandal, moss",footwear,1,4650,0,4650,true,0,0
+OL-2024-000408,ORD-2024-000209,FTW-6962,"Leather derby, oak",footwear,1,7900,0,7900,true,0,0
+OL-2024-000409,ORD-2024-000210,ACC-8559,Merino beanie,accessories,1,3150,0,3150,true,1,3150
+OL-2024-000410,ORD-2024-000211,FTW-4127,"Walking sandal, moss",footwear,1,13600,1360,12240,true,1,12240
+OL-2024-000411,ORD-2024-000212,ACC-1498,Linen pocket square,accessories,1,5850,0,5850,true,0,0
+OL-2024-000412,ORD-2024-000212,HME-1580,Stoneware serving bowl,home,1,4450,0,4450,true,0,0
+OL-2024-000413,ORD-2024-000212,BTY-5820,Rosehip body balm,beauty,1,2100,315,1785,true,0,0
+OL-2024-000414,ORD-2024-000213,FTW-6175,"Walking sandal, moss",footwear,1,4900,490,4410,true,0,0
+OL-2024-000415,ORD-2024-000213,HME-4281,Oak desk tray,home,1,3350,0,3350,true,0,0
+OL-2024-000416,ORD-2024-000214,APP-4960,Heavyweight jersey tee,apparel,1,11800,0,11800,true,1,11800
+OL-2024-000417,ORD-2024-000215,FTW-3019,Suede field shoe,footwear,1,10745,0,10745,true,0,0
+OL-2024-000418,ORD-2024-000215,HME-2253,Beeswax pillar candle,home,1,7050,1058,5992,true,0,0
+OL-2024-000419,ORD-2024-000215,APP-7416,Linen camp collar shirt,apparel,1,4545,0,4545,true,0,0
+OL-2024-000420,ORD-2024-000216,APP-8130,Ribbed merino crew,apparel,1,6645,0,6645,true,0,0
+OL-2024-000421,ORD-2024-000216,APP-6113,Linen camp collar shirt,apparel,1,9750,975,8775,true,0,0
+OL-2024-000422,ORD-2024-000217,FTW-7481,"Chelsea boot, waxed",footwear,1,4600,1150,3450,true,0,0
+OL-2024-000423,ORD-2024-000217,APP-5239,Linen camp collar shirt,apparel,1,10500,0,10500,true,0,0
+OL-2024-000424,ORD-2024-000218,APP-3402,Pleated wool trouser,apparel,1,7650,0,7650,true,1,7650
+OL-2024-000425,ORD-2024-000218,APP-9130,Washed cotton overshirt,apparel,1,7400,0,7400,true,1,7400
+OL-2024-000426,ORD-2024-000219,GFT-4144,E-gift card,gift_card,1,7150,0,7150,false,0,0
+OL-2024-000427,ORD-2024-000219,APP-6630,Ribbed merino crew,apparel,1,6645,0,6645,true,0,0
+OL-2024-000428,ORD-2024-000220,BTY-3162,Botanical face oil,beauty,1,4500,450,4050,true,1,4050
+OL-2024-000429,ORD-2024-000221,ACC-1048,Merino beanie,accessories,1,2295,115,2180,true,1,2180
+OL-2024-000430,ORD-2024-000222,FTW-2250,Suede field shoe,footwear,1,12600,1890,10710,true,0,0
+OL-2024-000431,ORD-2024-000223,HME-6026,Oak desk tray,home,1,6350,0,6350,true,0,0
+OL-2024-000432,ORD-2024-000224,APP-2655,Ribbed merino crew,apparel,1,11500,0,11500,true,0,0
+OL-2024-000433,ORD-2024-000224,APP-3689,Quilted patch jacket,apparel,1,9650,0,9650,true,0,0
+OL-2024-000434,ORD-2024-000225,FTW-2743,"Leather derby, oak",footwear,1,7295,0,7295,true,0,0
+OL-2024-000435,ORD-2024-000225,FTW-8261,Canvas low trainer,footwear,1,13445,0,13445,true,0,0
+OL-2024-000436,ORD-2024-000226,APP-9107,Washed cotton overshirt,apparel,1,10350,0,10350,true,0,0
+OL-2024-000437,ORD-2024-000226,FTW-9312,"Leather derby, oak",footwear,1,11745,0,11745,true,0,0
+OL-2024-000438,ORD-2024-000226,HME-9079,"Ribbed glass tumbler, set of two",home,1,2000,0,2000,true,0,0
+OL-2024-000439,ORD-2024-000227,FTW-9391,"Chelsea boot, waxed",footwear,1,5050,505,4545,true,0,0
+OL-2024-000440,ORD-2024-000227,HME-9655,Stoneware serving bowl,home,1,4900,0,4900,true,0,0
+OL-2024-000441,ORD-2024-000227,APP-6052,Washed cotton overshirt,apparel,1,11100,555,10545,true,0,0
+OL-2024-000442,ORD-2024-000228,FTW-8770,Suede field shoe,footwear,1,12245,1224,11021,true,0,0
+OL-2024-000443,ORD-2024-000228,BTY-8435,Cedar hand wash,beauty,1,3895,0,3895,true,0,0
+OL-2024-000444,ORD-2024-000229,BTY-2060,Vetiver travel candle,beauty,1,3650,0,3650,true,1,3650
+OL-2024-000445,ORD-2024-000230,ACC-7907,Brass key ring,accessories,1,3850,0,3850,true,1,3850
+OL-2024-000446,ORD-2024-000230,HME-2026,Oak desk tray,home,1,8100,810,7290,true,0,0
+OL-2024-000447,ORD-2024-000231,ACC-5187,Linen pocket square,accessories,1,5995,0,5995,true,0,0
+OL-2024-000448,ORD-2024-000231,APP-3033,Quilted patch jacket,apparel,1,5750,575,5175,true,0,0
+OL-2024-000449,ORD-2024-000231,ACC-4947,Brass key ring,accessories,1,5650,0,5650,true,0,0
+OL-2024-000450,ORD-2024-000231,GFT-3787,E-gift card,gift_card,1,9950,1492,8458,false,0,0
+OL-2024-000451,ORD-2024-000232,HME-4180,Stoneware serving bowl,home,1,3600,0,3600,true,0,0
+OL-2024-000452,ORD-2024-000232,APP-9290,Linen camp collar shirt,apparel,1,7650,765,6885,true,0,0
+OL-2024-000453,ORD-2024-000233,ACC-6074,Linen pocket square,accessories,1,1350,0,1350,true,0,0
+OL-2024-000454,ORD-2024-000233,APP-2352,Heavyweight jersey tee,apparel,1,7795,390,7405,true,0,0
+OL-2024-000455,ORD-2024-000234,APP-7962,Heavyweight jersey tee,apparel,1,10150,1015,9135,true,0,0
+OL-2024-000456,ORD-2024-000235,APP-4974,Washed cotton overshirt,apparel,1,9095,1364,7731,true,0,0
+OL-2024-000457,ORD-2024-000235,APP-1563,Pleated wool trouser,apparel,1,8650,432,8218,true,0,0
+OL-2024-000458,ORD-2024-000236,ACC-4696,Merino beanie,accessories,1,2700,270,2430,true,0,0
+OL-2024-000459,ORD-2024-000236,APP-4864,Washed cotton overshirt,apparel,1,10550,0,10550,true,0,0
+OL-2024-000460,ORD-2024-000237,FTW-3344,"Walking sandal, moss",footwear,1,13900,695,13205,true,0,0
+OL-2024-000461,ORD-2024-000238,HME-6814,Stoneware serving bowl,home,1,4400,0,4400,true,0,0
+OL-2024-000462,ORD-2024-000238,APP-1515,Heavyweight jersey tee,apparel,1,4700,0,4700,true,0,0
+OL-2024-000463,ORD-2024-000238,APP-9771,Quilted patch jacket,apparel,1,7150,0,7150,true,0,0
+OL-2024-000464,ORD-2024-000239,FTW-4739,Canvas low trainer,footwear,1,10645,0,10645,true,1,10645
+OL-2024-000465,ORD-2024-000239,BTY-4213,Cedar hand wash,beauty,1,2100,0,2100,true,1,2100
+OL-2024-000466,ORD-2024-000240,APP-6500,Quilted patch jacket,apparel,1,8300,415,7885,true,0,0
+OL-2024-000467,ORD-2024-000240,HME-4185,Brushed cotton throw,home,1,6000,0,6000,true,0,0
+OL-2024-000468,ORD-2024-000241,FTW-1041,"Walking sandal, moss",footwear,1,12150,0,12150,true,1,12150
+OL-2024-000469,ORD-2024-000242,FTW-7088,Suede field shoe,footwear,1,8950,0,8950,true,0,0
+OL-2024-000470,ORD-2024-000243,BTY-4856,Botanical face oil,beauty,1,2645,0,2645,true,0,0
+OL-2024-000471,ORD-2024-000243,HME-2129,"Ribbed glass tumbler, set of two",home,1,1950,0,1950,true,0,0
+OL-2024-000472,ORD-2024-000244,APP-2973,Pleated wool trouser,apparel,1,11550,1732,9818,true,0,0
+OL-2024-000473,ORD-2024-000244,FTW-2996,"Walking sandal, moss",footwear,1,6700,335,6365,true,0,0
+OL-2024-000474,ORD-2024-000245,HME-5150,Oak desk tray,home,1,5050,0,5050,true,0,0
+OL-2024-000475,ORD-2024-000245,HME-1557,Beeswax pillar candle,home,1,4395,0,4395,true,0,0
+OL-2024-000476,ORD-2024-000246,ACC-9662,Linen pocket square,accessories,1,2445,489,1956,true,0,0
+OL-2024-000477,ORD-2024-000246,APP-8082,Quilted patch jacket,apparel,1,7950,795,7155,true,0,0
+OL-2024-000478,ORD-2024-000247,FTW-1888,Canvas low trainer,footwear,1,13550,0,13550,true,0,0
+OL-2024-000479,ORD-2024-000247,GFT-8747,E-gift card,gift_card,1,8150,0,8150,false,0,0
+OL-2024-000480,ORD-2024-000248,ACC-1557,Woven leather belt,accessories,1,4100,410,3690,true,0,0
+OL-2024-000481,ORD-2024-000249,BTY-8262,Mineral bath soak,beauty,1,4500,0,4500,true,0,0
+OL-2024-000482,ORD-2024-000250,FTW-7730,Suede field shoe,footwear,1,11600,0,11600,true,0,0
+OL-2024-000483,ORD-2024-000250,APP-6159,Quilted patch jacket,apparel,1,11050,1105,9945,true,0,0
+OL-2024-000484,ORD-2024-000251,FTW-2764,Suede field shoe,footwear,1,10600,1060,9540,true,0,0
+OL-2024-000485,ORD-2024-000252,BTY-5751,Rosehip body balm,beauty,1,4350,0,4350,true,0,0
+OL-2024-000486,ORD-2024-000252,APP-7937,Linen camp collar shirt,apparel,1,5050,0,5050,true,0,0
+OL-2024-000487,ORD-2024-000253,HME-9752,Stoneware serving bowl,home,1,5650,282,5368,true,1,5368
+OL-2024-000488,ORD-2024-000254,HME-8357,Brushed cotton throw,home,1,7100,0,7100,true,1,7100
+OL-2024-000489,ORD-2024-000254,ACC-7814,Linen pocket square,accessories,1,1350,202,1148,true,0,0
+OL-2024-000490,ORD-2024-000255,FTW-8342,"Leather derby, oak",footwear,1,11250,0,11250,true,0,0
+OL-2024-000491,ORD-2024-000255,GFT-9002,Morrow & Finch gift card,gift_card,1,2800,0,2800,false,0,0
+OL-2024-000492,ORD-2024-000256,HME-9293,"Ribbed glass tumbler, set of two",home,1,5700,570,5130,true,0,0
+OL-2024-000493,ORD-2024-000257,ACC-8694,Linen pocket square,accessories,1,5500,825,4675,true,0,0
+OL-2024-000494,ORD-2024-000258,HME-6878,Oak desk tray,home,1,7500,0,7500,true,0,0
+OL-2024-000495,ORD-2024-000258,BTY-7405,Vetiver travel candle,beauty,1,1350,0,1350,true,0,0
+OL-2024-000496,ORD-2024-000258,APP-1829,Ribbed merino crew,apparel,1,10500,0,10500,true,0,0
+OL-2024-000497,ORD-2024-000259,BTY-2076,Botanical face oil,beauty,1,1450,145,1305,true,0,0
+OL-2024-000498,ORD-2024-000260,APP-5648,Pleated wool trouser,apparel,1,5895,590,5305,true,1,5305
+OL-2024-000499,ORD-2024-000261,ACC-1279,Merino beanie,accessories,1,3900,195,3705,true,0,0
+OL-2024-000500,ORD-2024-000261,APP-8613,Ribbed merino crew,apparel,1,4200,0,4200,true,0,0
+OL-2024-000501,ORD-2024-000261,FTW-8426,"Walking sandal, moss",footwear,1,11850,1778,10072,true,0,0
+OL-2024-000502,ORD-2024-000261,APP-3960,Heavyweight jersey tee,apparel,1,9200,0,9200,true,0,0
+OL-2024-000503,ORD-2024-000262,APP-2178,Washed cotton overshirt,apparel,1,5950,0,5950,true,1,5950
+OL-2024-000504,ORD-2024-000262,APP-2889,Ribbed merino crew,apparel,1,5100,1020,4080,true,1,4080
+OL-2024-000505,ORD-2024-000262,BTY-2666,Rosehip body balm,beauty,1,3800,0,3800,true,1,3800
+OL-2024-000506,ORD-2024-000263,APP-6106,Heavyweight jersey tee,apparel,1,8050,805,7245,true,0,0
+OL-2024-000507,ORD-2024-000263,APP-9123,Pleated wool trouser,apparel,1,7050,705,6345,true,0,0
+OL-2024-000508,ORD-2024-000264,HME-4338,Brushed cotton throw,home,1,3350,502,2848,true,0,0
+OL-2024-000509,ORD-2024-000264,FTW-7843,Canvas low trainer,footwear,1,6550,328,6222,true,0,0
+OL-2024-000510,ORD-2024-000265,APP-6817,Heavyweight jersey tee,apparel,1,12450,622,11828,true,0,0
+OL-2024-000511,ORD-2024-000265,APP-4779,Linen camp collar shirt,apparel,1,5350,535,4815,true,0,0
+OL-2024-000512,ORD-2024-000266,APP-3391,Pleated wool trouser,apparel,1,6950,0,6950,true,0,0
+OL-2024-000513,ORD-2024-000266,HME-2017,Oak desk tray,home,1,2250,112,2138,true,0,0
+OL-2024-000514,ORD-2024-000266,APP-3125,Heavyweight jersey tee,apparel,1,7600,0,7600,true,0,0
+OL-2024-000515,ORD-2024-000267,FTW-2287,"Chelsea boot, waxed",footwear,1,13750,1375,12375,true,0,0
+OL-2024-000516,ORD-2024-000268,ACC-2707,Woven leather belt,accessories,1,2650,0,2650,true,1,2650
+OL-2024-000517,ORD-2024-000269,APP-6595,Quilted patch jacket,apparel,1,8550,0,8550,true,0,0
+OL-2024-000518,ORD-2024-000269,FTW-2805,Suede field shoe,footwear,1,11700,0,11700,true,0,0
+OL-2024-000519,ORD-2024-000270,FTW-5926,"Leather derby, oak",footwear,1,14100,0,14100,true,0,0
+OL-2024-000520,ORD-2024-000270,HME-7951,Beeswax pillar candle,home,1,6800,0,6800,true,0,0
+OL-2024-000521,ORD-2024-000271,APP-4960,Ribbed merino crew,apparel,1,5900,0,5900,true,0,0
+OL-2024-000522,ORD-2024-000271,HME-4936,Brushed cotton throw,home,1,8400,840,7560,true,1,7560
+OL-2024-000523,ORD-2024-000271,BTY-2133,Rosehip body balm,beauty,2,3900,390,7410,true,0,0
+OL-2024-000524,ORD-2024-000272,HME-2724,Stoneware serving bowl,home,1,2900,0,2900,true,1,2900
+OL-2024-000525,ORD-2024-000272,HME-5845,Oak desk tray,home,1,6050,0,6050,true,1,6050
+OL-2024-000526,ORD-2024-000273,HME-9168,Stoneware serving bowl,home,1,6250,938,5312,true,0,0
+OL-2024-000527,ORD-2024-000273,HME-1775,Beeswax pillar candle,home,2,3550,0,7100,true,0,0
+OL-2024-000528,ORD-2024-000273,BTY-3271,Cedar hand wash,beauty,2,4600,0,9200,true,0,0
+OL-2024-000529,ORD-2024-000274,BTY-2749,Cedar hand wash,beauty,2,2550,0,5100,true,0,0
+OL-2024-000530,ORD-2024-000274,APP-8786,Linen camp collar shirt,apparel,1,3750,0,3750,true,0,0
+OL-2024-000531,ORD-2024-000275,APP-8550,Heavyweight jersey tee,apparel,1,6600,990,5610,true,0,0
+OL-2024-000532,ORD-2024-000276,APP-3130,Ribbed merino crew,apparel,1,4100,0,4100,true,0,0
+OL-2024-000533,ORD-2024-000276,APP-5430,Heavyweight jersey tee,apparel,1,10200,0,10200,true,0,0
+OL-2024-000534,ORD-2024-000277,FTW-8326,Canvas low trainer,footwear,1,10395,1559,8836,true,1,8836
+OL-2024-000535,ORD-2024-000278,FTW-2001,"Chelsea boot, waxed",footwear,1,15245,762,14483,true,0,0
+OL-2024-000536,ORD-2024-000278,APP-6803,Washed cotton overshirt,apparel,1,4095,410,3685,true,0,0
+OL-2024-000537,ORD-2024-000278,APP-6507,Washed cotton overshirt,apparel,1,6800,0,6800,true,0,0
+OL-2024-000538,ORD-2024-000279,APP-8424,Ribbed merino crew,apparel,1,4300,215,4085,true,0,0
+OL-2024-000539,ORD-2024-000279,APP-2452,Washed cotton overshirt,apparel,1,7200,720,6480,true,0,0
+OL-2024-000540,ORD-2024-000280,HME-4046,Brushed cotton throw,home,1,4500,0,4500,true,0,0
+OL-2024-000541,ORD-2024-000280,APP-5944,Quilted patch jacket,apparel,1,8150,815,7335,true,0,0
+OL-2024-000542,ORD-2024-000281,FTW-2566,Canvas low trainer,footwear,1,8345,0,8345,true,1,8345
+OL-2024-000543,ORD-2024-000282,ACC-5417,Brass key ring,accessories,1,6150,308,5842,true,0,0
+OL-2024-000544,ORD-2024-000282,BTY-4443,Mineral bath soak,beauty,1,2800,0,2800,true,0,0
+OL-2024-000545,ORD-2024-000282,APP-8493,Pleated wool trouser,apparel,1,10650,0,10650,true,0,0
+OL-2024-000546,ORD-2024-000283,APP-4299,Linen camp collar shirt,apparel,1,4445,0,4445,true,1,4445
+OL-2024-000547,ORD-2024-000283,FTW-1540,"Leather derby, oak",footwear,1,5600,840,4760,true,0,0
+OL-2024-000548,ORD-2024-000284,ACC-1382,Waxed canvas pouch,accessories,1,1200,120,1080,true,0,0
+OL-2024-000549,ORD-2024-000284,APP-9391,Heavyweight jersey tee,apparel,1,4095,0,4095,true,0,0
+OL-2024-000550,ORD-2024-000285,FTW-1280,Canvas low trainer,footwear,1,7100,1065,6035,true,0,0
+OL-2024-000551,ORD-2024-000285,APP-5181,Linen camp collar shirt,apparel,1,11050,1658,9392,true,0,0
+OL-2024-000552,ORD-2024-000285,BTY-7095,Rosehip body balm,beauty,1,3550,532,3018,true,1,3018
+OL-2024-000553,ORD-2024-000286,APP-9077,Washed cotton overshirt,apparel,1,11450,1718,9732,true,0,0
+OL-2024-000554,ORD-2024-000287,APP-3551,Linen camp collar shirt,apparel,1,8800,0,8800,true,0,0
+OL-2024-000555,ORD-2024-000287,HME-3063,Stoneware serving bowl,home,1,5000,250,4750,true,0,0
+OL-2024-000556,ORD-2024-000287,ACC-8650,Woven leather belt,accessories,1,1500,0,1500,true,0,0
+OL-2024-000557,ORD-2024-000287,FTW-6832,"Leather derby, oak",footwear,1,4995,0,4995,true,0,0
+OL-2024-000558,ORD-2024-000288,APP-5020,Quilted patch jacket,apparel,1,11295,0,11295,true,0,0
+OL-2024-000559,ORD-2024-000288,BTY-1687,Botanical face oil,beauty,2,4100,0,8200,true,0,0
+OL-2024-000560,ORD-2024-000288,ACC-3305,Linen pocket square,accessories,1,3845,0,3845,true,0,0
+OL-2024-000561,ORD-2024-000289,BTY-1327,Botanical face oil,beauty,1,4300,0,4300,true,0,0
+OL-2024-000562,ORD-2024-000289,HME-3678,Stoneware serving bowl,home,1,5845,584,5261,true,0,0
+OL-2024-000563,ORD-2024-000289,FTW-1714,"Walking sandal, moss",footwear,1,8400,0,8400,true,0,0
+OL-2024-000564,ORD-2024-000289,FTW-2705,Suede field shoe,footwear,1,12000,0,12000,true,0,0
+OL-2024-000565,ORD-2024-000290,FTW-7601,Canvas low trainer,footwear,1,8600,0,8600,true,0,0
+OL-2024-000566,ORD-2024-000291,BTY-8397,Botanical face oil,beauty,1,1650,0,1650,true,0,0
+OL-2024-000567,ORD-2024-000292,FTW-3330,"Chelsea boot, waxed",footwear,1,11450,0,11450,true,0,0
+OL-2024-000568,ORD-2024-000293,APP-1081,Washed cotton overshirt,apparel,1,3650,0,3650,true,0,0
+OL-2024-000569,ORD-2024-000293,BTY-6572,Botanical face oil,beauty,1,1550,0,1550,true,1,1550
+OL-2024-000570,ORD-2024-000294,APP-8590,Linen camp collar shirt,apparel,1,5050,0,5050,true,1,5050
+OL-2024-000571,ORD-2024-000295,FTW-2735,"Leather derby, oak",footwear,1,11850,1185,10665,true,0,0
+OL-2024-000572,ORD-2024-000295,APP-8259,Washed cotton overshirt,apparel,1,11450,572,10878,true,0,0
+OL-2024-000573,ORD-2024-000295,ACC-9347,Woven leather belt,accessories,1,1600,0,1600,true,1,1600
+OL-2024-000574,ORD-2024-000295,FTW-5322,"Leather derby, oak",footwear,1,14550,728,13822,true,0,0
+OL-2024-000575,ORD-2024-000296,APP-6721,Quilted patch jacket,apparel,1,9745,0,9745,true,1,9745
+OL-2024-000576,ORD-2024-000296,APP-5363,Quilted patch jacket,apparel,1,11000,550,10450,true,1,10450
+OL-2024-000577,ORD-2024-000296,APP-7120,Pleated wool trouser,apparel,1,5500,550,4950,true,1,4950
+OL-2024-000578,ORD-2024-000296,HME-1514,Brushed cotton throw,home,1,4950,495,4455,true,1,4455
+OL-2024-000579,ORD-2024-000297,FTW-4046,"Walking sandal, moss",footwear,1,9145,914,8231,true,0,0
+OL-2024-000580,ORD-2024-000298,HME-9700,Brushed cotton throw,home,1,3850,192,3658,true,0,0
+OL-2024-000581,ORD-2024-000298,APP-7295,Heavyweight jersey tee,apparel,1,10750,0,10750,true,1,10750
+OL-2024-000582,ORD-2024-000299,APP-4001,Washed cotton overshirt,apparel,1,9345,1869,7476,true,0,0
+OL-2024-000583,ORD-2024-000299,FTW-5582,Canvas low trainer,footwear,1,12445,0,12445,true,0,0
+OL-2024-000584,ORD-2024-000300,FTW-5745,Canvas low trainer,footwear,1,7800,0,7800,true,1,7800
+OL-2024-000585,ORD-2024-000301,HME-5690,Brushed cotton throw,home,1,2445,0,2445,true,0,0
+OL-2024-000586,ORD-2024-000302,BTY-5113,Mineral bath soak,beauty,1,3350,0,3350,true,0,0
+OL-2024-000587,ORD-2024-000302,APP-9147,Ribbed merino crew,apparel,1,11800,0,11800,true,0,0
+OL-2024-000588,ORD-2024-000303,HME-1037,Oak desk tray,home,1,5600,0,5600,true,0,0
+OL-2024-000589,ORD-2024-000304,ACC-4761,Brass key ring,accessories,1,3650,0,3650,true,0,0
+OL-2024-000590,ORD-2024-000304,APP-2775,Heavyweight jersey tee,apparel,1,4450,0,4450,true,0,0
+OL-2024-000591,ORD-2024-000305,FTW-4053,Suede field shoe,footwear,1,11850,0,11850,true,0,0
+OL-2024-000592,ORD-2024-000305,FTW-1566,"Leather derby, oak",footwear,1,7995,0,7995,true,0,0
+OL-2024-000593,ORD-2024-000306,BTY-9361,Vetiver travel candle,beauty,1,3050,305,2745,true,0,0
+OL-2024-000594,ORD-2024-000306,APP-8384,Ribbed merino crew,apparel,1,6150,0,6150,true,0,0
+OL-2024-000595,ORD-2024-000307,FTW-4418,Suede field shoe,footwear,1,12100,0,12100,true,0,0
+OL-2024-000596,ORD-2024-000307,HME-8415,"Ribbed glass tumbler, set of two",home,1,6400,960,5440,true,0,0
+OL-2024-000597,ORD-2024-000308,APP-5074,Linen camp collar shirt,apparel,1,8250,1650,6600,true,0,0
+OL-2024-000598,ORD-2024-000308,APP-2865,Linen camp collar shirt,apparel,1,12100,1210,10890,true,0,0
+OL-2024-000599,ORD-2024-000309,APP-1161,Linen camp collar shirt,apparel,1,11950,0,11950,true,0,0
+OL-2024-000600,ORD-2024-000309,BTY-3139,Rosehip body balm,beauty,1,4345,434,3911,true,0,0
+OL-2024-000601,ORD-2024-000310,APP-3574,Quilted patch jacket,apparel,1,11150,1115,10035,true,0,0
+OL-2024-000602,ORD-2024-000311,APP-6318,Quilted patch jacket,apparel,1,8750,875,7875,true,0,0
+OL-2024-000603,ORD-2024-000312,GFT-3017,Morrow & Finch gift card,gift_card,1,2500,125,2375,false,0,0
+OL-2024-000604,ORD-2024-000312,ACC-1350,Merino beanie,accessories,1,5695,0,5695,true,0,0
+OL-2024-000605,ORD-2024-000312,APP-3110,Washed cotton overshirt,apparel,1,12000,0,12000,true,0,0
+OL-2024-000606,ORD-2024-000313,APP-9301,Washed cotton overshirt,apparel,1,12450,622,11828,true,1,11828
+OL-2024-000607,ORD-2024-000314,HME-2095,Oak desk tray,home,2,4595,460,8730,true,0,0
+OL-2024-000608,ORD-2024-000315,FTW-6043,"Chelsea boot, waxed",footwear,1,9295,0,9295,true,0,0
+OL-2024-000609,ORD-2024-000315,FTW-7728,"Leather derby, oak",footwear,1,7650,0,7650,true,0,0
+OL-2024-000610,ORD-2024-000315,BTY-3441,Cedar hand wash,beauty,1,1150,0,1150,true,0,0
+OL-2024-000611,ORD-2024-000316,GFT-8940,E-gift card,gift_card,1,7700,0,7700,false,0,0
+OL-2024-000612,ORD-2024-000317,APP-5441,Ribbed merino crew,apparel,1,4545,682,3863,true,0,0
+OL-2024-000613,ORD-2024-000317,FTW-9513,Suede field shoe,footwear,1,14050,0,14050,true,0,0
+OL-2024-000614,ORD-2024-000317,HME-5541,Oak desk tray,home,2,4250,0,8500,true,0,0
+OL-2024-000615,ORD-2024-000318,BTY-5593,Vetiver travel candle,beauty,2,3095,0,6190,true,0,0
+OL-2024-000616,ORD-2024-000318,FTW-3975,"Leather derby, oak",footwear,1,13900,0,13900,true,0,0
+OL-2024-000617,ORD-2024-000319,APP-1185,Ribbed merino crew,apparel,1,4000,400,3600,true,0,0
+OL-2024-000618,ORD-2024-000319,FTW-3653,"Walking sandal, moss",footwear,1,10950,0,10950,true,1,10950
+OL-2024-000619,ORD-2024-000320,BTY-5868,Mineral bath soak,beauty,1,3395,170,3225,true,0,0
+OL-2024-000620,ORD-2024-000320,APP-4886,Linen camp collar shirt,apparel,1,9350,0,9350,true,1,9350
+OL-2024-000621,ORD-2024-000321,ACC-9043,Waxed canvas pouch,accessories,1,2100,105,1995,true,0,0
+OL-2024-000622,ORD-2024-000322,BTY-4809,Botanical face oil,beauty,1,1750,262,1488,true,0,0
+OL-2024-000623,ORD-2024-000322,FTW-5655,"Chelsea boot, waxed",footwear,1,13545,3386,10159,true,0,0
+OL-2024-000624,ORD-2024-000322,FTW-2778,"Chelsea boot, waxed",footwear,1,13950,1395,12555,true,0,0
+OL-2024-000625,ORD-2024-000323,APP-2173,Ribbed merino crew,apparel,1,5900,0,5900,true,0,0
+OL-2024-000626,ORD-2024-000323,APP-8010,Heavyweight jersey tee,apparel,1,5895,884,5011,true,0,0
+OL-2024-000627,ORD-2024-000324,APP-5008,Ribbed merino crew,apparel,1,9900,0,9900,true,0,0
+OL-2024-000628,ORD-2024-000324,ACC-7473,Linen pocket square,accessories,1,2500,125,2375,true,0,0
+OL-2024-000629,ORD-2024-000325,BTY-6571,Botanical face oil,beauty,2,4000,0,8000,true,0,0
+OL-2024-000630,ORD-2024-000326,APP-9019,Linen camp collar shirt,apparel,1,4350,0,4350,true,0,0
+OL-2024-000631,ORD-2024-000327,HME-8751,Brushed cotton throw,home,1,3295,0,3295,true,0,0
+OL-2024-000632,ORD-2024-000327,FTW-6681,Canvas low trainer,footwear,1,5350,0,5350,true,0,0
+OL-2024-000633,ORD-2024-000328,BTY-2001,Mineral bath soak,beauty,1,4550,682,3868,true,0,0
+OL-2024-000634,ORD-2024-000329,APP-3832,Heavyweight jersey tee,apparel,1,8950,895,8055,true,1,8055
+OL-2024-000635,ORD-2024-000329,APP-8171,Heavyweight jersey tee,apparel,1,7350,0,7350,true,0,0
+OL-2024-000636,ORD-2024-000330,BTY-6621,Mineral bath soak,beauty,2,1650,660,2640,true,0,0
+OL-2024-000637,ORD-2024-000331,APP-2562,Heavyweight jersey tee,apparel,1,11400,1140,10260,true,0,0
+OL-2024-000638,ORD-2024-000331,APP-2263,Heavyweight jersey tee,apparel,1,4800,0,4800,true,0,0
+OL-2024-000639,ORD-2024-000332,ACC-7411,Woven leather belt,accessories,1,5500,0,5500,true,0,0
+OL-2024-000640,ORD-2024-000332,APP-6106,Washed cotton overshirt,apparel,1,10495,1574,8921,true,0,0
+OL-2024-000641,ORD-2024-000332,APP-8158,Pleated wool trouser,apparel,1,7795,780,7015,true,0,0
+OL-2024-000642,ORD-2024-000333,FTW-7972,"Leather derby, oak",footwear,1,11350,1135,10215,true,1,10215
+OL-2024-000643,ORD-2024-000334,HME-6648,Oak desk tray,home,1,7200,0,7200,true,0,0
+OL-2024-000644,ORD-2024-000334,FTW-4649,"Leather derby, oak",footwear,1,4550,0,4550,true,0,0
+OL-2024-000645,ORD-2024-000335,APP-4363,Pleated wool trouser,apparel,1,9950,0,9950,true,1,9950
+OL-2024-000646,ORD-2024-000336,APP-7530,Pleated wool trouser,apparel,1,8400,0,8400,true,1,8400
+OL-2024-000647,ORD-2024-000336,APP-6791,Heavyweight jersey tee,apparel,1,11550,0,11550,true,0,0
+OL-2024-000648,ORD-2024-000336,HME-2112,Stoneware serving bowl,home,1,5050,0,5050,true,0,0
+OL-2024-000649,ORD-2024-000337,HME-7043,"Ribbed glass tumbler, set of two",home,1,4195,629,3566,true,0,0
+OL-2024-000650,ORD-2024-000337,HME-5513,Stoneware serving bowl,home,1,8295,0,8295,true,0,0
+OL-2024-000651,ORD-2024-000337,FTW-6711,Canvas low trainer,footwear,1,4995,0,4995,true,0,0
+OL-2024-000652,ORD-2024-000338,FTW-2001,Suede field shoe,footwear,1,5095,0,5095,true,0,0
+OL-2024-000653,ORD-2024-000339,FTW-8644,Canvas low trainer,footwear,1,15250,0,15250,true,0,0
+OL-2024-000654,ORD-2024-000339,BTY-7192,Vetiver travel candle,beauty,1,3195,0,3195,true,0,0
+OL-2024-000655,ORD-2024-000339,BTY-1666,Cedar hand wash,beauty,1,3450,345,3105,true,0,0
+OL-2024-000656,ORD-2024-000339,BTY-1308,Vetiver travel candle,beauty,1,4650,698,3952,true,0,0
+OL-2024-000657,ORD-2024-000340,ACC-9268,Woven leather belt,accessories,1,5800,290,5510,true,0,0
+OL-2024-000658,ORD-2024-000340,BTY-4047,Cedar hand wash,beauty,1,2400,0,2400,true,0,0
+OL-2024-000659,ORD-2024-000341,GFT-8672,Morrow & Finch gift card,gift_card,1,5945,297,5648,false,0,0
+OL-2024-000660,ORD-2024-000341,FTW-8218,Canvas low trainer,footwear,1,15245,0,15245,true,1,15245
+OL-2024-000661,ORD-2024-000342,ACC-4169,Linen pocket square,accessories,1,4100,0,4100,true,0,0
+OL-2024-000662,ORD-2024-000342,BTY-5742,Cedar hand wash,beauty,1,3545,0,3545,true,0,0
+OL-2024-000663,ORD-2024-000343,FTW-9991,Suede field shoe,footwear,1,6300,1260,5040,true,0,0
+OL-2024-000664,ORD-2024-000343,HME-6103,Brushed cotton throw,home,1,3450,0,3450,true,1,3450
+OL-2024-000665,ORD-2024-000344,APP-1096,Washed cotton overshirt,apparel,1,8500,425,8075,true,0,0
+OL-2024-000666,ORD-2024-000344,APP-4335,Washed cotton overshirt,apparel,1,6200,620,5580,true,0,0
+OL-2024-000667,ORD-2024-000345,HME-1892,Beeswax pillar candle,home,1,4750,0,4750,true,0,0
+OL-2024-000668,ORD-2024-000346,HME-9921,Stoneware serving bowl,home,1,7145,1429,5716,true,0,0
+OL-2024-000669,ORD-2024-000346,FTW-3041,"Leather derby, oak",footwear,1,10445,0,10445,true,0,0
+OL-2024-000670,ORD-2024-000347,APP-8543,Quilted patch jacket,apparel,1,5545,0,5545,true,0,0
+OL-2024-000671,ORD-2024-000348,APP-2375,Pleated wool trouser,apparel,1,6550,655,5895,true,0,0
+OL-2024-000672,ORD-2024-000348,HME-5472,Stoneware serving bowl,home,1,2845,0,2845,true,0,0
+OL-2024-000673,ORD-2024-000349,BTY-4832,Rosehip body balm,beauty,1,3850,0,3850,true,0,0
+OL-2024-000674,ORD-2024-000350,APP-8979,Pleated wool trouser,apparel,1,5900,1180,4720,true,1,4720
+OL-2024-000675,ORD-2024-000350,APP-1283,Ribbed merino crew,apparel,1,5900,590,5310,true,1,5310
+OL-2024-000676,ORD-2024-000351,APP-9542,Quilted patch jacket,apparel,1,7700,1155,6545,true,0,0
+OL-2024-000677,ORD-2024-000352,APP-8818,Pleated wool trouser,apparel,1,4045,0,4045,true,0,0
+OL-2024-000678,ORD-2024-000352,HME-5778,Brushed cotton throw,home,1,6050,605,5445,true,0,0
+OL-2024-000679,ORD-2024-000352,ACC-8942,Linen pocket square,accessories,1,5900,0,5900,true,0,0
+OL-2024-000680,ORD-2024-000353,APP-3183,Ribbed merino crew,apparel,1,6950,0,6950,true,0,0
+OL-2024-000681,ORD-2024-000353,APP-2378,Pleated wool trouser,apparel,1,7200,1080,6120,true,0,0
+OL-2024-000682,ORD-2024-000353,BTY-5803,Vetiver travel candle,beauty,1,3250,0,3250,true,0,0
+OL-2024-000683,ORD-2024-000353,HME-2484,Brushed cotton throw,home,1,2450,0,2450,true,0,0
+OL-2024-000684,ORD-2024-000354,HME-7245,Oak desk tray,home,1,4900,245,4655,true,0,0
+OL-2024-000685,ORD-2024-000354,APP-8400,Linen camp collar shirt,apparel,1,10750,0,10750,true,0,0
+OL-2024-000686,ORD-2024-000355,FTW-6806,"Chelsea boot, waxed",footwear,1,11950,0,11950,true,0,0
+OL-2024-000687,ORD-2024-000356,FTW-1363,"Walking sandal, moss",footwear,1,11200,1680,9520,true,0,0
+OL-2024-000688,ORD-2024-000356,HME-1757,"Ribbed glass tumbler, set of two",home,2,4400,0,8800,true,0,0
+OL-2024-000689,ORD-2024-000357,FTW-2376,"Leather derby, oak",footwear,1,12850,0,12850,true,1,12850
+OL-2024-000690,ORD-2024-000358,BTY-5457,Mineral bath soak,beauty,1,4550,228,4322,true,0,0
+OL-2025-000001,ORD-2025-000001,FTW-7976,"Leather derby, oak",footwear,1,5150,515,4635,true,0,0
+OL-2025-000002,ORD-2025-000001,APP-6873,Ribbed merino crew,apparel,1,6345,0,6345,true,0,0
+OL-2025-000003,ORD-2025-000001,ACC-4488,Merino beanie,accessories,1,2300,115,2185,true,0,0
+OL-2025-000004,ORD-2025-000002,HME-6207,Brushed cotton throw,home,2,2200,440,3960,true,0,0
+OL-2025-000005,ORD-2025-000002,FTW-5800,Suede field shoe,footwear,1,6700,0,6700,true,0,0
+OL-2025-000006,ORD-2025-000003,FTW-2237,"Leather derby, oak",footwear,1,10050,0,10050,true,0,0
+OL-2025-000007,ORD-2025-000003,APP-9183,Washed cotton overshirt,apparel,1,6495,325,6170,true,0,0
+OL-2025-000008,ORD-2025-000003,APP-8038,Pleated wool trouser,apparel,1,6295,0,6295,true,0,0
+OL-2025-000009,ORD-2025-000003,APP-6203,Heavyweight jersey tee,apparel,1,10900,0,10900,true,0,0
+OL-2025-000010,ORD-2025-000004,HME-4807,Stoneware serving bowl,home,1,3000,300,2700,true,0,0
+OL-2025-000011,ORD-2025-000004,APP-2412,Linen camp collar shirt,apparel,1,8450,1268,7182,true,1,7182
+OL-2025-000012,ORD-2025-000004,ACC-9551,Linen pocket square,accessories,1,2800,0,2800,true,0,0
+OL-2025-000013,ORD-2025-000005,FTW-5296,Suede field shoe,footwear,1,10050,502,9548,true,0,0
+OL-2025-000014,ORD-2025-000005,APP-4258,Pleated wool trouser,apparel,1,8350,0,8350,true,0,0
+OL-2025-000015,ORD-2025-000005,APP-4165,Ribbed merino crew,apparel,1,8300,830,7470,true,0,0
+OL-2025-000016,ORD-2025-000006,HME-8844,"Ribbed glass tumbler, set of two",home,1,6645,664,5981,true,0,0
+OL-2025-000017,ORD-2025-000007,ACC-2787,Waxed canvas pouch,accessories,1,1495,0,1495,true,0,0
+OL-2025-000018,ORD-2025-000007,APP-7579,Washed cotton overshirt,apparel,1,6750,675,6075,true,0,0
+OL-2025-000019,ORD-2025-000007,BTY-5414,Vetiver travel candle,beauty,1,3350,335,3015,true,0,0
+OL-2025-000020,ORD-2025-000008,APP-9301,Pleated wool trouser,apparel,1,9045,0,9045,true,1,9045
+OL-2025-000021,ORD-2025-000009,HME-6882,Stoneware serving bowl,home,1,2995,300,2695,true,0,0
+OL-2025-000022,ORD-2025-000009,APP-7146,Quilted patch jacket,apparel,1,11345,0,11345,true,0,0
+OL-2025-000023,ORD-2025-000009,FTW-5384,"Leather derby, oak",footwear,1,6400,0,6400,true,0,0
+OL-2025-000024,ORD-2025-000010,HME-7274,Brushed cotton throw,home,1,3450,518,2932,true,0,0
+OL-2025-000025,ORD-2025-000010,FTW-9194,"Chelsea boot, waxed",footwear,1,5295,0,5295,true,0,0
+OL-2025-000026,ORD-2025-000011,APP-6610,Heavyweight jersey tee,apparel,1,10250,0,10250,true,0,0
+OL-2025-000027,ORD-2025-000011,APP-4586,Ribbed merino crew,apparel,1,12050,1808,10242,true,0,0
+OL-2025-000028,ORD-2025-000012,ACC-5942,Merino beanie,accessories,1,6545,327,6218,true,0,0
+OL-2025-000029,ORD-2025-000012,ACC-4229,Woven leather belt,accessories,1,5800,580,5220,true,0,0
+OL-2025-000030,ORD-2025-000013,APP-3515,Ribbed merino crew,apparel,1,4250,850,3400,true,0,0
+OL-2025-000031,ORD-2025-000013,BTY-5624,Vetiver travel candle,beauty,1,1900,0,1900,true,0,0
+OL-2025-000032,ORD-2025-000014,GFT-6138,Morrow & Finch gift card,gift_card,1,6900,1380,5520,false,0,0
+OL-2025-000033,ORD-2025-000015,FTW-7944,"Chelsea boot, waxed",footwear,1,11250,0,11250,true,0,0
+OL-2025-000034,ORD-2025-000015,ACC-7147,Waxed canvas pouch,accessories,1,3100,0,3100,true,0,0
+OL-2025-000035,ORD-2025-000015,FTW-1932,"Chelsea boot, waxed",footwear,1,9850,0,9850,true,0,0
+OL-2025-000036,ORD-2025-000016,APP-1772,Heavyweight jersey tee,apparel,1,10500,0,10500,true,1,10500
+OL-2025-000037,ORD-2025-000017,FTW-8800,"Walking sandal, moss",footwear,1,15150,0,15150,true,0,0
+OL-2025-000038,ORD-2025-000017,HME-7860,"Ribbed glass tumbler, set of two",home,1,2750,0,2750,true,0,0
+OL-2025-000039,ORD-2025-000017,HME-5918,"Ribbed glass tumbler, set of two",home,2,6550,2620,10480,true,0,0
+OL-2025-000040,ORD-2025-000018,FTW-8043,Suede field shoe,footwear,1,8350,418,7932,true,0,0
+OL-2025-000041,ORD-2025-000018,HME-6670,Stoneware serving bowl,home,1,7700,1155,6545,true,0,0
+OL-2025-000042,ORD-2025-000019,APP-6057,Heavyweight jersey tee,apparel,1,12500,1250,11250,true,0,0
+OL-2025-000043,ORD-2025-000019,APP-5296,Washed cotton overshirt,apparel,1,10050,0,10050,true,1,10050
+OL-2025-000044,ORD-2025-000020,APP-9632,Linen camp collar shirt,apparel,1,11750,0,11750,true,0,0
+OL-2025-000045,ORD-2025-000020,HME-8241,Stoneware serving bowl,home,1,2900,435,2465,true,0,0
+OL-2025-000046,ORD-2025-000021,FTW-5370,"Chelsea boot, waxed",footwear,1,10850,0,10850,true,0,0
+OL-2025-000047,ORD-2025-000021,BTY-9922,Rosehip body balm,beauty,1,2100,0,2100,true,0,0
+OL-2025-000048,ORD-2025-000021,FTW-1939,"Leather derby, oak",footwear,1,12050,1205,10845,true,0,0
+OL-2025-000049,ORD-2025-000022,APP-9809,Pleated wool trouser,apparel,1,6650,0,6650,true,0,0
+OL-2025-000050,ORD-2025-000022,APP-6677,Washed cotton overshirt,apparel,1,4400,0,4400,true,0,0
+OL-2025-000051,ORD-2025-000023,BTY-2167,Vetiver travel candle,beauty,2,3250,975,5525,true,0,0
+OL-2025-000052,ORD-2025-000023,FTW-6843,"Chelsea boot, waxed",footwear,1,10750,0,10750,true,0,0
+OL-2025-000053,ORD-2025-000023,ACC-1498,Waxed canvas pouch,accessories,1,4800,480,4320,true,0,0
+OL-2025-000054,ORD-2025-000023,BTY-1223,Mineral bath soak,beauty,1,1200,0,1200,true,0,0
+OL-2025-000055,ORD-2025-000024,GFT-1587,Morrow & Finch gift card,gift_card,1,6950,0,6950,false,0,0
+OL-2025-000056,ORD-2025-000024,FTW-2509,Suede field shoe,footwear,1,11695,0,11695,true,0,0
+OL-2025-000057,ORD-2025-000025,APP-4561,Washed cotton overshirt,apparel,1,4450,0,4450,true,0,0
+OL-2025-000058,ORD-2025-000025,ACC-9829,Linen pocket square,accessories,1,3850,578,3272,true,0,0
+OL-2025-000059,ORD-2025-000026,FTW-7233,"Walking sandal, moss",footwear,1,14000,0,14000,true,0,0
+OL-2025-000060,ORD-2025-000027,HME-1253,Brushed cotton throw,home,1,3795,190,3605,true,1,3605
+OL-2025-000061,ORD-2025-000027,APP-4607,Heavyweight jersey tee,apparel,1,7250,0,7250,true,1,7250
+OL-2025-000062,ORD-2025-000028,HME-7381,Oak desk tray,home,1,6195,0,6195,true,0,0
+OL-2025-000063,ORD-2025-000028,APP-1796,Quilted patch jacket,apparel,1,6600,0,6600,true,0,0
+OL-2025-000064,ORD-2025-000029,APP-8989,Heavyweight jersey tee,apparel,1,9950,0,9950,true,0,0
+OL-2025-000065,ORD-2025-000029,APP-9846,Heavyweight jersey tee,apparel,1,4500,225,4275,true,0,0
+OL-2025-000066,ORD-2025-000030,BTY-1864,Cedar hand wash,beauty,2,3850,770,6930,true,0,0
+OL-2025-000067,ORD-2025-000030,HME-3438,"Ribbed glass tumbler, set of two",home,1,8250,825,7425,true,0,0
+OL-2025-000068,ORD-2025-000031,HME-5704,"Ribbed glass tumbler, set of two",home,1,8000,0,8000,true,0,0
+OL-2025-000069,ORD-2025-000031,FTW-7076,Suede field shoe,footwear,1,7000,700,6300,true,0,0
+OL-2025-000070,ORD-2025-000031,FTW-8160,Suede field shoe,footwear,1,13050,1958,11092,true,0,0
+OL-2025-000071,ORD-2025-000032,APP-2554,Heavyweight jersey tee,apparel,1,10550,0,10550,true,1,10550
+OL-2025-000072,ORD-2025-000033,FTW-7579,Suede field shoe,footwear,1,14300,0,14300,true,0,0
+OL-2025-000073,ORD-2025-000034,HME-5755,Brushed cotton throw,home,1,2250,0,2250,true,1,2250
+OL-2025-000074,ORD-2025-000035,HME-2812,Brushed cotton throw,home,1,3950,0,3950,true,0,0
+OL-2025-000075,ORD-2025-000036,FTW-1330,"Leather derby, oak",footwear,1,8250,0,8250,true,0,0
+OL-2025-000076,ORD-2025-000036,HME-7589,Stoneware serving bowl,home,1,4000,200,3800,true,0,0
+OL-2025-000077,ORD-2025-000036,BTY-1136,Cedar hand wash,beauty,2,4595,0,9190,true,0,0
+OL-2025-000078,ORD-2025-000037,APP-1999,Quilted patch jacket,apparel,1,12495,0,12495,true,1,12495
+OL-2025-000079,ORD-2025-000037,BTY-5423,Botanical face oil,beauty,1,4450,668,3782,true,1,3782
+OL-2025-000080,ORD-2025-000037,BTY-9287,Botanical face oil,beauty,2,3850,0,7700,true,2,7700
+OL-2025-000081,ORD-2025-000038,APP-9708,Pleated wool trouser,apparel,1,8195,0,8195,true,0,0
+OL-2025-000082,ORD-2025-000038,BTY-3757,Vetiver travel candle,beauty,2,1100,110,2090,true,0,0
+OL-2025-000083,ORD-2025-000039,HME-6909,Oak desk tray,home,1,3450,0,3450,true,1,3450
+OL-2025-000084,ORD-2025-000039,BTY-4836,Botanical face oil,beauty,1,4650,0,4650,true,1,4650
+OL-2025-000085,ORD-2025-000040,APP-8314,Ribbed merino crew,apparel,1,9400,0,9400,true,0,0
+OL-2025-000086,ORD-2025-000041,FTW-5674,"Leather derby, oak",footwear,1,15350,0,15350,true,0,0
+OL-2025-000087,ORD-2025-000041,BTY-4934,Cedar hand wash,beauty,1,1300,0,1300,true,0,0
+OL-2025-000088,ORD-2025-000041,HME-8584,Brushed cotton throw,home,1,3700,0,3700,true,0,0
+OL-2025-000089,ORD-2025-000042,GFT-7799,Morrow & Finch gift card,gift_card,1,3995,0,3995,false,0,0
+OL-2025-000090,ORD-2025-000042,APP-3927,Ribbed merino crew,apparel,1,8450,422,8028,true,1,8028
+OL-2025-000091,ORD-2025-000043,APP-3951,Pleated wool trouser,apparel,1,7295,0,7295,true,0,0
+OL-2025-000092,ORD-2025-000044,APP-5764,Washed cotton overshirt,apparel,1,10250,0,10250,true,0,0
+OL-2025-000093,ORD-2025-000044,APP-5528,Ribbed merino crew,apparel,1,11745,0,11745,true,0,0
+OL-2025-000094,ORD-2025-000045,APP-5257,Ribbed merino crew,apparel,1,3600,180,3420,true,0,0
+OL-2025-000095,ORD-2025-000045,APP-3400,Linen camp collar shirt,apparel,1,5950,0,5950,true,0,0
+OL-2025-000096,ORD-2025-000046,FTW-4395,"Leather derby, oak",footwear,1,8300,0,8300,true,0,0
+OL-2025-000097,ORD-2025-000046,FTW-7515,"Walking sandal, moss",footwear,1,11600,0,11600,true,0,0
+OL-2025-000098,ORD-2025-000046,BTY-3156,Rosehip body balm,beauty,1,1295,0,1295,true,0,0
+OL-2025-000099,ORD-2025-000047,BTY-4164,Cedar hand wash,beauty,1,3445,0,3445,true,0,0
+OL-2025-000100,ORD-2025-000047,APP-6992,Ribbed merino crew,apparel,1,4000,0,4000,true,0,0
+OL-2025-000101,ORD-2025-000048,APP-7156,Heavyweight jersey tee,apparel,1,4650,465,4185,true,0,0
+OL-2025-000102,ORD-2025-000048,BTY-4940,Botanical face oil,beauty,1,1850,185,1665,true,0,0
+OL-2025-000103,ORD-2025-000048,APP-8733,Quilted patch jacket,apparel,1,11750,588,11162,true,0,0
+OL-2025-000104,ORD-2025-000049,BTY-8950,Vetiver travel candle,beauty,1,2000,0,2000,true,0,0
+OL-2025-000105,ORD-2025-000049,APP-9461,Pleated wool trouser,apparel,1,3850,578,3272,true,0,0
+OL-2025-000106,ORD-2025-000050,FTW-8375,Suede field shoe,footwear,1,14545,2909,11636,true,1,11636
+OL-2025-000107,ORD-2025-000050,APP-3399,Ribbed merino crew,apparel,1,5045,504,4541,true,1,4541
+OL-2025-000108,ORD-2025-000051,APP-4025,Linen camp collar shirt,apparel,1,12595,0,12595,true,0,0
+OL-2025-000109,ORD-2025-000051,APP-9453,Washed cotton overshirt,apparel,1,4900,245,4655,true,0,0
+OL-2025-000110,ORD-2025-000052,GFT-4969,Morrow & Finch gift card,gift_card,1,9450,1418,8032,false,0,0
+OL-2025-000111,ORD-2025-000052,FTW-9342,Canvas low trainer,footwear,1,14200,0,14200,true,1,14200
+OL-2025-000112,ORD-2025-000053,HME-1736,"Ribbed glass tumbler, set of two",home,1,2445,0,2445,true,0,0
+OL-2025-000113,ORD-2025-000054,HME-3448,Beeswax pillar candle,home,1,7250,1088,6162,true,0,0
+OL-2025-000114,ORD-2025-000054,BTY-5740,Rosehip body balm,beauty,2,3350,335,6365,true,0,0
+OL-2025-000115,ORD-2025-000055,APP-9081,Pleated wool trouser,apparel,1,9050,0,9050,true,0,0
+OL-2025-000116,ORD-2025-000055,APP-1589,Washed cotton overshirt,apparel,1,12400,0,12400,true,0,0
+OL-2025-000117,ORD-2025-000056,APP-4587,Pleated wool trouser,apparel,1,3750,562,3188,true,0,0
+OL-2025-000118,ORD-2025-000056,FTW-7075,Suede field shoe,footwear,1,12550,1882,10668,true,0,0
+OL-2025-000119,ORD-2025-000057,BTY-1919,Cedar hand wash,beauty,1,2150,0,2150,true,0,0
+OL-2025-000120,ORD-2025-000057,APP-8123,Heavyweight jersey tee,apparel,1,9300,930,8370,true,0,0
+OL-2025-000121,ORD-2025-000058,FTW-5850,Canvas low trainer,footwear,1,13950,2092,11858,true,0,0
+OL-2025-000122,ORD-2025-000059,APP-7852,Pleated wool trouser,apparel,1,8900,0,8900,true,1,8900
+OL-2025-000123,ORD-2025-000059,BTY-6442,Rosehip body balm,beauty,1,1950,0,1950,true,0,0
+OL-2025-000124,ORD-2025-000060,FTW-8584,"Walking sandal, moss",footwear,1,6100,0,6100,true,0,0
+OL-2025-000125,ORD-2025-000061,FTW-7634,Canvas low trainer,footwear,1,11600,580,11020,true,0,0
+OL-2025-000126,ORD-2025-000061,HME-4240,Oak desk tray,home,1,4050,608,3442,true,0,0
+OL-2025-000127,ORD-2025-000062,BTY-3358,Vetiver travel candle,beauty,2,1850,185,3515,true,0,0
+OL-2025-000128,ORD-2025-000063,APP-1064,Washed cotton overshirt,apparel,1,8950,895,8055,true,0,0
+OL-2025-000129,ORD-2025-000063,HME-2289,Stoneware serving bowl,home,1,7795,1169,6626,true,0,0
+OL-2025-000130,ORD-2025-000064,FTW-7783,"Leather derby, oak",footwear,1,9200,0,9200,true,0,0
+OL-2025-000131,ORD-2025-000064,FTW-7530,Canvas low trainer,footwear,1,5295,0,5295,true,0,0
+OL-2025-000132,ORD-2025-000065,HME-8679,Oak desk tray,home,1,4300,215,4085,true,0,0
+OL-2025-000133,ORD-2025-000066,FTW-3389,Suede field shoe,footwear,1,6250,0,6250,true,0,0
+OL-2025-000134,ORD-2025-000066,ACC-7148,Waxed canvas pouch,accessories,1,4195,420,3775,true,0,0
+OL-2025-000135,ORD-2025-000067,APP-7939,Heavyweight jersey tee,apparel,1,8150,0,8150,true,0,0
+OL-2025-000136,ORD-2025-000067,HME-3068,"Ribbed glass tumbler, set of two",home,1,6550,0,6550,true,1,6550
+OL-2025-000137,ORD-2025-000068,APP-1319,Pleated wool trouser,apparel,1,4450,222,4228,true,0,0
+OL-2025-000138,ORD-2025-000069,APP-7489,Quilted patch jacket,apparel,1,8095,810,7285,true,1,7285
+OL-2025-000139,ORD-2025-000070,APP-8478,Quilted patch jacket,apparel,1,8400,0,8400,true,0,0
+OL-2025-000140,ORD-2025-000070,APP-1097,Washed cotton overshirt,apparel,1,4595,0,4595,true,0,0
+OL-2025-000141,ORD-2025-000070,HME-9729,Brushed cotton throw,home,1,2700,405,2295,true,0,0
+OL-2025-000142,ORD-2025-000071,APP-6989,Heavyweight jersey tee,apparel,1,5500,550,4950,true,0,0
+OL-2025-000143,ORD-2025-000071,BTY-9770,Botanical face oil,beauty,1,3650,548,3102,true,0,0
+OL-2025-000144,ORD-2025-000071,FTW-1317,Canvas low trainer,footwear,1,9900,0,9900,true,0,0
+OL-2025-000145,ORD-2025-000071,HME-4156,Stoneware serving bowl,home,1,6400,960,5440,true,0,0
+OL-2025-000146,ORD-2025-000072,HME-4589,Oak desk tray,home,1,5400,270,5130,true,0,0
+OL-2025-000147,ORD-2025-000072,APP-4196,Ribbed merino crew,apparel,1,6600,660,5940,true,0,0
+OL-2025-000148,ORD-2025-000072,APP-9576,Pleated wool trouser,apparel,1,8000,0,8000,true,0,0
+OL-2025-000149,ORD-2025-000072,APP-7580,Washed cotton overshirt,apparel,1,4850,728,4122,true,0,0
+OL-2025-000150,ORD-2025-000073,FTW-6855,"Chelsea boot, waxed",footwear,1,14000,0,14000,true,0,0
+OL-2025-000151,ORD-2025-000073,FTW-4364,Canvas low trainer,footwear,1,12950,1295,11655,true,0,0
+OL-2025-000152,ORD-2025-000073,FTW-5788,"Leather derby, oak",footwear,1,8700,870,7830,true,0,0
+OL-2025-000153,ORD-2025-000074,APP-7253,Ribbed merino crew,apparel,1,4550,0,4550,true,1,4550
+OL-2025-000154,ORD-2025-000074,APP-9684,Pleated wool trouser,apparel,1,6595,0,6595,true,0,0
+OL-2025-000155,ORD-2025-000075,ACC-2276,Waxed canvas pouch,accessories,1,1600,0,1600,true,0,0
+OL-2025-000156,ORD-2025-000075,APP-5431,Ribbed merino crew,apparel,1,11800,0,11800,true,0,0
+OL-2025-000157,ORD-2025-000075,FTW-6320,Suede field shoe,footwear,1,5850,0,5850,true,0,0
+OL-2025-000158,ORD-2025-000076,APP-1929,Quilted patch jacket,apparel,1,7350,0,7350,true,0,0
+OL-2025-000159,ORD-2025-000076,APP-1157,Washed cotton overshirt,apparel,1,6000,0,6000,true,0,0
+OL-2025-000160,ORD-2025-000076,FTW-1057,"Chelsea boot, waxed",footwear,1,7000,0,7000,true,1,7000
+OL-2025-000161,ORD-2025-000077,APP-9807,Quilted patch jacket,apparel,1,6300,0,6300,true,0,0
+OL-2025-000162,ORD-2025-000078,FTW-9550,Canvas low trainer,footwear,1,12100,605,11495,true,1,11495
+OL-2025-000163,ORD-2025-000078,HME-8543,Oak desk tray,home,2,8450,1690,15210,true,0,0
+OL-2025-000164,ORD-2025-000079,APP-2857,Quilted patch jacket,apparel,1,5850,585,5265,true,0,0
+OL-2025-000165,ORD-2025-000079,APP-1563,Pleated wool trouser,apparel,1,4600,0,4600,true,0,0
+OL-2025-000166,ORD-2025-000080,APP-3445,Ribbed merino crew,apparel,1,8600,860,7740,true,1,7740
+OL-2025-000167,ORD-2025-000080,APP-1960,Washed cotton overshirt,apparel,1,10145,1522,8623,true,0,0
+OL-2025-000168,ORD-2025-000081,FTW-1173,Canvas low trainer,footwear,1,5350,0,5350,true,0,0
+OL-2025-000169,ORD-2025-000081,HME-9464,"Ribbed glass tumbler, set of two",home,1,3600,0,3600,true,0,0
+OL-2025-000170,ORD-2025-000082,FTW-7860,Canvas low trainer,footwear,1,12650,0,12650,true,0,0
+OL-2025-000171,ORD-2025-000082,BTY-3898,Vetiver travel candle,beauty,2,1150,0,2300,true,0,0
+OL-2025-000172,ORD-2025-000082,APP-3181,Pleated wool trouser,apparel,1,5100,0,5100,true,0,0
+OL-2025-000173,ORD-2025-000083,HME-7181,Brushed cotton throw,home,1,3745,374,3371,true,1,3371
+OL-2025-000174,ORD-2025-000084,HME-5674,"Ribbed glass tumbler, set of two",home,1,1995,299,1696,true,0,0
+OL-2025-000175,ORD-2025-000085,ACC-3417,Brass key ring,accessories,1,3450,172,3278,true,0,0
+OL-2025-000176,ORD-2025-000086,FTW-3718,"Leather derby, oak",footwear,1,15450,1545,13905,true,0,0
+OL-2025-000177,ORD-2025-000086,FTW-6830,"Leather derby, oak",footwear,1,8900,0,8900,true,0,0
+OL-2025-000178,ORD-2025-000086,FTW-4561,"Walking sandal, moss",footwear,1,7100,0,7100,true,0,0
+OL-2025-000179,ORD-2025-000087,FTW-1599,"Leather derby, oak",footwear,1,13745,2062,11683,true,0,0
+OL-2025-000180,ORD-2025-000087,ACC-7776,Linen pocket square,accessories,1,4750,0,4750,true,0,0
+OL-2025-000181,ORD-2025-000088,APP-3847,Washed cotton overshirt,apparel,1,5250,0,5250,true,0,0
+OL-2025-000182,ORD-2025-000088,FTW-8853,Suede field shoe,footwear,1,12700,0,12700,true,0,0
+OL-2025-000183,ORD-2025-000088,APP-7839,Pleated wool trouser,apparel,1,3800,0,3800,true,0,0
+OL-2025-000184,ORD-2025-000089,APP-4037,Quilted patch jacket,apparel,1,8050,0,8050,true,1,8050
+OL-2025-000185,ORD-2025-000089,APP-2801,Linen camp collar shirt,apparel,1,8950,448,8502,true,1,8502
+OL-2025-000186,ORD-2025-000089,FTW-1380,Suede field shoe,footwear,1,7350,368,6982,true,1,6982
+OL-2025-000187,ORD-2025-000090,HME-5307,Oak desk tray,home,1,6800,680,6120,true,0,0
+OL-2025-000188,ORD-2025-000091,FTW-4434,Suede field shoe,footwear,1,7000,0,7000,true,0,0
+OL-2025-000189,ORD-2025-000091,HME-5099,"Ribbed glass tumbler, set of two",home,1,7650,0,7650,true,0,0
+OL-2025-000190,ORD-2025-000092,APP-1525,Linen camp collar shirt,apparel,1,7500,0,7500,true,0,0
+OL-2025-000191,ORD-2025-000092,HME-6088,Stoneware serving bowl,home,2,2200,0,4400,true,1,2200
+OL-2025-000192,ORD-2025-000093,HME-8929,"Ribbed glass tumbler, set of two",home,1,7150,0,7150,true,0,0
+OL-2025-000193,ORD-2025-000094,GFT-4594,E-gift card,gift_card,1,5400,540,4860,false,0,0
+OL-2025-000194,ORD-2025-000094,BTY-1306,Rosehip body balm,beauty,1,3800,380,3420,true,0,0
+OL-2025-000195,ORD-2025-000095,FTW-8131,"Walking sandal, moss",footwear,1,10700,0,10700,true,0,0
+OL-2025-000196,ORD-2025-000095,APP-2135,Ribbed merino crew,apparel,1,8950,448,8502,true,0,0
+OL-2025-000197,ORD-2025-000096,FTW-3999,"Walking sandal, moss",footwear,1,6245,937,5308,true,1,5308
+OL-2025-000198,ORD-2025-000097,APP-5992,Pleated wool trouser,apparel,1,3995,400,3595,true,1,3595
+OL-2025-000199,ORD-2025-000098,APP-9152,Linen camp collar shirt,apparel,1,9500,0,9500,true,1,9500
+OL-2025-000200,ORD-2025-000098,APP-3392,Linen camp collar shirt,apparel,1,10200,0,10200,true,1,10200
+OL-2025-000201,ORD-2025-000099,HME-9535,Stoneware serving bowl,home,1,2200,330,1870,true,0,0
+OL-2025-000202,ORD-2025-000099,FTW-3343,"Leather derby, oak",footwear,1,8700,435,8265,true,0,0
+OL-2025-000203,ORD-2025-000099,FTW-6729,"Leather derby, oak",footwear,1,15350,2302,13048,true,0,0
+OL-2025-000204,ORD-2025-000100,BTY-9653,Mineral bath soak,beauty,2,2995,898,5092,true,0,0
+OL-2025-000205,ORD-2025-000101,APP-6961,Quilted patch jacket,apparel,1,11650,0,11650,true,0,0
+OL-2025-000206,ORD-2025-000101,BTY-9297,Botanical face oil,beauty,2,2550,0,5100,true,0,0
+OL-2025-000207,ORD-2025-000102,APP-6641,Ribbed merino crew,apparel,1,5745,862,4883,true,0,0
+OL-2025-000208,ORD-2025-000103,FTW-8694,Suede field shoe,footwear,1,8500,0,8500,true,1,8500
+OL-2025-000209,ORD-2025-000103,FTW-2574,"Walking sandal, moss",footwear,1,7700,0,7700,true,0,0
+OL-2025-000210,ORD-2025-000104,FTW-6849,"Walking sandal, moss",footwear,1,11050,0,11050,true,0,0
+OL-2025-000211,ORD-2025-000104,FTW-6326,Canvas low trainer,footwear,1,10300,0,10300,true,0,0
+OL-2025-000212,ORD-2025-000105,HME-5788,Beeswax pillar candle,home,1,8150,815,7335,true,0,0
+OL-2025-000213,ORD-2025-000105,APP-5090,Ribbed merino crew,apparel,1,8100,0,8100,true,0,0
+OL-2025-000214,ORD-2025-000106,ACC-3725,Linen pocket square,accessories,1,5150,1288,3862,true,0,0
+OL-2025-000215,ORD-2025-000106,HME-2650,Oak desk tray,home,1,7600,0,7600,true,0,0
+OL-2025-000216,ORD-2025-000107,FTW-9154,"Chelsea boot, waxed",footwear,1,14750,0,14750,true,0,0
+OL-2025-000217,ORD-2025-000107,APP-7917,Heavyweight jersey tee,apparel,1,5395,0,5395,true,0,0
+OL-2025-000218,ORD-2025-000108,APP-7499,Pleated wool trouser,apparel,1,11300,0,11300,true,0,0
+OL-2025-000219,ORD-2025-000108,BTY-6708,Mineral bath soak,beauty,1,1700,0,1700,true,0,0
+OL-2025-000220,ORD-2025-000109,HME-9640,"Ribbed glass tumbler, set of two",home,1,5350,268,5082,true,0,0
+OL-2025-000221,ORD-2025-000109,FTW-6352,"Leather derby, oak",footwear,1,15495,1550,13945,true,0,0
+OL-2025-000222,ORD-2025-000109,APP-9524,Heavyweight jersey tee,apparel,1,6700,670,6030,true,0,0
+OL-2025-000223,ORD-2025-000110,APP-4632,Washed cotton overshirt,apparel,1,10250,0,10250,true,0,0
+OL-2025-000224,ORD-2025-000110,GFT-3307,Morrow & Finch gift card,gift_card,1,4550,0,4550,false,0,0
+OL-2025-000225,ORD-2025-000110,APP-2718,Linen camp collar shirt,apparel,1,11600,0,11600,true,0,0
+OL-2025-000226,ORD-2025-000111,HME-9431,Oak desk tray,home,1,2050,410,1640,true,0,0
+OL-2025-000227,ORD-2025-000111,APP-3040,Heavyweight jersey tee,apparel,1,8200,0,8200,true,0,0
+OL-2025-000228,ORD-2025-000112,GFT-4383,Morrow & Finch gift card,gift_card,1,9850,985,8865,false,0,0
+OL-2025-000229,ORD-2025-000113,ACC-2333,Brass key ring,accessories,1,4650,465,4185,true,0,0
+OL-2025-000230,ORD-2025-000113,APP-8762,Ribbed merino crew,apparel,1,5150,0,5150,true,0,0
+OL-2025-000231,ORD-2025-000113,BTY-9980,Vetiver travel candle,beauty,2,3300,990,5610,true,0,0
+OL-2025-000232,ORD-2025-000114,GFT-9927,Morrow & Finch gift card,gift_card,1,6050,605,5445,false,0,0
+OL-2025-000233,ORD-2025-000114,BTY-3588,Mineral bath soak,beauty,1,3900,390,3510,true,0,0
+OL-2025-000234,ORD-2025-000115,FTW-2099,Canvas low trainer,footwear,1,5650,0,5650,true,1,5650
+OL-2025-000235,ORD-2025-000116,BTY-3127,Vetiver travel candle,beauty,1,1150,0,1150,true,0,0
+OL-2025-000236,ORD-2025-000116,FTW-1096,"Walking sandal, moss",footwear,1,9700,970,8730,true,0,0
+OL-2025-000237,ORD-2025-000117,BTY-8145,Botanical face oil,beauty,1,3700,555,3145,true,0,0
+OL-2025-000238,ORD-2025-000117,APP-6418,Quilted patch jacket,apparel,1,11200,560,10640,true,0,0
+OL-2025-000239,ORD-2025-000117,HME-2432,Stoneware serving bowl,home,1,2845,711,2134,true,0,0
+OL-2025-000240,ORD-2025-000117,APP-2992,Linen camp collar shirt,apparel,1,11100,0,11100,true,0,0
+OL-2025-000241,ORD-2025-000118,FTW-4323,Suede field shoe,footwear,1,10650,0,10650,true,0,0
+OL-2025-000242,ORD-2025-000119,FTW-3897,"Leather derby, oak",footwear,1,5595,0,5595,true,0,0
+OL-2025-000243,ORD-2025-000119,FTW-2738,"Chelsea boot, waxed",footwear,1,11850,0,11850,true,0,0
+OL-2025-000244,ORD-2025-000120,BTY-8568,Cedar hand wash,beauty,1,3000,300,2700,true,0,0
+OL-2025-000245,ORD-2025-000120,APP-6360,Quilted patch jacket,apparel,1,5500,550,4950,true,0,0
+OL-2025-000246,ORD-2025-000121,APP-2097,Washed cotton overshirt,apparel,1,5350,0,5350,true,1,5350
+OL-2025-000247,ORD-2025-000121,BTY-4077,Vetiver travel candle,beauty,1,2050,0,2050,true,1,2050
+OL-2025-000248,ORD-2025-000122,APP-4561,Linen camp collar shirt,apparel,1,3600,0,3600,true,0,0
+OL-2025-000249,ORD-2025-000122,FTW-2504,Canvas low trainer,footwear,1,7445,744,6701,true,0,0
+OL-2025-000250,ORD-2025-000122,HME-4928,Oak desk tray,home,1,3300,165,3135,true,0,0
+OL-2025-000251,ORD-2025-000122,APP-3577,Washed cotton overshirt,apparel,1,5450,0,5450,true,0,0
+OL-2025-000252,ORD-2025-000123,HME-1254,"Ribbed glass tumbler, set of two",home,1,6300,0,6300,true,0,0
+OL-2025-000253,ORD-2025-000124,APP-8490,Linen camp collar shirt,apparel,1,6850,342,6508,true,0,0
+OL-2025-000254,ORD-2025-000124,APP-6440,Quilted patch jacket,apparel,1,9845,492,9353,true,1,9353
+OL-2025-000255,ORD-2025-000125,BTY-2806,Vetiver travel candle,beauty,1,4550,0,4550,true,0,0
+OL-2025-000256,ORD-2025-000126,FTW-7370,Canvas low trainer,footwear,1,6400,640,5760,true,0,0
+OL-2025-000257,ORD-2025-000126,BTY-8450,Mineral bath soak,beauty,1,1900,0,1900,true,0,0
+OL-2025-000258,ORD-2025-000126,ACC-2874,Linen pocket square,accessories,1,6400,1600,4800,true,0,0
+OL-2025-000259,ORD-2025-000127,APP-9112,Pleated wool trouser,apparel,1,9200,0,9200,true,0,0
+OL-2025-000260,ORD-2025-000127,APP-4660,Heavyweight jersey tee,apparel,1,7100,0,7100,true,0,0
+OL-2025-000261,ORD-2025-000128,HME-8775,Stoneware serving bowl,home,2,2900,580,5220,true,0,0
+OL-2025-000262,ORD-2025-000128,BTY-6814,Mineral bath soak,beauty,1,3350,0,3350,true,0,0
+OL-2025-000263,ORD-2025-000129,FTW-4329,Canvas low trainer,footwear,1,12350,1852,10498,true,0,0
+OL-2025-000264,ORD-2025-000129,APP-8312,Ribbed merino crew,apparel,1,3900,0,3900,true,0,0
+OL-2025-000265,ORD-2025-000130,APP-5058,Quilted patch jacket,apparel,1,5250,525,4725,true,0,0
+OL-2025-000266,ORD-2025-000131,HME-4049,Brushed cotton throw,home,1,6800,1020,5780,true,0,0
+OL-2025-000267,ORD-2025-000131,APP-9111,Washed cotton overshirt,apparel,1,6145,307,5838,true,0,0
+OL-2025-000268,ORD-2025-000131,HME-9674,Brushed cotton throw,home,1,4350,218,4132,true,0,0
+OL-2025-000269,ORD-2025-000132,APP-1123,Pleated wool trouser,apparel,1,9050,905,8145,true,0,0
+OL-2025-000270,ORD-2025-000132,BTY-3436,Mineral bath soak,beauty,2,2150,430,3870,true,0,0
+OL-2025-000271,ORD-2025-000133,FTW-3614,"Leather derby, oak",footwear,1,14595,0,14595,true,1,14595
+OL-2025-000272,ORD-2025-000134,APP-7958,Quilted patch jacket,apparel,1,4350,435,3915,true,0,0
+OL-2025-000273,ORD-2025-000134,ACC-3484,Woven leather belt,accessories,1,2150,0,2150,true,1,2150
+OL-2025-000274,ORD-2025-000135,FTW-1716,"Leather derby, oak",footwear,1,11500,0,11500,true,0,0
+OL-2025-000275,ORD-2025-000136,BTY-4525,Mineral bath soak,beauty,1,2700,135,2565,true,1,2565
+OL-2025-000276,ORD-2025-000136,APP-3427,Linen camp collar shirt,apparel,1,6200,1240,4960,true,0,0
+OL-2025-000277,ORD-2025-000136,APP-5132,Washed cotton overshirt,apparel,1,9700,485,9215,true,0,0
+OL-2025-000278,ORD-2025-000137,ACC-5660,Merino beanie,accessories,1,5800,0,5800,true,0,0
+OL-2025-000279,ORD-2025-000137,APP-9086,Quilted patch jacket,apparel,1,7595,380,7215,true,0,0
+OL-2025-000280,ORD-2025-000138,HME-4306,Oak desk tray,home,1,1900,0,1900,true,0,0
+OL-2025-000281,ORD-2025-000138,FTW-5400,"Leather derby, oak",footwear,1,6600,0,6600,true,0,0
+OL-2025-000282,ORD-2025-000138,FTW-5560,Suede field shoe,footwear,1,4950,248,4702,true,0,0
+OL-2025-000283,ORD-2025-000139,APP-1465,Linen camp collar shirt,apparel,1,7950,0,7950,true,1,7950
+OL-2025-000284,ORD-2025-000140,ACC-6492,Linen pocket square,accessories,1,4550,0,4550,true,0,0
+OL-2025-000285,ORD-2025-000140,HME-4540,Brushed cotton throw,home,1,4700,470,4230,true,0,0
+OL-2025-000286,ORD-2025-000140,FTW-1489,Suede field shoe,footwear,1,4800,240,4560,true,0,0
+OL-2025-000287,ORD-2025-000141,APP-4026,Ribbed merino crew,apparel,1,7200,360,6840,true,0,0
+OL-2025-000288,ORD-2025-000141,APP-2552,Ribbed merino crew,apparel,1,11095,1110,9985,true,0,0
+OL-2025-000289,ORD-2025-000141,BTY-2558,Vetiver travel candle,beauty,1,2300,0,2300,true,0,0
+OL-2025-000290,ORD-2025-000142,APP-7667,Ribbed merino crew,apparel,1,5245,0,5245,true,1,5245
+OL-2025-000291,ORD-2025-000142,BTY-7912,Rosehip body balm,beauty,1,3300,0,3300,true,1,3300
+OL-2025-000292,ORD-2025-000143,APP-3652,Pleated wool trouser,apparel,1,6500,0,6500,true,0,0
+OL-2025-000293,ORD-2025-000144,HME-5727,Oak desk tray,home,1,1895,190,1705,true,0,0
+OL-2025-000294,ORD-2025-000145,APP-6846,Quilted patch jacket,apparel,1,10950,0,10950,true,0,0
+OL-2025-000295,ORD-2025-000145,FTW-2883,Canvas low trainer,footwear,1,7500,0,7500,true,0,0
+OL-2025-000296,ORD-2025-000146,HME-9113,Oak desk tray,home,1,7150,0,7150,true,0,0
+OL-2025-000297,ORD-2025-000147,FTW-5834,"Chelsea boot, waxed",footwear,1,5100,0,5100,true,0,0
+OL-2025-000298,ORD-2025-000147,APP-7183,Washed cotton overshirt,apparel,1,7850,0,7850,true,0,0
+OL-2025-000299,ORD-2025-000147,APP-1649,Quilted patch jacket,apparel,1,5100,510,4590,true,0,0
+OL-2025-000300,ORD-2025-000148,FTW-3644,"Chelsea boot, waxed",footwear,1,12650,0,12650,true,0,0
+OL-2025-000301,ORD-2025-000148,FTW-9177,"Leather derby, oak",footwear,1,7900,790,7110,true,0,0
+OL-2025-000302,ORD-2025-000149,FTW-7258,"Leather derby, oak",footwear,1,7450,0,7450,true,0,0
+OL-2025-000303,ORD-2025-000149,FTW-6657,"Walking sandal, moss",footwear,1,12700,1270,11430,true,0,0
+OL-2025-000304,ORD-2025-000150,BTY-2534,Rosehip body balm,beauty,1,2900,0,2900,true,0,0
+OL-2025-000305,ORD-2025-000150,HME-2388,Stoneware serving bowl,home,1,7000,1050,5950,true,0,0
+OL-2025-000306,ORD-2025-000151,FTW-3332,"Leather derby, oak",footwear,1,7750,775,6975,true,0,0
+OL-2025-000307,ORD-2025-000151,FTW-1657,Canvas low trainer,footwear,1,5095,764,4331,true,0,0
+OL-2025-000308,ORD-2025-000152,FTW-1815,"Chelsea boot, waxed",footwear,1,11695,1170,10525,true,0,0
+OL-2025-000309,ORD-2025-000152,APP-8875,Heavyweight jersey tee,apparel,1,9945,994,8951,true,0,0
+OL-2025-000310,ORD-2025-000153,HME-6614,Oak desk tray,home,1,4300,0,4300,true,0,0
+OL-2025-000311,ORD-2025-000153,APP-6641,Washed cotton overshirt,apparel,1,4850,0,4850,true,0,0
+OL-2025-000312,ORD-2025-000154,FTW-7179,"Chelsea boot, waxed",footwear,1,10250,1025,9225,true,0,0
+OL-2025-000313,ORD-2025-000154,APP-7106,Heavyweight jersey tee,apparel,1,5850,585,5265,true,0,0
+OL-2025-000314,ORD-2025-000154,BTY-3275,Mineral bath soak,beauty,2,3350,670,6030,true,0,0
+OL-2025-000315,ORD-2025-000155,HME-2392,Stoneware serving bowl,home,1,2045,511,1534,true,0,0
+OL-2025-000316,ORD-2025-000156,BTY-3092,Cedar hand wash,beauty,1,4000,200,3800,true,0,0
+OL-2025-000317,ORD-2025-000157,ACC-5486,Woven leather belt,accessories,1,5150,0,5150,true,0,0
+OL-2025-000318,ORD-2025-000157,FTW-9598,"Chelsea boot, waxed",footwear,1,6850,685,6165,true,0,0
+OL-2025-000319,ORD-2025-000158,HME-3878,"Ribbed glass tumbler, set of two",home,1,6345,1269,5076,true,1,5076
+OL-2025-000320,ORD-2025-000158,APP-9509,Pleated wool trouser,apparel,1,9200,0,9200,true,0,0
+OL-2025-000321,ORD-2025-000159,BTY-2335,Vetiver travel candle,beauty,1,4195,0,4195,true,1,4195
+OL-2025-000322,ORD-2025-000159,APP-4471,Linen camp collar shirt,apparel,1,7050,705,6345,true,1,6345
+OL-2025-000323,ORD-2025-000160,APP-2891,Ribbed merino crew,apparel,1,6495,650,5845,true,1,5845
+OL-2025-000324,ORD-2025-000161,APP-9161,Ribbed merino crew,apparel,1,5245,0,5245,true,0,0
+OL-2025-000325,ORD-2025-000161,APP-9964,Washed cotton overshirt,apparel,1,11250,0,11250,true,0,0
+OL-2025-000326,ORD-2025-000162,HME-2378,Brushed cotton throw,home,2,7550,0,15100,true,0,0
+OL-2025-000327,ORD-2025-000162,APP-8167,Washed cotton overshirt,apparel,1,10000,0,10000,true,0,0
+OL-2025-000328,ORD-2025-000163,BTY-9733,Cedar hand wash,beauty,1,3750,0,3750,true,0,0
+OL-2025-000329,ORD-2025-000164,FTW-5571,"Leather derby, oak",footwear,1,12100,0,12100,true,0,0
+OL-2025-000330,ORD-2025-000164,FTW-6859,Canvas low trainer,footwear,1,6700,0,6700,true,0,0
+OL-2025-000331,ORD-2025-000165,HME-4296,Beeswax pillar candle,home,1,3900,390,3510,true,0,0
+OL-2025-000332,ORD-2025-000165,FTW-1119,Suede field shoe,footwear,1,15000,0,15000,true,0,0
+OL-2025-000333,ORD-2025-000166,APP-3739,Heavyweight jersey tee,apparel,1,10050,1005,9045,true,0,0
+OL-2025-000334,ORD-2025-000166,HME-4295,Stoneware serving bowl,home,1,2650,0,2650,true,0,0
+OL-2025-000335,ORD-2025-000167,FTW-5766,Canvas low trainer,footwear,1,14095,2114,11981,true,0,0
+OL-2025-000336,ORD-2025-000167,APP-5417,Ribbed merino crew,apparel,1,6450,0,6450,true,0,0
+OL-2025-000337,ORD-2025-000167,HME-5847,"Ribbed glass tumbler, set of two",home,1,6550,0,6550,true,0,0
+OL-2025-000338,ORD-2025-000168,HME-4787,Stoneware serving bowl,home,1,2350,0,2350,true,0,0
+OL-2025-000339,ORD-2025-000168,APP-1182,Quilted patch jacket,apparel,1,6850,0,6850,true,0,0
+OL-2025-000340,ORD-2025-000169,APP-3757,Linen camp collar shirt,apparel,1,8800,0,8800,true,0,0
+OL-2025-000341,ORD-2025-000169,HME-3573,Oak desk tray,home,1,7800,0,7800,true,0,0
+OL-2025-000342,ORD-2025-000170,BTY-3289,Botanical face oil,beauty,1,4050,202,3848,true,0,0
+OL-2025-000343,ORD-2025-000171,FTW-7025,Suede field shoe,footwear,1,10050,0,10050,true,0,0
+OL-2025-000344,ORD-2025-000171,HME-7135,Stoneware serving bowl,home,1,3350,0,3350,true,0,0
+OL-2025-000345,ORD-2025-000172,ACC-7149,Waxed canvas pouch,accessories,1,3995,0,3995,true,0,0
+OL-2025-000346,ORD-2025-000172,ACC-9384,Brass key ring,accessories,1,3350,0,3350,true,0,0
+OL-2025-000347,ORD-2025-000172,APP-9251,Linen camp collar shirt,apparel,1,11050,1105,9945,true,0,0
+OL-2025-000348,ORD-2025-000173,FTW-2465,Suede field shoe,footwear,1,11450,572,10878,true,0,0
+OL-2025-000349,ORD-2025-000173,HME-4444,Beeswax pillar candle,home,1,3750,0,3750,true,0,0
+OL-2025-000350,ORD-2025-000173,ACC-4267,Linen pocket square,accessories,1,5600,0,5600,true,0,0
+OL-2025-000351,ORD-2025-000174,BTY-4016,Botanical face oil,beauty,1,4300,0,4300,true,0,0
+OL-2025-000352,ORD-2025-000174,BTY-1846,Vetiver travel candle,beauty,1,4300,0,4300,true,0,0
+OL-2025-000353,ORD-2025-000175,HME-1413,Oak desk tray,home,1,5450,0,5450,true,0,0
+OL-2025-000354,ORD-2025-000175,APP-8571,Ribbed merino crew,apparel,1,7200,720,6480,true,0,0
+OL-2025-000355,ORD-2025-000176,GFT-9783,Morrow & Finch gift card,gift_card,1,6700,0,6700,false,0,0
+OL-2025-000356,ORD-2025-000176,APP-4724,Pleated wool trouser,apparel,1,11095,1664,9431,true,0,0
+OL-2025-000357,ORD-2025-000176,APP-4324,Ribbed merino crew,apparel,1,7045,352,6693,true,0,0
+OL-2025-000358,ORD-2025-000177,APP-7996,Ribbed merino crew,apparel,1,9900,0,9900,true,0,0
+OL-2025-000359,ORD-2025-000177,HME-6735,Brushed cotton throw,home,1,2550,0,2550,true,1,2550
+OL-2025-000360,ORD-2025-000178,HME-4534,Oak desk tray,home,1,2450,122,2328,true,0,0
+OL-2025-000361,ORD-2025-000178,APP-1576,Linen camp collar shirt,apparel,1,11600,0,11600,true,0,0
+OL-2025-000362,ORD-2025-000178,APP-4178,Pleated wool trouser,apparel,1,5750,0,5750,true,0,0
+OL-2025-000363,ORD-2025-000179,APP-2522,Quilted patch jacket,apparel,1,8400,0,8400,true,0,0
+OL-2025-000364,ORD-2025-000179,BTY-2946,Cedar hand wash,beauty,1,2050,308,1742,true,0,0
+OL-2025-000365,ORD-2025-000180,FTW-9726,"Walking sandal, moss",footwear,1,10395,0,10395,true,0,0
+OL-2025-000366,ORD-2025-000180,APP-4549,Ribbed merino crew,apparel,1,6745,0,6745,true,0,0
+OL-2025-000367,ORD-2025-000181,FTW-1538,Canvas low trainer,footwear,1,5300,265,5035,true,0,0
+OL-2025-000368,ORD-2025-000181,HME-8806,Stoneware serving bowl,home,1,7345,0,7345,true,0,0
+OL-2025-000369,ORD-2025-000181,BTY-2792,Rosehip body balm,beauty,1,3045,457,2588,true,0,0
+OL-2025-000370,ORD-2025-000181,FTW-8221,"Chelsea boot, waxed",footwear,1,13150,0,13150,true,0,0
+OL-2025-000371,ORD-2025-000182,ACC-3627,Waxed canvas pouch,accessories,1,2750,0,2750,true,0,0
+OL-2025-000372,ORD-2025-000182,FTW-2790,Suede field shoe,footwear,1,8145,0,8145,true,0,0
+OL-2025-000373,ORD-2025-000183,HME-4010,Beeswax pillar candle,home,1,2450,0,2450,true,0,0
+OL-2025-000374,ORD-2025-000183,BTY-4874,Vetiver travel candle,beauty,1,1750,175,1575,true,0,0
+OL-2025-000375,ORD-2025-000184,ACC-5422,Waxed canvas pouch,accessories,1,1495,0,1495,true,1,1495
+OL-2025-000376,ORD-2025-000185,APP-3470,Washed cotton overshirt,apparel,1,10400,2600,7800,true,0,0
+OL-2025-000377,ORD-2025-000186,ACC-7677,Brass key ring,accessories,1,5250,0,5250,true,0,0
+OL-2025-000378,ORD-2025-000186,FTW-9238,Canvas low trainer,footwear,1,5200,780,4420,true,0,0
+OL-2025-000379,ORD-2025-000187,HME-1678,Oak desk tray,home,1,5850,585,5265,true,0,0
+OL-2025-000380,ORD-2025-000188,HME-3861,"Ribbed glass tumbler, set of two",home,1,3150,0,3150,true,0,0
+OL-2025-000381,ORD-2025-000188,BTY-7943,Mineral bath soak,beauty,1,3950,0,3950,true,0,0
+OL-2025-000382,ORD-2025-000189,APP-9902,Ribbed merino crew,apparel,1,10750,1612,9138,true,1,9138
+OL-2025-000383,ORD-2025-000189,APP-8568,Heavyweight jersey tee,apparel,1,7600,0,7600,true,0,0
+OL-2025-000384,ORD-2025-000189,APP-2660,Quilted patch jacket,apparel,1,11650,0,11650,true,0,0
+OL-2025-000385,ORD-2025-000190,HME-1553,Oak desk tray,home,1,4250,638,3612,true,0,0
+OL-2025-000386,ORD-2025-000190,BTY-8572,Rosehip body balm,beauty,1,1645,0,1645,true,0,0
+OL-2025-000387,ORD-2025-000191,HME-7494,Oak desk tray,home,1,3550,0,3550,true,0,0
+OL-2025-000388,ORD-2025-000191,HME-6525,Stoneware serving bowl,home,1,7295,0,7295,true,0,0
+OL-2025-000389,ORD-2025-000191,APP-9675,Pleated wool trouser,apparel,1,12495,0,12495,true,0,0
+OL-2025-000390,ORD-2025-000192,BTY-2720,Cedar hand wash,beauty,1,1300,65,1235,true,1,1235
+OL-2025-000391,ORD-2025-000192,BTY-6160,Rosehip body balm,beauty,1,3395,170,3225,true,0,0
+OL-2025-000392,ORD-2025-000193,FTW-9486,Suede field shoe,footwear,1,8550,855,7695,true,0,0
+OL-2025-000393,ORD-2025-000193,ACC-4412,Linen pocket square,accessories,1,3100,0,3100,true,0,0
+OL-2025-000394,ORD-2025-000194,APP-1392,Washed cotton overshirt,apparel,1,7100,0,7100,true,0,0
+OL-2025-000395,ORD-2025-000194,HME-6802,Stoneware serving bowl,home,1,3950,592,3358,true,0,0
+OL-2025-000396,ORD-2025-000194,APP-8757,Washed cotton overshirt,apparel,1,7700,0,7700,true,0,0
+OL-2025-000397,ORD-2025-000195,APP-7009,Washed cotton overshirt,apparel,1,11800,1770,10030,true,0,0
+OL-2025-000398,ORD-2025-000196,APP-3976,Linen camp collar shirt,apparel,1,8350,0,8350,true,0,0
+OL-2025-000399,ORD-2025-000196,APP-1999,Heavyweight jersey tee,apparel,1,11150,1672,9478,true,0,0
+OL-2025-000400,ORD-2025-000197,FTW-3365,"Walking sandal, moss",footwear,1,5700,0,5700,true,0,0
+OL-2025-000401,ORD-2025-000197,APP-6971,Quilted patch jacket,apparel,1,9100,0,9100,true,0,0
+OL-2025-000402,ORD-2025-000198,HME-7116,Beeswax pillar candle,home,1,3250,0,3250,true,0,0
+OL-2025-000403,ORD-2025-000199,APP-9578,Heavyweight jersey tee,apparel,1,4350,0,4350,true,0,0
+OL-2025-000404,ORD-2025-000199,ACC-9404,Woven leather belt,accessories,1,4350,0,4350,true,0,0
+OL-2025-000405,ORD-2025-000200,APP-7474,Ribbed merino crew,apparel,1,4850,728,4122,true,0,0
+OL-2025-000406,ORD-2025-000200,APP-4996,Linen camp collar shirt,apparel,1,3950,395,3555,true,0,0
+OL-2025-000407,ORD-2025-000201,APP-6557,Quilted patch jacket,apparel,1,3995,0,3995,true,0,0
+OL-2025-000408,ORD-2025-000201,APP-7441,Washed cotton overshirt,apparel,1,10200,0,10200,true,0,0
+OL-2025-000409,ORD-2025-000202,BTY-4797,Mineral bath soak,beauty,1,4345,434,3911,true,1,3911
+OL-2025-000410,ORD-2025-000202,APP-1550,Linen camp collar shirt,apparel,1,11250,0,11250,true,1,11250
+OL-2025-000411,ORD-2025-000203,FTW-6392,Canvas low trainer,footwear,1,10000,0,10000,true,0,0
+OL-2025-000412,ORD-2025-000204,HME-1772,Stoneware serving bowl,home,2,3750,0,7500,true,0,0
+OL-2025-000413,ORD-2025-000204,APP-9558,Linen camp collar shirt,apparel,1,8295,1244,7051,true,0,0
+OL-2025-000414,ORD-2025-000204,APP-3057,Linen camp collar shirt,apparel,1,6650,1662,4988,true,0,0
+OL-2025-000415,ORD-2025-000205,FTW-5968,"Walking sandal, moss",footwear,1,10245,0,10245,true,0,0
+OL-2025-000416,ORD-2025-000206,APP-7222,Linen camp collar shirt,apparel,1,8350,0,8350,true,0,0
+OL-2025-000417,ORD-2025-000207,HME-9453,Brushed cotton throw,home,1,2450,122,2328,true,0,0
+OL-2025-000418,ORD-2025-000207,FTW-4005,"Leather derby, oak",footwear,1,7550,1132,6418,true,0,0
+OL-2025-000419,ORD-2025-000208,APP-3211,Linen camp collar shirt,apparel,1,9050,905,8145,true,0,0
+OL-2025-000420,ORD-2025-000209,APP-4405,Washed cotton overshirt,apparel,1,5050,505,4545,true,1,4545
+OL-2025-000421,ORD-2025-000210,BTY-7880,Rosehip body balm,beauty,1,1400,350,1050,true,0,0
+OL-2025-000422,ORD-2025-000210,APP-8684,Ribbed merino crew,apparel,1,9850,1478,8372,true,0,0
+OL-2025-000423,ORD-2025-000211,APP-9400,Washed cotton overshirt,apparel,1,12400,0,12400,true,0,0
+OL-2025-000424,ORD-2025-000211,HME-9696,"Ribbed glass tumbler, set of two",home,1,6950,0,6950,true,0,0
+OL-2025-000425,ORD-2025-000211,APP-9343,Washed cotton overshirt,apparel,1,3750,188,3562,true,0,0
+OL-2025-000426,ORD-2025-000212,APP-5204,Pleated wool trouser,apparel,1,4800,0,4800,true,0,0
+OL-2025-000427,ORD-2025-000212,BTY-2096,Cedar hand wash,beauty,1,3650,0,3650,true,0,0
+OL-2025-000428,ORD-2025-000213,APP-6905,Washed cotton overshirt,apparel,1,10450,0,10450,true,0,0
+OL-2025-000429,ORD-2025-000213,FTW-2000,Canvas low trainer,footwear,1,5395,270,5125,true,0,0
+OL-2025-000430,ORD-2025-000213,HME-8466,Stoneware serving bowl,home,1,5000,0,5000,true,0,0
+OL-2025-000431,ORD-2025-000213,BTY-6790,Rosehip body balm,beauty,1,1600,160,1440,true,0,0
+OL-2025-000432,ORD-2025-000214,APP-3537,Heavyweight jersey tee,apparel,1,6595,0,6595,true,0,0
+OL-2025-000433,ORD-2025-000214,APP-5003,Washed cotton overshirt,apparel,1,6200,310,5890,true,0,0
+OL-2025-000434,ORD-2025-000215,APP-7381,Quilted patch jacket,apparel,1,12150,0,12150,true,0,0
+OL-2025-000435,ORD-2025-000215,FTW-2231,"Leather derby, oak",footwear,1,11700,0,11700,true,0,0
+OL-2025-000436,ORD-2025-000215,APP-2942,Washed cotton overshirt,apparel,1,8095,405,7690,true,0,0
+OL-2025-000437,ORD-2025-000216,APP-5459,Washed cotton overshirt,apparel,1,4550,0,4550,true,0,0
+OL-2025-000438,ORD-2025-000216,ACC-1933,Merino beanie,accessories,1,6000,0,6000,true,0,0
+OL-2025-000439,ORD-2025-000216,APP-6700,Quilted patch jacket,apparel,1,3850,0,3850,true,0,0
+OL-2025-000440,ORD-2025-000217,HME-5325,Stoneware serving bowl,home,1,3100,0,3100,true,0,0
+OL-2025-000441,ORD-2025-000217,APP-8706,Pleated wool trouser,apparel,1,10150,0,10150,true,0,0
+OL-2025-000442,ORD-2025-000218,FTW-9165,Suede field shoe,footwear,1,7750,0,7750,true,0,0
+OL-2025-000443,ORD-2025-000218,APP-3585,Heavyweight jersey tee,apparel,1,9200,920,8280,true,1,8280
+OL-2025-000444,ORD-2025-000218,FTW-3987,"Leather derby, oak",footwear,1,11850,0,11850,true,0,0
+OL-2025-000445,ORD-2025-000219,FTW-7396,Suede field shoe,footwear,1,9250,1388,7862,true,0,0
+OL-2025-000446,ORD-2025-000219,APP-5611,Linen camp collar shirt,apparel,1,10500,1575,8925,true,0,0
+OL-2025-000447,ORD-2025-000220,FTW-8294,"Chelsea boot, waxed",footwear,1,6150,0,6150,true,0,0
+OL-2025-000448,ORD-2025-000221,BTY-2683,Rosehip body balm,beauty,1,4300,0,4300,true,0,0
+OL-2025-000449,ORD-2025-000221,APP-6973,Linen camp collar shirt,apparel,1,5000,500,4500,true,1,4500
+OL-2025-000450,ORD-2025-000221,APP-9659,Washed cotton overshirt,apparel,1,8050,0,8050,true,0,0
+OL-2025-000451,ORD-2025-000222,HME-2351,Oak desk tray,home,1,2400,0,2400,true,0,0
+OL-2025-000452,ORD-2025-000223,FTW-1318,Suede field shoe,footwear,1,4850,0,4850,true,0,0
+OL-2025-000453,ORD-2025-000223,BTY-7475,Vetiver travel candle,beauty,1,4095,614,3481,true,0,0
+OL-2025-000454,ORD-2025-000223,APP-1928,Linen camp collar shirt,apparel,1,11345,1134,10211,true,0,0
+OL-2025-000455,ORD-2025-000223,FTW-7764,"Walking sandal, moss",footwear,1,13445,0,13445,true,0,0
+OL-2025-000456,ORD-2025-000224,APP-9981,Quilted patch jacket,apparel,1,10150,508,9642,true,1,9642
+OL-2025-000457,ORD-2025-000224,BTY-4992,Botanical face oil,beauty,1,1150,172,978,true,0,0
+OL-2025-000458,ORD-2025-000225,APP-2086,Heavyweight jersey tee,apparel,1,3600,360,3240,true,0,0
+OL-2025-000459,ORD-2025-000225,FTW-2507,"Chelsea boot, waxed",footwear,1,11095,555,10540,true,0,0
+OL-2025-000460,ORD-2025-000225,APP-5818,Linen camp collar shirt,apparel,1,8400,0,8400,true,0,0
+OL-2025-000461,ORD-2025-000225,FTW-9396,"Walking sandal, moss",footwear,1,13850,3462,10388,true,0,0
+OL-2025-000462,ORD-2025-000226,GFT-3538,Morrow & Finch gift card,gift_card,1,2895,434,2461,false,0,0
+OL-2025-000463,ORD-2025-000227,APP-9353,Washed cotton overshirt,apparel,1,6350,0,6350,true,0,0
+OL-2025-000464,ORD-2025-000227,HME-3668,Stoneware serving bowl,home,1,2550,0,2550,true,0,0
+OL-2025-000465,ORD-2025-000228,APP-4463,Washed cotton overshirt,apparel,1,6800,340,6460,true,0,0
+OL-2025-000466,ORD-2025-000228,HME-1362,"Ribbed glass tumbler, set of two",home,1,2350,118,2232,true,0,0
+OL-2025-000467,ORD-2025-000229,GFT-9198,E-gift card,gift_card,1,9400,0,9400,false,0,0
+OL-2025-000468,ORD-2025-000229,HME-1955,Oak desk tray,home,1,5450,0,5450,true,0,0
+OL-2025-000469,ORD-2025-000229,APP-8366,Heavyweight jersey tee,apparel,1,10850,0,10850,true,0,0
+OL-2025-000470,ORD-2025-000230,HME-4950,Oak desk tray,home,1,4650,0,4650,true,0,0
+OL-2025-000471,ORD-2025-000230,GFT-2467,E-gift card,gift_card,1,5150,0,5150,false,0,0
+OL-2025-000472,ORD-2025-000231,HME-4060,Oak desk tray,home,1,6200,310,5890,true,0,0
+OL-2025-000473,ORD-2025-000231,APP-2547,Quilted patch jacket,apparel,1,5150,0,5150,true,0,0
+OL-2025-000474,ORD-2025-000231,ACC-6322,Woven leather belt,accessories,1,2250,0,2250,true,0,0
+OL-2025-000475,ORD-2025-000231,BTY-3250,Vetiver travel candle,beauty,1,1950,0,1950,true,0,0
+OL-2025-000476,ORD-2025-000232,HME-1958,Oak desk tray,home,1,5345,0,5345,true,0,0
+OL-2025-000477,ORD-2025-000232,BTY-9528,Rosehip body balm,beauty,1,4700,0,4700,true,0,0
+OL-2025-000478,ORD-2025-000233,HME-6432,Oak desk tray,home,1,4050,0,4050,true,0,0
+OL-2025-000479,ORD-2025-000233,APP-1094,Linen camp collar shirt,apparel,1,7950,0,7950,true,0,0
+OL-2025-000480,ORD-2025-000233,FTW-1412,Canvas low trainer,footwear,1,7950,1988,5962,true,0,0
+OL-2025-000481,ORD-2025-000234,HME-2008,Stoneware serving bowl,home,1,7600,1140,6460,true,1,6460
+OL-2025-000482,ORD-2025-000234,BTY-1071,Vetiver travel candle,beauty,1,1600,160,1440,true,1,1440
+OL-2025-000483,ORD-2025-000235,BTY-1293,Cedar hand wash,beauty,1,1750,262,1488,true,0,0
+OL-2025-000484,ORD-2025-000235,FTW-4517,"Leather derby, oak",footwear,1,5550,278,5272,true,0,0
+OL-2025-000485,ORD-2025-000236,APP-9572,Pleated wool trouser,apparel,1,10450,0,10450,true,0,0
+OL-2025-000486,ORD-2025-000236,BTY-1097,Cedar hand wash,beauty,2,2150,0,4300,true,0,0
+OL-2025-000487,ORD-2025-000237,FTW-9465,"Leather derby, oak",footwear,1,13600,0,13600,true,0,0
+OL-2025-000488,ORD-2025-000237,BTY-8317,Rosehip body balm,beauty,1,4095,205,3890,true,0,0
+OL-2025-000489,ORD-2025-000237,APP-5090,Pleated wool trouser,apparel,1,4900,0,4900,true,0,0
+OL-2025-000490,ORD-2025-000237,BTY-5504,Vetiver travel candle,beauty,2,1150,230,2070,true,0,0
+OL-2025-000491,ORD-2025-000238,HME-4201,Oak desk tray,home,1,6300,0,6300,true,0,0
+OL-2025-000492,ORD-2025-000238,HME-4701,Brushed cotton throw,home,1,3900,390,3510,true,0,0
+OL-2025-000493,ORD-2025-000239,APP-9898,Linen camp collar shirt,apparel,1,3650,182,3468,true,0,0
+OL-2025-000494,ORD-2025-000239,APP-1390,Washed cotton overshirt,apparel,1,4350,0,4350,true,0,0
+OL-2025-000495,ORD-2025-000239,APP-9614,Quilted patch jacket,apparel,1,4000,200,3800,true,0,0
+OL-2025-000496,ORD-2025-000239,FTW-7882,"Walking sandal, moss",footwear,1,7950,398,7552,true,0,0
+OL-2025-000497,ORD-2025-000240,APP-9350,Linen camp collar shirt,apparel,1,5095,764,4331,true,1,4331
+OL-2025-000498,ORD-2025-000241,APP-3161,Pleated wool trouser,apparel,1,11800,1180,10620,true,0,0
+OL-2025-000499,ORD-2025-000241,APP-5264,Quilted patch jacket,apparel,1,7400,370,7030,true,0,0
+OL-2025-000500,ORD-2025-000242,ACC-7040,Merino beanie,accessories,1,1500,0,1500,true,1,1500
+OL-2025-000501,ORD-2025-000243,APP-2244,Linen camp collar shirt,apparel,1,9100,910,8190,true,1,8190
+OL-2025-000502,ORD-2025-000243,APP-6942,Heavyweight jersey tee,apparel,1,11600,580,11020,true,0,0
+OL-2025-000503,ORD-2025-000244,GFT-7763,E-gift card,gift_card,1,9750,1462,8288,false,0,0
+OL-2025-000504,ORD-2025-000244,APP-7525,Washed cotton overshirt,apparel,1,10350,1035,9315,true,0,0
+OL-2025-000505,ORD-2025-000244,APP-7167,Washed cotton overshirt,apparel,1,10150,0,10150,true,0,0
+OL-2025-000506,ORD-2025-000245,APP-2088,Linen camp collar shirt,apparel,1,7250,1088,6162,true,0,0
+OL-2025-000507,ORD-2025-000245,FTW-9313,"Walking sandal, moss",footwear,1,7600,760,6840,true,1,6840
+OL-2025-000508,ORD-2025-000246,BTY-5240,Mineral bath soak,beauty,2,3100,0,6200,true,0,0
+OL-2025-000509,ORD-2025-000246,FTW-2148,Suede field shoe,footwear,1,9450,945,8505,true,0,0
+OL-2025-000510,ORD-2025-000247,APP-5277,Linen camp collar shirt,apparel,1,4800,240,4560,true,0,0
+OL-2025-000511,ORD-2025-000247,APP-4603,Linen camp collar shirt,apparel,1,7650,0,7650,true,0,0
+OL-2025-000512,ORD-2025-000247,BTY-4156,Rosehip body balm,beauty,1,4800,240,4560,true,0,0
+OL-2025-000513,ORD-2025-000248,HME-3192,Oak desk tray,home,1,4250,0,4250,true,0,0
+OL-2025-000514,ORD-2025-000249,APP-6924,Washed cotton overshirt,apparel,1,11600,580,11020,true,1,11020
+OL-2025-000515,ORD-2025-000250,BTY-2770,Botanical face oil,beauty,1,2645,132,2513,true,1,2513
+OL-2025-000516,ORD-2025-000251,APP-2527,Heavyweight jersey tee,apparel,1,10300,0,10300,true,0,0
+OL-2025-000517,ORD-2025-000251,BTY-5352,Mineral bath soak,beauty,1,3095,464,2631,true,0,0
+OL-2025-000518,ORD-2025-000251,APP-9541,Heavyweight jersey tee,apparel,1,8450,0,8450,true,0,0
+OL-2025-000519,ORD-2025-000251,APP-9762,Washed cotton overshirt,apparel,1,11295,0,11295,true,0,0
+OL-2025-000520,ORD-2025-000252,APP-6168,Quilted patch jacket,apparel,1,8950,895,8055,true,0,0
+OL-2025-000521,ORD-2025-000253,FTW-9388,"Chelsea boot, waxed",footwear,1,14800,2960,11840,true,0,0
+OL-2025-000522,ORD-2025-000254,APP-1456,Quilted patch jacket,apparel,1,11600,1160,10440,true,0,0
+OL-2025-000523,ORD-2025-000254,APP-8352,Washed cotton overshirt,apparel,1,10350,0,10350,true,0,0
+OL-2025-000524,ORD-2025-000255,APP-2271,Quilted patch jacket,apparel,1,11000,1100,9900,true,0,0
+OL-2025-000525,ORD-2025-000256,APP-5796,Quilted patch jacket,apparel,1,10250,1538,8712,true,0,0
+OL-2025-000526,ORD-2025-000256,HME-7765,Brushed cotton throw,home,1,2900,290,2610,true,0,0
+OL-2025-000527,ORD-2025-000257,APP-1288,Ribbed merino crew,apparel,1,7450,1118,6332,true,0,0
+OL-2025-000528,ORD-2025-000257,APP-7512,Quilted patch jacket,apparel,1,9400,470,8930,true,1,8930
+OL-2025-000529,ORD-2025-000258,APP-6085,Linen camp collar shirt,apparel,1,8350,418,7932,true,0,0
+OL-2025-000530,ORD-2025-000258,HME-4725,Brushed cotton throw,home,1,4000,800,3200,true,0,0
+OL-2025-000531,ORD-2025-000259,APP-2329,Quilted patch jacket,apparel,1,8650,0,8650,true,0,0
+OL-2025-000532,ORD-2025-000259,APP-5778,Heavyweight jersey tee,apparel,1,4050,202,3848,true,0,0
+OL-2025-000533,ORD-2025-000260,ACC-8204,Woven leather belt,accessories,1,3850,578,3272,true,0,0
+OL-2025-000534,ORD-2025-000260,APP-9945,Heavyweight jersey tee,apparel,1,8000,0,8000,true,0,0
+OL-2025-000535,ORD-2025-000261,ACC-6438,Merino beanie,accessories,1,1945,292,1653,true,0,0
+OL-2025-000536,ORD-2025-000262,FTW-9096,"Leather derby, oak",footwear,1,4500,450,4050,true,0,0
+OL-2025-000537,ORD-2025-000262,HME-5884,"Ribbed glass tumbler, set of two",home,1,5800,0,5800,true,1,5800
+OL-2025-000538,ORD-2025-000263,BTY-6167,Botanical face oil,beauty,1,3700,925,2775,true,0,0
+OL-2025-000539,ORD-2025-000263,HME-3292,Brushed cotton throw,home,1,7150,358,6792,true,0,0
+OL-2025-000540,ORD-2025-000263,APP-1227,Heavyweight jersey tee,apparel,1,6550,0,6550,true,0,0
+OL-2025-000541,ORD-2025-000264,APP-8853,Pleated wool trouser,apparel,1,8450,845,7605,true,0,0
+OL-2025-000542,ORD-2025-000264,APP-5487,Washed cotton overshirt,apparel,1,10550,528,10022,true,0,0
+OL-2025-000543,ORD-2025-000265,BTY-2675,Botanical face oil,beauty,1,1345,202,1143,true,0,0
+OL-2025-000544,ORD-2025-000265,FTW-8741,"Chelsea boot, waxed",footwear,1,9695,0,9695,true,0,0
+OL-2025-000545,ORD-2025-000266,FTW-2560,"Leather derby, oak",footwear,1,8350,418,7932,true,0,0
+OL-2025-000546,ORD-2025-000266,APP-7125,Linen camp collar shirt,apparel,1,5850,585,5265,true,0,0
+OL-2025-000547,ORD-2025-000266,APP-2641,Linen camp collar shirt,apparel,1,8800,0,8800,true,0,0
+OL-2025-000548,ORD-2025-000267,APP-4732,Ribbed merino crew,apparel,1,7795,0,7795,true,0,0
+OL-2025-000549,ORD-2025-000267,APP-9847,Heavyweight jersey tee,apparel,1,3845,0,3845,true,0,0
+OL-2025-000550,ORD-2025-000268,ACC-8332,Waxed canvas pouch,accessories,1,3000,0,3000,true,0,0
+OL-2025-000551,ORD-2025-000268,APP-9707,Pleated wool trouser,apparel,1,12450,622,11828,true,0,0
+OL-2025-000552,ORD-2025-000269,APP-3262,Heavyweight jersey tee,apparel,1,9100,1820,7280,true,0,0
+OL-2025-000553,ORD-2025-000269,APP-8560,Linen camp collar shirt,apparel,1,9795,980,8815,true,0,0
+OL-2025-000554,ORD-2025-000270,FTW-1164,"Chelsea boot, waxed",footwear,1,8800,0,8800,true,0,0
+OL-2025-000555,ORD-2025-000270,BTY-3169,Botanical face oil,beauty,1,1700,0,1700,true,0,0
+OL-2025-000556,ORD-2025-000270,APP-1646,Washed cotton overshirt,apparel,1,4750,0,4750,true,0,0
+OL-2025-000557,ORD-2025-000271,HME-5233,Oak desk tray,home,1,2100,420,1680,true,0,0
+OL-2025-000558,ORD-2025-000271,HME-6999,Beeswax pillar candle,home,1,3000,300,2700,true,0,0
+OL-2025-000559,ORD-2025-000272,APP-3124,Heavyweight jersey tee,apparel,1,7250,0,7250,true,0,0
+OL-2025-000560,ORD-2025-000272,APP-6382,Ribbed merino crew,apparel,1,6700,670,6030,true,0,0
+OL-2025-000561,ORD-2025-000272,ACC-9717,Merino beanie,accessories,1,4500,450,4050,true,0,0
+OL-2025-000562,ORD-2025-000272,HME-1631,Oak desk tray,home,2,5250,0,10500,true,0,0
+OL-2025-000563,ORD-2025-000273,APP-2017,Quilted patch jacket,apparel,1,10400,520,9880,true,0,0
+OL-2025-000564,ORD-2025-000274,BTY-7019,Rosehip body balm,beauty,2,2950,295,5605,true,0,0
+OL-2025-000565,ORD-2025-000274,FTW-2940,"Leather derby, oak",footwear,1,9150,0,9150,true,0,0
+OL-2025-000566,ORD-2025-000275,APP-9053,Heavyweight jersey tee,apparel,1,3700,925,2775,true,0,0
+OL-2025-000567,ORD-2025-000276,APP-8726,Pleated wool trouser,apparel,1,9795,0,9795,true,0,0
+OL-2025-000568,ORD-2025-000276,HME-9206,Oak desk tray,home,1,8100,405,7695,true,1,7695
+OL-2025-000569,ORD-2025-000277,HME-9384,Brushed cotton throw,home,1,7900,395,7505,true,0,0
+OL-2025-000570,ORD-2025-000277,APP-1132,Washed cotton overshirt,apparel,1,11950,0,11950,true,0,0
+OL-2025-000571,ORD-2025-000278,APP-1543,Washed cotton overshirt,apparel,1,11000,0,11000,true,0,0
+OL-2025-000572,ORD-2025-000279,APP-9324,Linen camp collar shirt,apparel,1,4500,225,4275,true,0,0
+OL-2025-000573,ORD-2025-000279,BTY-1351,Botanical face oil,beauty,1,4795,0,4795,true,0,0
+OL-2025-000574,ORD-2025-000280,APP-1396,Linen camp collar shirt,apparel,1,5450,272,5178,true,0,0
+OL-2025-000575,ORD-2025-000281,APP-1795,Heavyweight jersey tee,apparel,1,3900,585,3315,true,1,3315
+OL-2025-000576,ORD-2025-000282,FTW-8817,"Walking sandal, moss",footwear,1,9650,1930,7720,true,0,0
+OL-2025-000577,ORD-2025-000282,ACC-5306,Woven leather belt,accessories,1,3750,375,3375,true,0,0
+OL-2025-000578,ORD-2025-000283,BTY-9854,Rosehip body balm,beauty,1,4250,212,4038,true,0,0
+OL-2025-000579,ORD-2025-000283,APP-4078,Heavyweight jersey tee,apparel,1,11200,0,11200,true,0,0
+OL-2025-000580,ORD-2025-000284,APP-7702,Quilted patch jacket,apparel,1,7000,0,7000,true,0,0
+OL-2025-000581,ORD-2025-000284,HME-9730,Stoneware serving bowl,home,1,4100,410,3690,true,0,0
+OL-2025-000582,ORD-2025-000285,BTY-8172,Botanical face oil,beauty,2,1250,500,2000,true,0,0
+OL-2025-000583,ORD-2025-000286,APP-7213,Ribbed merino crew,apparel,1,6600,0,6600,true,0,0
+OL-2025-000584,ORD-2025-000286,APP-3120,Linen camp collar shirt,apparel,1,7400,0,7400,true,0,0
+OL-2025-000585,ORD-2025-000286,BTY-1632,Vetiver travel candle,beauty,1,1745,174,1571,true,1,1571
+OL-2025-000586,ORD-2025-000287,FTW-4803,Canvas low trainer,footwear,1,15000,0,15000,true,0,0
+OL-2025-000587,ORD-2025-000287,HME-4287,Brushed cotton throw,home,1,6500,0,6500,true,0,0
+OL-2025-000588,ORD-2025-000288,FTW-3947,Canvas low trainer,footwear,1,5500,0,5500,true,0,0
+OL-2025-000589,ORD-2025-000288,APP-9672,Pleated wool trouser,apparel,1,6450,645,5805,true,0,0
+OL-2025-000590,ORD-2025-000288,HME-7163,Oak desk tray,home,1,4800,0,4800,true,0,0
+OL-2025-000591,ORD-2025-000288,HME-4943,Oak desk tray,home,1,6250,0,6250,true,0,0
+OL-2025-000592,ORD-2025-000289,HME-6983,"Ribbed glass tumbler, set of two",home,1,4495,0,4495,true,0,0
+OL-2025-000593,ORD-2025-000290,APP-5802,Quilted patch jacket,apparel,1,11550,1155,10395,true,0,0
+OL-2025-000594,ORD-2025-000290,HME-8209,Brushed cotton throw,home,1,4600,0,4600,true,0,0
+OL-2025-000595,ORD-2025-000291,BTY-4887,Vetiver travel candle,beauty,1,2950,442,2508,true,0,0
+OL-2025-000596,ORD-2025-000291,APP-6538,Heavyweight jersey tee,apparel,1,4150,0,4150,true,0,0
+OL-2025-000597,ORD-2025-000291,APP-3444,Quilted patch jacket,apparel,1,9400,940,8460,true,0,0
+OL-2025-000598,ORD-2025-000292,BTY-8548,Vetiver travel candle,beauty,2,4700,470,8930,true,0,0
+OL-2025-000599,ORD-2025-000292,BTY-5002,Mineral bath soak,beauty,2,3600,0,7200,true,0,0
+OL-2025-000600,ORD-2025-000292,BTY-8628,Vetiver travel candle,beauty,1,4650,0,4650,true,0,0
+OL-2025-000601,ORD-2025-000293,APP-7407,Ribbed merino crew,apparel,1,6050,605,5445,true,0,0
+OL-2025-000602,ORD-2025-000293,FTW-6074,"Chelsea boot, waxed",footwear,1,11350,1135,10215,true,0,0
+OL-2025-000603,ORD-2025-000294,FTW-1383,Canvas low trainer,footwear,1,12350,618,11732,true,0,0
+OL-2025-000604,ORD-2025-000294,FTW-9005,"Leather derby, oak",footwear,1,10800,1620,9180,true,0,0
+OL-2025-000605,ORD-2025-000294,FTW-1984,Suede field shoe,footwear,1,9850,0,9850,true,0,0
+OL-2025-000606,ORD-2025-000295,HME-2100,Brushed cotton throw,home,1,2350,0,2350,true,0,0
+OL-2025-000607,ORD-2025-000295,HME-7133,Beeswax pillar candle,home,1,2800,0,2800,true,0,0
+OL-2025-000608,ORD-2025-000296,HME-8989,Oak desk tray,home,1,6700,1005,5695,true,0,0
+OL-2025-000609,ORD-2025-000297,ACC-3863,Merino beanie,accessories,1,5300,0,5300,true,1,5300
+OL-2025-000610,ORD-2025-000298,APP-9985,Pleated wool trouser,apparel,1,4750,475,4275,true,0,0
+OL-2025-000611,ORD-2025-000298,APP-1348,Pleated wool trouser,apparel,1,5650,282,5368,true,0,0
+OL-2025-000612,ORD-2025-000299,FTW-3772,"Chelsea boot, waxed",footwear,1,5350,268,5082,true,0,0
+OL-2025-000613,ORD-2025-000299,APP-7639,Linen camp collar shirt,apparel,1,10800,0,10800,true,0,0
+OL-2025-000614,ORD-2025-000300,APP-8582,Pleated wool trouser,apparel,1,4350,0,4350,true,0,0
+OL-2025-000615,ORD-2025-000301,APP-2142,Heavyweight jersey tee,apparel,1,11700,0,11700,true,1,11700
+OL-2025-000616,ORD-2025-000301,APP-4131,Linen camp collar shirt,apparel,1,8200,2050,6150,true,1,6150
+OL-2025-000617,ORD-2025-000302,APP-6979,Linen camp collar shirt,apparel,1,11195,1679,9516,true,0,0
+OL-2025-000618,ORD-2025-000303,HME-3148,Stoneware serving bowl,home,1,7900,1185,6715,true,0,0
+OL-2025-000619,ORD-2025-000303,FTW-2750,"Walking sandal, moss",footwear,1,11200,1680,9520,true,0,0
+OL-2025-000620,ORD-2025-000304,APP-7953,Quilted patch jacket,apparel,1,8200,410,7790,true,0,0
+OL-2025-000621,ORD-2025-000304,FTW-9750,"Leather derby, oak",footwear,1,8450,0,8450,true,0,0
+OL-2025-000622,ORD-2025-000305,APP-5430,Quilted patch jacket,apparel,1,11000,1650,9350,true,0,0
+OL-2025-000623,ORD-2025-000305,APP-7245,Washed cotton overshirt,apparel,1,5150,0,5150,true,0,0
+OL-2025-000624,ORD-2025-000306,GFT-2273,Morrow & Finch gift card,gift_card,1,7050,0,7050,false,0,0
+OL-2025-000625,ORD-2025-000307,ACC-8066,Woven leather belt,accessories,1,5050,0,5050,true,0,0
+OL-2025-000626,ORD-2025-000307,BTY-1017,Mineral bath soak,beauty,1,1250,0,1250,true,0,0
+OL-2025-000627,ORD-2025-000307,HME-3338,Brushed cotton throw,home,1,5250,262,4988,true,0,0
+OL-2025-000628,ORD-2025-000308,FTW-8829,Suede field shoe,footwear,1,7500,0,7500,true,0,0
+OL-2025-000629,ORD-2025-000309,HME-2264,Stoneware serving bowl,home,1,8100,405,7695,true,0,0
+OL-2025-000630,ORD-2025-000309,APP-7507,Pleated wool trouser,apparel,1,10195,510,9685,true,0,0
+OL-2025-000631,ORD-2025-000310,FTW-3981,"Leather derby, oak",footwear,1,14400,1440,12960,true,0,0
+OL-2025-000632,ORD-2025-000310,HME-8224,Brushed cotton throw,home,1,2450,368,2082,true,0,0
+OL-2025-000633,ORD-2025-000311,FTW-2313,Canvas low trainer,footwear,1,5500,0,5500,true,0,0
+OL-2025-000634,ORD-2025-000311,BTY-1142,Botanical face oil,beauty,1,2300,0,2300,true,1,2300
+OL-2025-000635,ORD-2025-000312,ACC-6726,Linen pocket square,accessories,1,5150,0,5150,true,0,0
+OL-2025-000636,ORD-2025-000312,FTW-3315,"Walking sandal, moss",footwear,1,12400,0,12400,true,0,0
+OL-2025-000637,ORD-2025-000313,HME-4765,Oak desk tray,home,1,2000,0,2000,true,0,0
+OL-2025-000638,ORD-2025-000313,FTW-4775,"Walking sandal, moss",footwear,1,10450,0,10450,true,0,0
+OL-2025-000639,ORD-2025-000314,APP-7271,Quilted patch jacket,apparel,1,9700,0,9700,true,0,0
+OL-2025-000640,ORD-2025-000315,FTW-5261,Suede field shoe,footwear,1,5745,574,5171,true,0,0
+OL-2025-000641,ORD-2025-000315,FTW-7887,Canvas low trainer,footwear,1,12500,0,12500,true,0,0
+OL-2025-000642,ORD-2025-000316,APP-9088,Heavyweight jersey tee,apparel,1,7000,700,6300,true,0,0
+OL-2025-000643,ORD-2025-000316,HME-9476,Beeswax pillar candle,home,2,2800,0,5600,true,0,0
+OL-2025-000644,ORD-2025-000317,APP-9078,Linen camp collar shirt,apparel,1,4300,0,4300,true,0,0
+OL-2025-000645,ORD-2025-000317,APP-6681,Washed cotton overshirt,apparel,1,9295,465,8830,true,1,8830
+OL-2025-000646,ORD-2025-000318,APP-2559,Quilted patch jacket,apparel,1,6845,1027,5818,true,0,0
+OL-2025-000647,ORD-2025-000318,FTW-9567,Suede field shoe,footwear,1,9100,910,8190,true,0,0
+OL-2025-000648,ORD-2025-000318,APP-4053,Washed cotton overshirt,apparel,1,10250,0,10250,true,0,0
+OL-2025-000649,ORD-2025-000319,APP-6632,Pleated wool trouser,apparel,1,10100,1515,8585,true,0,0
+OL-2025-000650,ORD-2025-000319,APP-4779,Heavyweight jersey tee,apparel,1,10795,1080,9715,true,0,0
+OL-2025-000651,ORD-2025-000320,APP-1420,Ribbed merino crew,apparel,1,5945,297,5648,true,1,5648
+OL-2025-000652,ORD-2025-000320,HME-7062,"Ribbed glass tumbler, set of two",home,1,8450,845,7605,true,0,0
+OL-2025-000653,ORD-2025-000321,APP-9182,Quilted patch jacket,apparel,1,8000,0,8000,true,0,0
+OL-2025-000654,ORD-2025-000321,HME-4710,Beeswax pillar candle,home,1,7850,1178,6672,true,0,0
+OL-2025-000655,ORD-2025-000322,APP-6807,Washed cotton overshirt,apparel,1,11550,0,11550,true,0,0
+OL-2025-000656,ORD-2025-000322,APP-3574,Heavyweight jersey tee,apparel,1,7050,0,7050,true,0,0
+OL-2025-000657,ORD-2025-000322,FTW-8943,Canvas low trainer,footwear,1,12300,0,12300,true,0,0
+OL-2025-000658,ORD-2025-000323,BTY-9836,Rosehip body balm,beauty,1,2300,230,2070,true,1,2070
+OL-2025-000659,ORD-2025-000323,APP-1488,Washed cotton overshirt,apparel,1,4350,0,4350,true,1,4350
+OL-2025-000660,ORD-2025-000324,FTW-3298,Canvas low trainer,footwear,1,6695,0,6695,true,1,6695
+OL-2025-000661,ORD-2025-000324,GFT-4552,E-gift card,gift_card,1,2895,0,2895,false,0,0
+OL-2025-000662,ORD-2025-000324,HME-3958,Oak desk tray,home,1,5700,0,5700,true,1,5700
+OL-2025-000663,ORD-2025-000325,FTW-7851,"Leather derby, oak",footwear,1,8300,830,7470,true,0,0
+OL-2025-000664,ORD-2025-000325,FTW-1315,Suede field shoe,footwear,1,12995,650,12345,true,0,0
+OL-2025-000665,ORD-2025-000325,APP-8879,Ribbed merino crew,apparel,1,11300,0,11300,true,0,0
+OL-2025-000666,ORD-2025-000325,APP-4025,Heavyweight jersey tee,apparel,1,9100,0,9100,true,0,0
+OL-2025-000667,ORD-2025-000326,FTW-6691,Suede field shoe,footwear,1,11395,1709,9686,true,0,0
+OL-2025-000668,ORD-2025-000326,APP-4300,Washed cotton overshirt,apparel,1,11550,0,11550,true,0,0
+OL-2025-000669,ORD-2025-000327,ACC-4232,Merino beanie,accessories,1,2100,210,1890,true,0,0
+OL-2025-000670,ORD-2025-000327,HME-7290,Stoneware serving bowl,home,1,7400,1110,6290,true,0,0
+OL-2025-000671,ORD-2025-000327,APP-1503,Linen camp collar shirt,apparel,1,3750,0,3750,true,0,0
+OL-2025-000672,ORD-2025-000328,HME-1930,Beeswax pillar candle,home,1,4450,668,3782,true,0,0
+OL-2025-000673,ORD-2025-000328,ACC-2558,Brass key ring,accessories,1,2150,215,1935,true,0,0
+OL-2025-000674,ORD-2025-000329,APP-6448,Pleated wool trouser,apparel,1,4200,210,3990,true,1,3990
+OL-2025-000675,ORD-2025-000330,FTW-3581,"Walking sandal, moss",footwear,1,14300,715,13585,true,0,0
+OL-2025-000676,ORD-2025-000330,ACC-6692,Woven leather belt,accessories,1,5350,802,4548,true,0,0
+OL-2025-000677,ORD-2025-000330,APP-6053,Quilted patch jacket,apparel,1,11950,598,11352,true,1,11352
+OL-2025-000678,ORD-2025-000331,BTY-5558,Vetiver travel candle,beauty,1,3100,0,3100,true,0,0
+OL-2025-000679,ORD-2025-000331,HME-5272,Brushed cotton throw,home,1,7250,725,6525,true,0,0
+OL-2025-000680,ORD-2025-000331,APP-9212,Ribbed merino crew,apparel,1,4950,0,4950,true,0,0
+OL-2025-000681,ORD-2025-000332,FTW-5272,"Chelsea boot, waxed",footwear,1,9750,1950,7800,true,0,0
+OL-2025-000682,ORD-2025-000333,HME-9610,Beeswax pillar candle,home,1,2500,0,2500,true,0,0
+OL-2025-000683,ORD-2025-000333,FTW-1980,"Leather derby, oak",footwear,1,5400,0,5400,true,0,0
+OL-2025-000684,ORD-2025-000334,BTY-7610,Mineral bath soak,beauty,2,3550,1775,5325,true,0,0
+OL-2025-000685,ORD-2025-000334,BTY-9266,Botanical face oil,beauty,1,3800,380,3420,true,0,0
+OL-2025-000686,ORD-2025-000335,APP-6306,Washed cotton overshirt,apparel,1,6250,0,6250,true,0,0
+OL-2025-000687,ORD-2025-000335,BTY-2545,Botanical face oil,beauty,1,4700,470,4230,true,0,0
+OL-2025-000688,ORD-2025-000336,APP-4982,Ribbed merino crew,apparel,1,6950,695,6255,true,0,0
+OL-2025-000689,ORD-2025-000336,FTW-3549,Canvas low trainer,footwear,1,10150,0,10150,true,0,0
+OL-2025-000690,ORD-2025-000337,APP-2192,Linen camp collar shirt,apparel,1,11050,1105,9945,true,0,0
+OL-2025-000691,ORD-2025-000337,HME-8301,Brushed cotton throw,home,1,5850,0,5850,true,0,0
+OL-2025-000692,ORD-2025-000337,HME-7660,Brushed cotton throw,home,1,5595,280,5315,true,0,0
+OL-2025-000693,ORD-2025-000338,APP-1485,Washed cotton overshirt,apparel,1,12350,2470,9880,true,0,0
+OL-2025-000694,ORD-2025-000338,BTY-8379,Cedar hand wash,beauty,1,2100,210,1890,true,0,0
+OL-2025-000695,ORD-2025-000339,FTW-3159,Suede field shoe,footwear,1,8000,800,7200,true,0,0
+OL-2025-000696,ORD-2025-000340,FTW-8719,Canvas low trainer,footwear,1,14000,2100,11900,true,0,0
+OL-2025-000697,ORD-2025-000340,HME-3317,Brushed cotton throw,home,1,5300,795,4505,true,0,0
+OL-2025-000698,ORD-2025-000341,FTW-4711,"Walking sandal, moss",footwear,1,12750,0,12750,true,0,0
+OL-2025-000699,ORD-2025-000341,HME-7991,Stoneware serving bowl,home,1,4150,0,4150,true,0,0
+OL-2025-000700,ORD-2025-000342,FTW-4215,"Leather derby, oak",footwear,1,14850,0,14850,true,0,0
+OL-2025-000701,ORD-2025-000342,BTY-7652,Cedar hand wash,beauty,1,4245,0,4245,true,0,0
+OL-2025-000702,ORD-2025-000343,APP-9733,Pleated wool trouser,apparel,1,4350,0,4350,true,0,0
+OL-2025-000703,ORD-2025-000343,FTW-9452,"Leather derby, oak",footwear,1,12695,635,12060,true,0,0
+OL-2025-000704,ORD-2025-000344,FTW-4208,Suede field shoe,footwear,1,9995,0,9995,true,1,9995
+OL-2025-000705,ORD-2025-000345,FTW-3798,"Leather derby, oak",footwear,1,8450,0,8450,true,0,0
+OL-2025-000706,ORD-2025-000345,BTY-1358,Mineral bath soak,beauty,1,3600,540,3060,true,0,0
+OL-2025-000707,ORD-2025-000346,FTW-1844,"Chelsea boot, waxed",footwear,1,6895,1034,5861,true,1,5861
+OL-2025-000708,ORD-2025-000346,BTY-5971,Rosehip body balm,beauty,1,1750,88,1662,true,0,0
+OL-2025-000709,ORD-2025-000346,FTW-6726,"Leather derby, oak",footwear,1,5550,0,5550,true,0,0
+OL-2025-000710,ORD-2025-000347,HME-1165,Beeswax pillar candle,home,1,7500,0,7500,true,0,0
+OL-2025-000711,ORD-2025-000347,BTY-1717,Mineral bath soak,beauty,1,3245,162,3083,true,0,0
+OL-2025-000712,ORD-2025-000347,FTW-6764,Canvas low trainer,footwear,1,6750,1012,5738,true,0,0
+OL-2025-000713,ORD-2025-000348,GFT-1864,E-gift card,gift_card,1,6600,0,6600,false,0,0
+OL-2025-000714,ORD-2025-000348,APP-5672,Washed cotton overshirt,apparel,1,10400,520,9880,true,0,0
+OL-2025-000715,ORD-2025-000348,GFT-1094,Morrow & Finch gift card,gift_card,1,7650,0,7650,false,0,0
+OL-2025-000716,ORD-2025-000349,BTY-8165,Mineral bath soak,beauty,1,1400,0,1400,true,0,0
+OL-2025-000717,ORD-2025-000349,APP-1416,Washed cotton overshirt,apparel,1,4450,0,4450,true,0,0
+OL-2025-000718,ORD-2025-000349,APP-3296,Washed cotton overshirt,apparel,1,4750,712,4038,true,0,0
+OL-2025-000719,ORD-2025-000350,BTY-9350,Botanical face oil,beauty,1,2950,442,2508,true,0,0
+OL-2026-000001,ORD-2026-000001,APP-1952,Washed cotton overshirt,apparel,1,5395,809,4586,true,0,0
+OL-2026-000002,ORD-2026-000002,FTW-1905,Suede field shoe,footwear,1,9695,1454,8241,true,0,0
+OL-2026-000003,ORD-2026-000003,BTY-2406,Botanical face oil,beauty,1,3150,788,2362,true,0,0
+OL-2026-000004,ORD-2026-000004,BTY-4962,Cedar hand wash,beauty,2,3050,610,5490,true,0,0
+OL-2026-000005,ORD-2026-000005,HME-8978,Beeswax pillar candle,home,1,5550,278,5272,true,0,0
+OL-2026-000006,ORD-2026-000005,APP-8556,Washed cotton overshirt,apparel,1,11900,1190,10710,true,0,0
+OL-2026-000007,ORD-2026-000006,HME-6211,Brushed cotton throw,home,1,5150,515,4635,true,0,0
+OL-2026-000008,ORD-2026-000006,APP-6889,Linen camp collar shirt,apparel,1,4150,0,4150,true,0,0
+OL-2026-000009,ORD-2026-000007,ACC-1516,Waxed canvas pouch,accessories,1,2300,0,2300,true,0,0
+OL-2026-000010,ORD-2026-000008,APP-3573,Ribbed merino crew,apparel,1,10000,2500,7500,true,0,0
+OL-2026-000011,ORD-2026-000008,APP-6704,Quilted patch jacket,apparel,1,5250,525,4725,true,0,0
+OL-2026-000012,ORD-2026-000008,APP-9684,Quilted patch jacket,apparel,1,5595,0,5595,true,0,0
+OL-2026-000013,ORD-2026-000009,FTW-1331,"Chelsea boot, waxed",footwear,1,9950,0,9950,true,0,0
+OL-2026-000014,ORD-2026-000009,HME-5592,Brushed cotton throw,home,1,8250,0,8250,true,0,0
+OL-2026-000015,ORD-2026-000010,FTW-1307,"Chelsea boot, waxed",footwear,1,14595,2189,12406,true,0,0
+OL-2026-000016,ORD-2026-000010,FTW-2362,Canvas low trainer,footwear,1,6000,0,6000,true,0,0
+OL-2026-000017,ORD-2026-000010,FTW-8507,Suede field shoe,footwear,1,8500,1275,7225,true,0,0
+OL-2026-000018,ORD-2026-000011,FTW-2143,"Walking sandal, moss",footwear,1,13495,0,13495,true,0,0
+OL-2026-000019,ORD-2026-000011,APP-2485,Pleated wool trouser,apparel,1,11300,565,10735,true,0,0
+OL-2026-000020,ORD-2026-000012,FTW-6238,Canvas low trainer,footwear,1,14550,0,14550,true,0,0
+OL-2026-000021,ORD-2026-000012,APP-7752,Washed cotton overshirt,apparel,1,4850,0,4850,true,0,0
+OL-2026-000022,ORD-2026-000013,HME-3527,Stoneware serving bowl,home,1,2000,0,2000,true,0,0
+OL-2026-000023,ORD-2026-000013,HME-4221,Brushed cotton throw,home,1,4695,704,3991,true,0,0
+OL-2026-000024,ORD-2026-000013,FTW-2625,"Leather derby, oak",footwear,1,12250,612,11638,true,0,0
+OL-2026-000025,ORD-2026-000014,APP-3541,Ribbed merino crew,apparel,1,3900,0,3900,true,0,0
+OL-2026-000026,ORD-2026-000014,APP-8922,Heavyweight jersey tee,apparel,1,10050,1005,9045,true,0,0
+OL-2026-000027,ORD-2026-000015,APP-9550,Quilted patch jacket,apparel,1,11150,0,11150,true,0,0
+OL-2026-000028,ORD-2026-000015,APP-1304,Washed cotton overshirt,apparel,1,9400,0,9400,true,0,0
+OL-2026-000029,ORD-2026-000016,FTW-1598,"Walking sandal, moss",footwear,1,11000,1650,9350,true,0,0
+OL-2026-000030,ORD-2026-000016,APP-1590,Heavyweight jersey tee,apparel,1,10250,512,9738,true,0,0
+OL-2026-000031,ORD-2026-000017,HME-9418,Oak desk tray,home,1,8450,0,8450,true,1,8450
+OL-2026-000032,ORD-2026-000018,APP-2736,Heavyweight jersey tee,apparel,1,4300,645,3655,true,0,0
+OL-2026-000033,ORD-2026-000019,APP-7036,Heavyweight jersey tee,apparel,1,6750,0,6750,true,0,0
+OL-2026-000034,ORD-2026-000020,APP-9806,Heavyweight jersey tee,apparel,1,7445,372,7073,true,0,0
+OL-2026-000035,ORD-2026-000020,APP-6391,Linen camp collar shirt,apparel,1,9945,0,9945,true,0,0
+OL-2026-000036,ORD-2026-000020,APP-9843,Pleated wool trouser,apparel,1,12250,1225,11025,true,0,0
+OL-2026-000037,ORD-2026-000021,APP-3993,Quilted patch jacket,apparel,1,12100,0,12100,true,0,0
+OL-2026-000038,ORD-2026-000021,HME-2940,"Ribbed glass tumbler, set of two",home,1,5900,295,5605,true,0,0
+OL-2026-000039,ORD-2026-000022,HME-5293,Brushed cotton throw,home,1,3700,0,3700,true,0,0
+OL-2026-000040,ORD-2026-000022,APP-7615,Linen camp collar shirt,apparel,1,4150,415,3735,true,0,0
+OL-2026-000041,ORD-2026-000022,APP-8786,Pleated wool trouser,apparel,1,5400,0,5400,true,0,0
+OL-2026-000042,ORD-2026-000023,ACC-7796,Linen pocket square,accessories,1,3500,0,3500,true,1,3500
+OL-2026-000043,ORD-2026-000023,APP-3913,Quilted patch jacket,apparel,1,8100,0,8100,true,0,0
+OL-2026-000044,ORD-2026-000024,ACC-3581,Linen pocket square,accessories,1,3050,458,2592,true,1,2592
+OL-2026-000045,ORD-2026-000024,HME-8457,"Ribbed glass tumbler, set of two",home,1,6950,0,6950,true,0,0
+OL-2026-000046,ORD-2026-000025,BTY-1669,Botanical face oil,beauty,1,3445,172,3273,true,0,0
+OL-2026-000047,ORD-2026-000025,APP-2843,Washed cotton overshirt,apparel,1,7650,0,7650,true,0,0
+OL-2026-000048,ORD-2026-000025,APP-2900,Washed cotton overshirt,apparel,1,4700,0,4700,true,0,0
+OL-2026-000049,ORD-2026-000026,ACC-5299,Merino beanie,accessories,1,5950,0,5950,true,0,0
+OL-2026-000050,ORD-2026-000026,APP-8704,Pleated wool trouser,apparel,1,8650,0,8650,true,0,0
+OL-2026-000051,ORD-2026-000027,FTW-2847,Suede field shoe,footwear,1,6700,0,6700,true,0,0
+OL-2026-000052,ORD-2026-000027,HME-4277,Beeswax pillar candle,home,1,6995,0,6995,true,0,0
+OL-2026-000053,ORD-2026-000028,GFT-7009,Morrow & Finch gift card,gift_card,1,2950,442,2508,false,0,0
+OL-2026-000054,ORD-2026-000029,HME-8319,Stoneware serving bowl,home,1,4650,698,3952,true,0,0
+OL-2026-000055,ORD-2026-000029,APP-9640,Ribbed merino crew,apparel,1,9250,0,9250,true,0,0
+OL-2026-000056,ORD-2026-000029,HME-4024,"Ribbed glass tumbler, set of two",home,1,2800,0,2800,true,0,0
+OL-2026-000057,ORD-2026-000029,FTW-3601,"Walking sandal, moss",footwear,1,5150,515,4635,true,0,0
+OL-2026-000058,ORD-2026-000030,BTY-9274,Vetiver travel candle,beauty,1,2250,0,2250,true,0,0
+OL-2026-000059,ORD-2026-000030,APP-1375,Washed cotton overshirt,apparel,1,7850,1178,6672,true,0,0
+OL-2026-000060,ORD-2026-000031,ACC-9591,Woven leather belt,accessories,1,2850,285,2565,true,0,0
+OL-2026-000061,ORD-2026-000031,ACC-9899,Linen pocket square,accessories,1,3550,178,3372,true,0,0
+OL-2026-000062,ORD-2026-000032,APP-4520,Linen camp collar shirt,apparel,1,11250,0,11250,true,0,0
+OL-2026-000063,ORD-2026-000032,HME-8239,"Ribbed glass tumbler, set of two",home,1,3400,0,3400,true,0,0
+OL-2026-000064,ORD-2026-000032,HME-8692,"Ribbed glass tumbler, set of two",home,1,4700,470,4230,true,0,0
+OL-2026-000065,ORD-2026-000032,APP-8771,Ribbed merino crew,apparel,1,4195,0,4195,true,0,0
+OL-2026-000066,ORD-2026-000033,HME-7095,Brushed cotton throw,home,1,5550,0,5550,true,0,0
+OL-2026-000067,ORD-2026-000033,APP-7844,Heavyweight jersey tee,apparel,1,8150,815,7335,true,0,0
+OL-2026-000068,ORD-2026-000033,APP-9728,Linen camp collar shirt,apparel,1,6300,0,6300,true,0,0
+OL-2026-000069,ORD-2026-000034,FTW-4667,Canvas low trainer,footwear,1,5645,564,5081,true,1,5081
+OL-2026-000070,ORD-2026-000034,HME-5971,Stoneware serving bowl,home,1,4850,0,4850,true,0,0
+OL-2026-000071,ORD-2026-000035,APP-5795,Pleated wool trouser,apparel,1,4250,425,3825,true,0,0
+OL-2026-000072,ORD-2026-000035,BTY-7796,Mineral bath soak,beauty,1,4595,460,4135,true,0,0
+OL-2026-000073,ORD-2026-000036,APP-6333,Linen camp collar shirt,apparel,1,11050,552,10498,true,0,0
+OL-2026-000074,ORD-2026-000036,APP-8448,Pleated wool trouser,apparel,1,10800,0,10800,true,0,0
+OL-2026-000075,ORD-2026-000037,APP-8991,Pleated wool trouser,apparel,1,12100,0,12100,true,0,0
+OL-2026-000076,ORD-2026-000037,APP-5467,Quilted patch jacket,apparel,1,10800,0,10800,true,0,0
+OL-2026-000077,ORD-2026-000038,APP-2232,Ribbed merino crew,apparel,1,7800,0,7800,true,0,0
+OL-2026-000078,ORD-2026-000038,BTY-2479,Rosehip body balm,beauty,1,2950,148,2802,true,0,0
+OL-2026-000079,ORD-2026-000039,HME-6104,Beeswax pillar candle,home,1,8145,814,7331,true,0,0
+OL-2026-000080,ORD-2026-000039,HME-1860,Oak desk tray,home,1,2250,338,1912,true,0,0
+OL-2026-000081,ORD-2026-000040,APP-2535,Washed cotton overshirt,apparel,1,7000,0,7000,true,0,0
+OL-2026-000082,ORD-2026-000040,FTW-4272,"Chelsea boot, waxed",footwear,1,6950,348,6602,true,0,0
+OL-2026-000083,ORD-2026-000040,APP-9526,Pleated wool trouser,apparel,1,12150,0,12150,true,0,0
+OL-2026-000084,ORD-2026-000041,BTY-6076,Vetiver travel candle,beauty,1,1600,0,1600,true,0,0
+OL-2026-000085,ORD-2026-000041,FTW-9051,"Chelsea boot, waxed",footwear,1,8800,0,8800,true,0,0
+OL-2026-000086,ORD-2026-000042,BTY-3677,Rosehip body balm,beauty,1,2245,0,2245,true,0,0
+OL-2026-000087,ORD-2026-000042,HME-8580,Beeswax pillar candle,home,1,2400,0,2400,true,0,0
+OL-2026-000088,ORD-2026-000042,APP-1127,Pleated wool trouser,apparel,1,6450,968,5482,true,0,0
+OL-2026-000089,ORD-2026-000043,APP-2525,Ribbed merino crew,apparel,1,6900,690,6210,true,0,0
+OL-2026-000090,ORD-2026-000043,FTW-9602,Canvas low trainer,footwear,1,8245,0,8245,true,0,0
+OL-2026-000091,ORD-2026-000044,FTW-3437,"Walking sandal, moss",footwear,1,8895,0,8895,true,0,0
+OL-2026-000092,ORD-2026-000045,APP-1418,Washed cotton overshirt,apparel,1,8250,412,7838,true,0,0
+OL-2026-000093,ORD-2026-000046,APP-3593,Washed cotton overshirt,apparel,1,10845,0,10845,true,0,0
+OL-2026-000094,ORD-2026-000046,APP-1365,Pleated wool trouser,apparel,1,12500,1250,11250,true,0,0
+OL-2026-000095,ORD-2026-000047,BTY-9091,Botanical face oil,beauty,1,1900,0,1900,true,1,1900
+OL-2026-000096,ORD-2026-000048,APP-4983,Quilted patch jacket,apparel,1,9050,905,8145,true,0,0
+OL-2026-000097,ORD-2026-000048,APP-4997,Linen camp collar shirt,apparel,1,10500,0,10500,true,0,0
+OL-2026-000098,ORD-2026-000049,APP-1981,Heavyweight jersey tee,apparel,1,6400,640,5760,true,0,0
+OL-2026-000099,ORD-2026-000049,BTY-3337,Botanical face oil,beauty,1,4250,425,3825,true,0,0
+OL-2026-000100,ORD-2026-000049,HME-2698,Stoneware serving bowl,home,1,2100,0,2100,true,0,0
+OL-2026-000101,ORD-2026-000050,APP-8222,Quilted patch jacket,apparel,1,3600,0,3600,true,0,0
+OL-2026-000102,ORD-2026-000050,APP-4210,Linen camp collar shirt,apparel,1,11300,1130,10170,true,0,0
+OL-2026-000103,ORD-2026-000051,HME-2404,Stoneware serving bowl,home,1,8295,0,8295,true,0,0
+OL-2026-000104,ORD-2026-000052,FTW-7618,"Chelsea boot, waxed",footwear,1,15450,0,15450,true,0,0
+OL-2026-000105,ORD-2026-000053,FTW-4552,"Leather derby, oak",footwear,1,10495,0,10495,true,0,0
+OL-2026-000106,ORD-2026-000054,GFT-9381,E-gift card,gift_card,1,9295,465,8830,false,0,0
+OL-2026-000107,ORD-2026-000054,APP-2218,Linen camp collar shirt,apparel,1,12450,1868,10582,true,0,0
+OL-2026-000108,ORD-2026-000055,APP-1217,Ribbed merino crew,apparel,1,9650,965,8685,true,0,0
+OL-2026-000109,ORD-2026-000055,HME-8524,Brushed cotton throw,home,1,7495,0,7495,true,1,7495
+OL-2026-000110,ORD-2026-000056,APP-4648,Pleated wool trouser,apparel,1,9350,935,8415,true,0,0
+OL-2026-000111,ORD-2026-000056,HME-5573,Beeswax pillar candle,home,1,4500,0,4500,true,0,0
+OL-2026-000112,ORD-2026-000056,ACC-8103,Waxed canvas pouch,accessories,1,4700,0,4700,true,0,0
+OL-2026-000113,ORD-2026-000057,APP-7528,Linen camp collar shirt,apparel,1,11350,0,11350,true,0,0
+OL-2026-000114,ORD-2026-000058,ACC-6705,Merino beanie,accessories,1,3300,495,2805,true,0,0
+OL-2026-000115,ORD-2026-000058,APP-5207,Ribbed merino crew,apparel,1,8150,0,8150,true,0,0
+OL-2026-000116,ORD-2026-000058,APP-9073,Linen camp collar shirt,apparel,1,8550,855,7695,true,0,0
+OL-2026-000117,ORD-2026-000058,APP-5827,Linen camp collar shirt,apparel,1,8950,895,8055,true,0,0
+OL-2026-000118,ORD-2026-000059,APP-8914,Quilted patch jacket,apparel,1,4895,245,4650,true,0,0
+OL-2026-000119,ORD-2026-000059,APP-3777,Quilted patch jacket,apparel,1,7000,0,7000,true,0,0
+OL-2026-000120,ORD-2026-000059,APP-2338,Pleated wool trouser,apparel,1,8650,0,8650,true,0,0
+OL-2026-000121,ORD-2026-000060,APP-3843,Pleated wool trouser,apparel,1,8200,0,8200,true,0,0
+OL-2026-000122,ORD-2026-000060,FTW-5480,"Chelsea boot, waxed",footwear,1,8700,1305,7395,true,0,0
+OL-2026-000123,ORD-2026-000061,ACC-8733,Merino beanie,accessories,1,1200,0,1200,true,0,0
+OL-2026-000124,ORD-2026-000061,HME-9313,Beeswax pillar candle,home,1,4700,705,3995,true,0,0
+OL-2026-000125,ORD-2026-000061,ACC-9911,Waxed canvas pouch,accessories,1,5945,0,5945,true,0,0
+OL-2026-000126,ORD-2026-000061,HME-8168,Brushed cotton throw,home,1,4700,0,4700,true,0,0
+OL-2026-000127,ORD-2026-000062,HME-8664,Brushed cotton throw,home,1,4550,228,4322,true,0,0
+OL-2026-000128,ORD-2026-000062,FTW-2206,"Leather derby, oak",footwear,1,14550,1455,13095,true,0,0
+OL-2026-000129,ORD-2026-000063,APP-9694,Linen camp collar shirt,apparel,1,9050,905,8145,true,0,0
+OL-2026-000130,ORD-2026-000063,HME-4525,Stoneware serving bowl,home,1,3045,457,2588,true,0,0
+OL-2026-000131,ORD-2026-000063,APP-7919,Heavyweight jersey tee,apparel,1,5100,0,5100,true,0,0
+OL-2026-000132,ORD-2026-000064,HME-5071,Stoneware serving bowl,home,1,7445,1117,6328,true,0,0
+OL-2026-000133,ORD-2026-000064,FTW-2519,Suede field shoe,footwear,1,7300,730,6570,true,0,0
+OL-2026-000134,ORD-2026-000065,HME-6076,Stoneware serving bowl,home,1,4400,880,3520,true,0,0
+OL-2026-000135,ORD-2026-000065,APP-8589,Linen camp collar shirt,apparel,1,5050,0,5050,true,0,0
+OL-2026-000136,ORD-2026-000065,APP-9636,Linen camp collar shirt,apparel,1,4900,0,4900,true,0,0
+OL-2026-000137,ORD-2026-000066,APP-7099,Heavyweight jersey tee,apparel,1,12250,0,12250,true,0,0
+OL-2026-000138,ORD-2026-000066,APP-1048,Heavyweight jersey tee,apparel,1,8300,0,8300,true,0,0
+OL-2026-000139,ORD-2026-000067,GFT-8853,E-gift card,gift_card,1,8800,880,7920,false,0,0
+OL-2026-000140,ORD-2026-000068,GFT-6870,Morrow & Finch gift card,gift_card,1,4350,652,3698,false,0,0
+OL-2026-000141,ORD-2026-000068,FTW-7264,"Chelsea boot, waxed",footwear,1,6600,0,6600,true,0,0
+OL-2026-000142,ORD-2026-000069,HME-7462,"Ribbed glass tumbler, set of two",home,1,6095,1219,4876,true,0,0
+OL-2026-000143,ORD-2026-000069,HME-9852,Stoneware serving bowl,home,1,7400,740,6660,true,0,0
+OL-2026-000144,ORD-2026-000070,FTW-8937,"Leather derby, oak",footwear,1,5300,0,5300,true,0,0
+OL-2026-000145,ORD-2026-000070,HME-4640,Oak desk tray,home,1,2400,360,2040,true,0,0
+OL-2026-000146,ORD-2026-000071,HME-3285,Beeswax pillar candle,home,1,3345,0,3345,true,1,3345
+OL-2026-000147,ORD-2026-000071,APP-4128,Heavyweight jersey tee,apparel,1,4450,668,3782,true,0,0
+OL-2026-000148,ORD-2026-000072,FTW-2847,Canvas low trainer,footwear,1,15200,0,15200,true,0,0
+OL-2026-000149,ORD-2026-000073,BTY-8606,Vetiver travel candle,beauty,1,4400,0,4400,true,1,4400
+OL-2026-000150,ORD-2026-000074,BTY-1035,Botanical face oil,beauty,1,3150,158,2992,true,0,0
+OL-2026-000151,ORD-2026-000074,ACC-2514,Linen pocket square,accessories,1,3350,502,2848,true,0,0
+OL-2026-000152,ORD-2026-000074,HME-9225,Beeswax pillar candle,home,1,8250,825,7425,true,1,7425
+OL-2026-000153,ORD-2026-000075,APP-9103,Washed cotton overshirt,apparel,1,12100,0,12100,true,0,0
+OL-2026-000154,ORD-2026-000075,APP-8147,Linen camp collar shirt,apparel,1,9300,930,8370,true,0,0
+OL-2026-000155,ORD-2026-000076,APP-4308,Pleated wool trouser,apparel,1,5850,0,5850,true,0,0
+OL-2026-000156,ORD-2026-000077,BTY-7453,Rosehip body balm,beauty,1,3050,0,3050,true,0,0
+OL-2026-000157,ORD-2026-000078,APP-8958,Linen camp collar shirt,apparel,1,8200,820,7380,true,0,0
+OL-2026-000158,ORD-2026-000078,FTW-2992,"Chelsea boot, waxed",footwear,1,10300,1030,9270,true,0,0
+OL-2026-000159,ORD-2026-000079,APP-9329,Heavyweight jersey tee,apparel,1,7145,357,6788,true,0,0
+OL-2026-000160,ORD-2026-000079,APP-3790,Ribbed merino crew,apparel,1,3900,0,3900,true,0,0
+OL-2026-000161,ORD-2026-000080,BTY-6766,Mineral bath soak,beauty,1,1400,140,1260,true,0,0
+OL-2026-000162,ORD-2026-000081,ACC-9396,Merino beanie,accessories,1,1550,0,1550,true,1,1550
+OL-2026-000163,ORD-2026-000082,APP-3977,Ribbed merino crew,apparel,1,9350,1402,7948,true,0,0
+OL-2026-000164,ORD-2026-000082,FTW-3130,"Leather derby, oak",footwear,1,4850,485,4365,true,0,0
+OL-2026-000165,ORD-2026-000082,FTW-4402,"Leather derby, oak",footwear,1,13700,0,13700,true,0,0
+OL-2026-000166,ORD-2026-000082,FTW-7749,"Leather derby, oak",footwear,1,10595,0,10595,true,0,0
+OL-2026-000167,ORD-2026-000083,FTW-4862,"Chelsea boot, waxed",footwear,1,14700,3675,11025,true,1,11025
+OL-2026-000168,ORD-2026-000083,APP-1975,Washed cotton overshirt,apparel,1,8000,0,8000,true,0,0
+OL-2026-000169,ORD-2026-000084,FTW-8248,Canvas low trainer,footwear,1,8550,855,7695,true,0,0
+OL-2026-000170,ORD-2026-000084,APP-8071,Quilted patch jacket,apparel,1,4100,410,3690,true,0,0
+OL-2026-000171,ORD-2026-000085,APP-8680,Washed cotton overshirt,apparel,1,9650,0,9650,true,0,0
+OL-2026-000172,ORD-2026-000086,HME-8311,"Ribbed glass tumbler, set of two",home,1,8445,0,8445,true,0,0
+OL-2026-000173,ORD-2026-000087,ACC-2542,Waxed canvas pouch,accessories,1,5150,772,4378,true,0,0
+OL-2026-000174,ORD-2026-000087,HME-5933,Brushed cotton throw,home,1,4450,890,3560,true,0,0
+OL-2026-000175,ORD-2026-000087,APP-1193,Ribbed merino crew,apparel,1,8800,0,8800,true,0,0
+OL-2026-000176,ORD-2026-000088,APP-8326,Linen camp collar shirt,apparel,1,11150,0,11150,true,1,11150
+OL-2026-000177,ORD-2026-000089,APP-1342,Pleated wool trouser,apparel,1,6195,620,5575,true,0,0
+OL-2026-000178,ORD-2026-000089,APP-1772,Pleated wool trouser,apparel,1,10450,0,10450,true,0,0
+OL-2026-000179,ORD-2026-000089,APP-9936,Quilted patch jacket,apparel,1,10050,0,10050,true,0,0
+OL-2026-000180,ORD-2026-000090,FTW-5278,Canvas low trainer,footwear,1,15400,0,15400,true,0,0
+OL-2026-000181,ORD-2026-000090,FTW-9957,Suede field shoe,footwear,1,5850,585,5265,true,0,0
+OL-2026-000182,ORD-2026-000091,BTY-9629,Vetiver travel candle,beauty,1,2850,570,2280,true,0,0
+OL-2026-000183,ORD-2026-000092,GFT-2291,E-gift card,gift_card,1,9350,0,9350,false,0,0
+OL-2026-000184,ORD-2026-000092,APP-6098,Linen camp collar shirt,apparel,1,6550,0,6550,true,0,0
+OL-2026-000185,ORD-2026-000093,BTY-6095,Cedar hand wash,beauty,1,1100,55,1045,true,0,0
+OL-2026-000186,ORD-2026-000093,ACC-9503,Brass key ring,accessories,1,2450,490,1960,true,0,0
+OL-2026-000187,ORD-2026-000094,FTW-4480,"Walking sandal, moss",footwear,1,6850,0,6850,true,0,0
+OL-2026-000188,ORD-2026-000095,APP-5546,Linen camp collar shirt,apparel,1,8000,0,8000,true,0,0
+OL-2026-000189,ORD-2026-000095,APP-1983,Heavyweight jersey tee,apparel,1,11700,0,11700,true,1,11700
+OL-2026-000190,ORD-2026-000095,ACC-1868,Merino beanie,accessories,1,1745,0,1745,true,0,0
+OL-2026-000191,ORD-2026-000095,HME-2285,Beeswax pillar candle,home,1,4695,0,4695,true,0,0
+OL-2026-000192,ORD-2026-000096,BTY-6065,Cedar hand wash,beauty,2,1500,0,3000,true,0,0
+OL-2026-000193,ORD-2026-000096,BTY-9937,Cedar hand wash,beauty,1,1900,285,1615,true,0,0
+OL-2026-000194,ORD-2026-000097,APP-1172,Linen camp collar shirt,apparel,1,11100,1110,9990,true,1,9990
+OL-2026-000195,ORD-2026-000098,APP-6338,Heavyweight jersey tee,apparel,1,3750,0,3750,true,0,0
+OL-2026-000196,ORD-2026-000098,APP-1003,Pleated wool trouser,apparel,1,3550,355,3195,true,1,3195
+OL-2026-000197,ORD-2026-000099,APP-8996,Quilted patch jacket,apparel,1,4650,0,4650,true,0,0
+OL-2026-000198,ORD-2026-000099,APP-8470,Washed cotton overshirt,apparel,1,12500,0,12500,true,0,0
+OL-2026-000199,ORD-2026-000099,APP-7730,Ribbed merino crew,apparel,1,4495,450,4045,true,0,0
+OL-2026-000200,ORD-2026-000099,HME-6073,"Ribbed glass tumbler, set of two",home,1,6250,0,6250,true,0,0
+OL-2026-000201,ORD-2026-000100,GFT-4221,Morrow & Finch gift card,gift_card,1,9800,0,9800,false,0,0
+OL-2026-000202,ORD-2026-000100,APP-6064,Ribbed merino crew,apparel,1,11950,0,11950,true,0,0
+OL-2026-000203,ORD-2026-000101,GFT-8753,Morrow & Finch gift card,gift_card,1,8500,0,8500,false,0,0
+OL-2026-000204,ORD-2026-000101,APP-8150,Linen camp collar shirt,apparel,1,10545,0,10545,true,0,0
+OL-2026-000205,ORD-2026-000102,FTW-1768,"Chelsea boot, waxed",footwear,1,9300,465,8835,true,1,8835
+OL-2026-000206,ORD-2026-000102,APP-6287,Pleated wool trouser,apparel,1,9700,970,8730,true,0,0
+OL-2026-000207,ORD-2026-000103,APP-5491,Linen camp collar shirt,apparel,1,12000,0,12000,true,0,0
+OL-2026-000208,ORD-2026-000104,APP-9797,Ribbed merino crew,apparel,1,5500,275,5225,true,0,0
+OL-2026-000209,ORD-2026-000105,APP-5672,Ribbed merino crew,apparel,1,4250,212,4038,true,1,4038
+OL-2026-000210,ORD-2026-000106,HME-2865,Oak desk tray,home,1,3350,670,2680,true,0,0
+OL-2026-000211,ORD-2026-000107,GFT-7659,E-gift card,gift_card,1,3995,0,3995,false,0,0
+OL-2026-000212,ORD-2026-000107,FTW-6524,"Chelsea boot, waxed",footwear,1,11600,1160,10440,true,0,0
+OL-2026-000213,ORD-2026-000108,APP-1019,Quilted patch jacket,apparel,1,6650,0,6650,true,0,0
+OL-2026-000214,ORD-2026-000109,BTY-5943,Cedar hand wash,beauty,2,1095,219,1971,true,0,0
+OL-2026-000215,ORD-2026-000109,HME-5724,Oak desk tray,home,1,3695,185,3510,true,1,3510
+OL-2026-000216,ORD-2026-000110,APP-5382,Quilted patch jacket,apparel,1,6595,660,5935,true,0,0
+OL-2026-000217,ORD-2026-000111,HME-2548,Brushed cotton throw,home,1,3250,488,2762,true,0,0
+OL-2026-000218,ORD-2026-000112,FTW-3928,"Leather derby, oak",footwear,1,14800,740,14060,true,1,14060
+OL-2026-000219,ORD-2026-000113,APP-2051,Ribbed merino crew,apparel,1,4200,420,3780,true,0,0
+OL-2026-000220,ORD-2026-000114,HME-5025,Brushed cotton throw,home,1,5695,0,5695,true,1,5695
+OL-2026-000221,ORD-2026-000115,HME-1616,"Ribbed glass tumbler, set of two",home,1,5545,0,5545,true,0,0
+OL-2026-000222,ORD-2026-000115,BTY-9944,Vetiver travel candle,beauty,1,3500,0,3500,true,0,0
+OL-2026-000223,ORD-2026-000116,ACC-6496,Linen pocket square,accessories,1,2050,0,2050,true,1,2050
+OL-2026-000224,ORD-2026-000117,FTW-3702,"Leather derby, oak",footwear,1,15450,0,15450,true,0,0
+OL-2026-000225,ORD-2026-000117,FTW-1883,Canvas low trainer,footwear,1,4600,920,3680,true,0,0
+OL-2026-000226,ORD-2026-000117,HME-8961,"Ribbed glass tumbler, set of two",home,1,4995,500,4495,true,0,0
+OL-2026-000227,ORD-2026-000118,BTY-6055,Cedar hand wash,beauty,1,2500,0,2500,true,0,0
+OL-2026-000228,ORD-2026-000118,FTW-5862,Suede field shoe,footwear,1,7200,0,7200,true,0,0
+OL-2026-000229,ORD-2026-000119,ACC-2828,Linen pocket square,accessories,1,2800,420,2380,true,1,2380
+OL-2026-000230,ORD-2026-000119,BTY-3742,Mineral bath soak,beauty,1,1495,75,1420,true,1,1420
+OL-2026-000231,ORD-2026-000120,ACC-5468,Merino beanie,accessories,1,2700,270,2430,true,0,0
+OL-2026-000232,ORD-2026-000121,APP-6768,Quilted patch jacket,apparel,1,7045,704,6341,true,0,0
+OL-2026-000233,ORD-2026-000121,HME-9726,Brushed cotton throw,home,1,3450,345,3105,true,0,0
+OL-2026-000234,ORD-2026-000121,APP-3836,Washed cotton overshirt,apparel,1,4300,215,4085,true,0,0
+OL-2026-000235,ORD-2026-000122,BTY-5226,Vetiver travel candle,beauty,1,2150,0,2150,true,0,0
+OL-2026-000236,ORD-2026-000122,APP-7287,Quilted patch jacket,apparel,1,6700,1005,5695,true,1,5695
+OL-2026-000237,ORD-2026-000123,APP-7977,Quilted patch jacket,apparel,1,10395,1040,9355,true,0,0
+OL-2026-000238,ORD-2026-000123,APP-7208,Quilted patch jacket,apparel,1,6250,1562,4688,true,0,0
+OL-2026-000239,ORD-2026-000124,BTY-5074,Mineral bath soak,beauty,1,2400,240,2160,true,0,0
+OL-2026-000240,ORD-2026-000124,APP-5909,Heavyweight jersey tee,apparel,1,11150,1115,10035,true,0,0
+OL-2026-000241,ORD-2026-000125,GFT-8425,Morrow & Finch gift card,gift_card,1,6345,317,6028,false,0,0
+OL-2026-000242,ORD-2026-000125,FTW-5542,"Walking sandal, moss",footwear,1,11595,0,11595,true,1,11595
+OL-2026-000243,ORD-2026-000126,APP-1048,Ribbed merino crew,apparel,1,8600,0,8600,true,0,0
+OL-2026-000244,ORD-2026-000127,BTY-4133,Mineral bath soak,beauty,1,2850,142,2708,true,0,0
+OL-2026-000245,ORD-2026-000127,FTW-2501,"Leather derby, oak",footwear,1,7395,740,6655,true,0,0
+OL-2026-000246,ORD-2026-000128,HME-6156,"Ribbed glass tumbler, set of two",home,1,5450,0,5450,true,1,5450
+OL-2026-000247,ORD-2026-000128,ACC-6243,Woven leather belt,accessories,1,5500,275,5225,true,0,0
+OL-2026-000248,ORD-2026-000128,APP-3557,Quilted patch jacket,apparel,1,7750,1550,6200,true,0,0
+OL-2026-000249,ORD-2026-000129,BTY-9703,Rosehip body balm,beauty,2,4000,400,7600,true,0,0
+OL-2026-000250,ORD-2026-000129,FTW-5565,Suede field shoe,footwear,1,7495,750,6745,true,1,6745
+OL-2026-000251,ORD-2026-000130,APP-7756,Quilted patch jacket,apparel,1,8500,0,8500,true,0,0
+OL-2026-000252,ORD-2026-000130,APP-4456,Quilted patch jacket,apparel,1,11800,590,11210,true,0,0
+OL-2026-000253,ORD-2026-000131,ACC-9202,Waxed canvas pouch,accessories,1,1445,144,1301,true,0,0
+OL-2026-000254,ORD-2026-000131,FTW-5580,Canvas low trainer,footwear,1,6750,675,6075,true,0,0
+OL-2026-000255,ORD-2026-000132,APP-9313,Washed cotton overshirt,apparel,1,4100,615,3485,true,0,0
+OL-2026-000256,ORD-2026-000133,HME-8006,Oak desk tray,home,1,8150,1222,6928,true,0,0
+OL-2026-000257,ORD-2026-000134,ACC-3495,Woven leather belt,accessories,1,1400,0,1400,true,0,0
+OL-2026-000258,ORD-2026-000134,HME-2245,Stoneware serving bowl,home,1,5200,260,4940,true,0,0
+OL-2026-000259,ORD-2026-000135,FTW-9874,Canvas low trainer,footwear,1,10395,0,10395,true,0,0
+OL-2026-000260,ORD-2026-000136,APP-4787,Pleated wool trouser,apparel,1,8500,850,7650,true,0,0
+OL-2026-000261,ORD-2026-000136,HME-8069,Beeswax pillar candle,home,1,7350,735,6615,true,0,0
+OL-2026-000262,ORD-2026-000137,HME-1840,Stoneware serving bowl,home,1,3600,0,3600,true,0,0
+OL-2026-000263,ORD-2026-000137,APP-7890,Washed cotton overshirt,apparel,1,9250,1388,7862,true,0,0
+OL-2026-000264,ORD-2026-000137,HME-6173,Brushed cotton throw,home,2,2400,0,4800,true,0,0
+OL-2026-000265,ORD-2026-000138,APP-5436,Quilted patch jacket,apparel,1,11850,1185,10665,true,0,0
+OL-2026-000266,ORD-2026-000139,GFT-6382,Morrow & Finch gift card,gift_card,1,9950,0,9950,false,0,0
+OL-2026-000267,ORD-2026-000140,BTY-9490,Rosehip body balm,beauty,1,2100,315,1785,true,0,0
+OL-2026-000268,ORD-2026-000140,BTY-1405,Rosehip body balm,beauty,2,1100,220,1980,true,0,0
+OL-2026-000269,ORD-2026-000140,APP-6383,Washed cotton overshirt,apparel,1,7850,392,7458,true,0,0
+OL-2026-000270,ORD-2026-000141,APP-8777,Ribbed merino crew,apparel,1,7650,0,7650,true,0,0
+OL-2026-000271,ORD-2026-000141,BTY-7835,Cedar hand wash,beauty,2,3000,0,6000,true,0,0
+OL-2026-000272,ORD-2026-000142,BTY-2386,Botanical face oil,beauty,1,4295,0,4295,true,0,0
+OL-2026-000273,ORD-2026-000142,APP-8746,Ribbed merino crew,apparel,1,3800,570,3230,true,0,0
+OL-2026-000274,ORD-2026-000143,FTW-6186,"Chelsea boot, waxed",footwear,1,5200,520,4680,true,1,4680
+OL-2026-000275,ORD-2026-000144,BTY-6945,Cedar hand wash,beauty,1,1145,0,1145,true,1,1145
+OL-2026-000276,ORD-2026-000145,FTW-6957,"Chelsea boot, waxed",footwear,1,5745,574,5171,true,0,0
+OL-2026-000277,ORD-2026-000145,FTW-9203,Suede field shoe,footwear,1,14900,745,14155,true,0,0
+OL-2026-000278,ORD-2026-000146,APP-5390,Ribbed merino crew,apparel,1,5800,0,5800,true,0,0
+OL-2026-000279,ORD-2026-000147,FTW-7993,Suede field shoe,footwear,1,5000,500,4500,true,0,0
+OL-2026-000280,ORD-2026-000147,APP-1166,Linen camp collar shirt,apparel,1,7645,382,7263,true,0,0
+OL-2026-000281,ORD-2026-000148,APP-6233,Pleated wool trouser,apparel,1,12400,620,11780,true,0,0
+OL-2026-000282,ORD-2026-000148,FTW-5110,"Leather derby, oak",footwear,1,8100,0,8100,true,0,0
+OL-2026-000283,ORD-2026-000148,APP-6000,Pleated wool trouser,apparel,1,11150,0,11150,true,0,0
+OL-2026-000284,ORD-2026-000149,APP-1693,Washed cotton overshirt,apparel,1,5350,0,5350,true,0,0
+OL-2026-000285,ORD-2026-000149,FTW-1733,"Walking sandal, moss",footwear,1,7545,754,6791,true,0,0
+OL-2026-000286,ORD-2026-000149,ACC-6885,Merino beanie,accessories,1,6300,0,6300,true,0,0
+OL-2026-000287,ORD-2026-000150,BTY-4558,Rosehip body balm,beauty,1,1500,225,1275,true,0,0
+OL-2026-000288,ORD-2026-000151,FTW-9582,Suede field shoe,footwear,1,10750,0,10750,true,0,0
+OL-2026-000289,ORD-2026-000152,HME-4934,Oak desk tray,home,1,6800,680,6120,true,0,0
+OL-2026-000290,ORD-2026-000153,ACC-2922,Woven leather belt,accessories,1,6195,310,5885,true,0,0
+OL-2026-000291,ORD-2026-000153,BTY-2182,Cedar hand wash,beauty,1,2650,0,2650,true,1,2650
+OL-2026-000292,ORD-2026-000154,APP-3411,Quilted patch jacket,apparel,1,12450,0,12450,true,0,0
+OL-2026-000293,ORD-2026-000155,HME-3786,"Ribbed glass tumbler, set of two",home,1,1850,185,1665,true,0,0
+OL-2026-000294,ORD-2026-000155,GFT-2424,E-gift card,gift_card,1,4400,0,4400,false,0,0
+OL-2026-000295,ORD-2026-000156,HME-7462,Oak desk tray,home,1,3200,320,2880,true,1,2880
+OL-2026-000296,ORD-2026-000156,APP-1452,Heavyweight jersey tee,apparel,1,7050,705,6345,true,1,6345
+OL-2026-000297,ORD-2026-000157,APP-2984,Quilted patch jacket,apparel,1,11745,0,11745,true,0,0
+OL-2026-000298,ORD-2026-000158,ACC-2483,Waxed canvas pouch,accessories,1,4350,652,3698,true,0,0
+OL-2026-000299,ORD-2026-000158,APP-9382,Linen camp collar shirt,apparel,1,9000,900,8100,true,0,0
+OL-2026-000300,ORD-2026-000159,APP-3518,Quilted patch jacket,apparel,1,11250,0,11250,true,0,0
+OL-2026-000301,ORD-2026-000159,APP-4281,Ribbed merino crew,apparel,1,3950,592,3358,true,0,0
+OL-2026-000302,ORD-2026-000159,APP-2652,Quilted patch jacket,apparel,1,8445,1689,6756,true,0,0
+OL-2026-000303,ORD-2026-000159,FTW-5210,Suede field shoe,footwear,1,5945,892,5053,true,0,0
+OL-2026-000304,ORD-2026-000160,BTY-3012,Cedar hand wash,beauty,1,4600,0,4600,true,0,0
+OL-2026-000305,ORD-2026-000160,APP-7430,Linen camp collar shirt,apparel,1,12250,0,12250,true,0,0
+OL-2026-000306,ORD-2026-000161,BTY-7491,Cedar hand wash,beauty,1,3600,540,3060,true,0,0
+OL-2026-000307,ORD-2026-000162,BTY-7376,Cedar hand wash,beauty,2,1150,0,2300,true,0,0
+OL-2026-000308,ORD-2026-000162,HME-4672,Beeswax pillar candle,home,1,6900,0,6900,true,0,0
+OL-2026-000309,ORD-2026-000163,HME-8763,Oak desk tray,home,1,4095,0,4095,true,0,0
+OL-2026-000310,ORD-2026-000163,APP-4025,Quilted patch jacket,apparel,1,7650,765,6885,true,0,0
+OL-2026-000311,ORD-2026-000164,APP-4403,Ribbed merino crew,apparel,1,11750,1175,10575,true,0,0
+OL-2026-000312,ORD-2026-000165,BTY-7899,Rosehip body balm,beauty,1,3100,775,2325,true,0,0
+OL-2026-000313,ORD-2026-000165,APP-9538,Ribbed merino crew,apparel,1,10550,528,10022,true,0,0
+OL-2026-000314,ORD-2026-000166,APP-7051,Ribbed merino crew,apparel,1,10845,1084,9761,true,0,0
+OL-2026-000315,ORD-2026-000166,FTW-9020,"Walking sandal, moss",footwear,1,11600,0,11600,true,0,0
+OL-2026-000316,ORD-2026-000166,BTY-9710,Botanical face oil,beauty,1,3000,300,2700,true,0,0
+OL-2026-000317,ORD-2026-000167,APP-4339,Pleated wool trouser,apparel,1,7400,0,7400,true,0,0
+OL-2026-000318,ORD-2026-000167,HME-2641,Stoneware serving bowl,home,1,6550,655,5895,true,0,0
+OL-2026-000319,ORD-2026-000168,HME-3988,"Ribbed glass tumbler, set of two",home,1,3050,152,2898,true,0,0
+OL-2026-000320,ORD-2026-000168,APP-1269,Quilted patch jacket,apparel,1,7150,0,7150,true,0,0
+OL-2026-000321,ORD-2026-000169,BTY-8049,Botanical face oil,beauty,1,3845,0,3845,true,0,0
+OL-2026-000322,ORD-2026-000170,APP-4275,Quilted patch jacket,apparel,1,4295,0,4295,true,0,0
+OL-2026-000323,ORD-2026-000170,APP-7139,Linen camp collar shirt,apparel,1,8350,1252,7098,true,0,0
+OL-2026-000324,ORD-2026-000171,APP-1239,Pleated wool trouser,apparel,1,10950,0,10950,true,0,0
+OL-2026-000325,ORD-2026-000172,FTW-5041,"Leather derby, oak",footwear,1,5200,260,4940,true,0,0
+OL-2026-000326,ORD-2026-000172,APP-2072,Heavyweight jersey tee,apparel,1,12000,600,11400,true,0,0
+OL-2026-000327,ORD-2026-000173,APP-7460,Pleated wool trouser,apparel,1,12400,620,11780,true,0,0
+OL-2026-000328,ORD-2026-000174,APP-7874,Ribbed merino crew,apparel,1,7145,357,6788,true,0,0
+OL-2026-000329,ORD-2026-000174,APP-3916,Linen camp collar shirt,apparel,1,10700,0,10700,true,0,0
+OL-2026-000330,ORD-2026-000175,BTY-6894,Rosehip body balm,beauty,1,3895,195,3700,true,0,0
+OL-2026-000331,ORD-2026-000176,GFT-4185,E-gift card,gift_card,1,5145,0,5145,false,0,0
+OL-2026-000332,ORD-2026-000177,BTY-5523,Botanical face oil,beauty,2,3700,370,7030,true,0,0
+OL-2026-000333,ORD-2026-000177,APP-4969,Ribbed merino crew,apparel,1,7600,380,7220,true,0,0
+OL-2026-000334,ORD-2026-000177,ACC-5270,Merino beanie,accessories,1,1550,155,1395,true,0,0
+OL-2026-000335,ORD-2026-000178,HME-5631,Stoneware serving bowl,home,1,4850,485,4365,true,0,0
+OL-2026-000336,ORD-2026-000178,APP-1354,Linen camp collar shirt,apparel,1,10800,1080,9720,true,0,0
+OL-2026-000337,ORD-2026-000179,BTY-2112,Botanical face oil,beauty,2,3400,680,6120,true,0,0
+OL-2026-000338,ORD-2026-000179,FTW-1965,"Leather derby, oak",footwear,1,5450,0,5450,true,0,0
+OL-2026-000339,ORD-2026-000180,APP-1397,Washed cotton overshirt,apparel,1,5350,0,5350,true,0,0
+OL-2026-000340,ORD-2026-000180,FTW-1441,Canvas low trainer,footwear,1,6100,305,5795,true,0,0
+OL-2026-000341,ORD-2026-000180,ACC-4405,Woven leather belt,accessories,1,1750,88,1662,true,0,0
+OL-2026-000342,ORD-2026-000180,APP-1319,Ribbed merino crew,apparel,1,11650,1165,10485,true,0,0
+OL-2026-000343,ORD-2026-000181,APP-9228,Pleated wool trouser,apparel,1,10300,0,10300,true,0,0
+OL-2026-000344,ORD-2026-000181,BTY-8313,Cedar hand wash,beauty,1,4600,230,4370,true,0,0
+OL-2026-000345,ORD-2026-000182,FTW-9775,Suede field shoe,footwear,1,15200,0,15200,true,0,0
+OL-2026-000346,ORD-2026-000183,APP-1200,Linen camp collar shirt,apparel,1,11700,0,11700,true,0,0
+OL-2026-000347,ORD-2026-000183,HME-3139,Beeswax pillar candle,home,1,5250,525,4725,true,0,0
+OL-2026-000348,ORD-2026-000184,APP-3191,Ribbed merino crew,apparel,1,6450,0,6450,true,0,0
+OL-2026-000349,ORD-2026-000184,APP-2160,Ribbed merino crew,apparel,1,11400,0,11400,true,0,0
+OL-2026-000350,ORD-2026-000184,FTW-2467,"Leather derby, oak",footwear,1,13750,0,13750,true,0,0
+OL-2026-000351,ORD-2026-000185,FTW-2041,"Walking sandal, moss",footwear,1,10750,538,10212,true,0,0
+OL-2026-000352,ORD-2026-000185,APP-7286,Quilted patch jacket,apparel,1,8650,432,8218,true,0,0
+OL-2026-000353,ORD-2026-000186,GFT-7510,E-gift card,gift_card,1,7600,1140,6460,false,0,0
+OL-2026-000354,ORD-2026-000187,FTW-5749,Suede field shoe,footwear,1,4850,728,4122,true,0,0
+OL-2026-000355,ORD-2026-000188,ACC-5730,Merino beanie,accessories,1,3445,0,3445,true,0,0
+OL-2026-000356,ORD-2026-000188,FTW-3903,Canvas low trainer,footwear,1,10395,0,10395,true,0,0
+OL-2026-000357,ORD-2026-000189,GFT-5638,Morrow & Finch gift card,gift_card,1,9450,0,9450,false,0,0
+OL-2026-000358,ORD-2026-000190,BTY-7660,Mineral bath soak,beauty,1,1450,0,1450,true,0,0
+OL-2026-000359,ORD-2026-000190,ACC-9624,Waxed canvas pouch,accessories,1,4700,0,4700,true,1,4700
+OL-2026-000360,ORD-2026-000191,APP-8938,Linen camp collar shirt,apparel,1,10695,1070,9625,true,0,0
+OL-2026-000361,ORD-2026-000191,APP-5825,Linen camp collar shirt,apparel,1,11500,0,11500,true,0,0
+OL-2026-000362,ORD-2026-000192,APP-8153,Washed cotton overshirt,apparel,1,9495,475,9020,true,0,0
+OL-2026-000363,ORD-2026-000192,BTY-1185,Mineral bath soak,beauty,1,3300,0,3300,true,0,0
+OL-2026-000364,ORD-2026-000193,ACC-4526,Linen pocket square,accessories,1,2100,0,2100,true,0,0
+OL-2026-000365,ORD-2026-000194,APP-3690,Ribbed merino crew,apparel,1,7245,0,7245,true,0,0
+OL-2026-000366,ORD-2026-000194,GFT-4910,E-gift card,gift_card,1,5500,1100,4400,false,0,0
+OL-2026-000367,ORD-2026-000195,FTW-2714,"Chelsea boot, waxed",footwear,1,15445,2317,13128,true,0,0
+OL-2026-000368,ORD-2026-000195,FTW-8196,"Walking sandal, moss",footwear,1,13650,682,12968,true,0,0
+OL-2026-000369,ORD-2026-000196,GFT-5435,Morrow & Finch gift card,gift_card,1,5900,1180,4720,false,0,0
+OL-2026-000370,ORD-2026-000197,HME-8905,Beeswax pillar candle,home,1,4195,629,3566,true,0,0
+OL-2026-000371,ORD-2026-000197,HME-6575,Stoneware serving bowl,home,1,6800,0,6800,true,0,0
+OL-2026-000372,ORD-2026-000197,APP-3277,Linen camp collar shirt,apparel,1,11100,0,11100,true,1,11100
+OL-2026-000373,ORD-2026-000198,APP-6311,Linen camp collar shirt,apparel,1,8650,1298,7352,true,0,0
+OL-2026-000374,ORD-2026-000199,FTW-7599,"Walking sandal, moss",footwear,1,7950,1192,6758,true,0,0
+OL-2026-000375,ORD-2026-000199,FTW-2125,Suede field shoe,footwear,1,13450,0,13450,true,0,0
+OL-2026-000376,ORD-2026-000200,GFT-7721,Morrow & Finch gift card,gift_card,1,7950,0,7950,false,0,0
+OL-2026-000377,ORD-2026-000200,APP-5707,Heavyweight jersey tee,apparel,1,10850,0,10850,true,0,0
+OL-2026-000378,ORD-2026-000200,APP-1126,Linen camp collar shirt,apparel,1,7550,755,6795,true,0,0
+OL-2026-000379,ORD-2026-000201,APP-7775,Linen camp collar shirt,apparel,1,12050,0,12050,true,0,0
+OL-2026-000380,ORD-2026-000201,FTW-4864,"Chelsea boot, waxed",footwear,1,9450,0,9450,true,0,0
+OL-2026-000381,ORD-2026-000202,ACC-4097,Woven leather belt,accessories,1,3500,175,3325,true,0,0
+OL-2026-000382,ORD-2026-000202,APP-3448,Washed cotton overshirt,apparel,1,9350,0,9350,true,0,0
+OL-2026-000383,ORD-2026-000203,APP-2062,Heavyweight jersey tee,apparel,1,10200,0,10200,true,0,0
+OL-2026-000384,ORD-2026-000203,APP-6209,Ribbed merino crew,apparel,1,10895,1090,9805,true,0,0
+OL-2026-000385,ORD-2026-000203,HME-8677,Stoneware serving bowl,home,1,5595,560,5035,true,0,0
+OL-2026-000386,ORD-2026-000203,BTY-1038,Mineral bath soak,beauty,1,1500,0,1500,true,0,0
+OL-2026-000387,ORD-2026-000204,HME-6383,Brushed cotton throw,home,1,4250,638,3612,true,0,0
+OL-2026-000388,ORD-2026-000204,APP-2342,Heavyweight jersey tee,apparel,1,12200,0,12200,true,0,0
+OL-2026-000389,ORD-2026-000205,APP-3278,Ribbed merino crew,apparel,1,5545,277,5268,true,0,0
+OL-2026-000390,ORD-2026-000206,FTW-4122,Canvas low trainer,footwear,1,6600,990,5610,true,0,0
+OL-2026-000391,ORD-2026-000206,FTW-4582,"Leather derby, oak",footwear,1,11850,592,11258,true,0,0
+OL-2026-000392,ORD-2026-000206,APP-7462,Heavyweight jersey tee,apparel,1,9495,475,9020,true,0,0
+OL-2026-000393,ORD-2026-000207,HME-3491,Brushed cotton throw,home,1,5550,832,4718,true,1,4718
+OL-2026-000394,ORD-2026-000208,FTW-4052,"Chelsea boot, waxed",footwear,1,10400,0,10400,true,0,0
+OL-2026-000395,ORD-2026-000208,APP-8283,Pleated wool trouser,apparel,1,4800,0,4800,true,0,0
+OL-2026-000396,ORD-2026-000209,HME-7320,"Ribbed glass tumbler, set of two",home,1,4850,0,4850,true,0,0
+OL-2026-000397,ORD-2026-000209,APP-9017,Heavyweight jersey tee,apparel,1,11945,2389,9556,true,0,0
+OL-2026-000398,ORD-2026-000209,APP-1293,Washed cotton overshirt,apparel,1,9300,0,9300,true,0,0
+OL-2026-000399,ORD-2026-000210,ACC-2715,Woven leather belt,accessories,1,6300,0,6300,true,0,0
+OL-2026-000400,ORD-2026-000210,APP-4790,Ribbed merino crew,apparel,1,3800,0,3800,true,0,0
+OL-2026-000401,ORD-2026-000211,FTW-2816,"Leather derby, oak",footwear,1,9500,0,9500,true,0,0
+OL-2026-000402,ORD-2026-000211,APP-9527,Linen camp collar shirt,apparel,1,11750,1175,10575,true,0,0
+OL-2026-000403,ORD-2026-000212,APP-5120,Ribbed merino crew,apparel,1,12400,0,12400,true,0,0
+OL-2026-000404,ORD-2026-000213,FTW-8088,"Leather derby, oak",footwear,1,6550,982,5568,true,1,5568
+OL-2026-000405,ORD-2026-000213,HME-5562,Brushed cotton throw,home,1,8200,0,8200,true,1,8200
+OL-2026-000406,ORD-2026-000213,APP-6931,Washed cotton overshirt,apparel,1,10350,1035,9315,true,1,9315
+OL-2026-000407,ORD-2026-000213,APP-2678,Heavyweight jersey tee,apparel,1,9750,0,9750,true,1,9750
+OL-2026-000408,ORD-2026-000214,FTW-7269,Canvas low trainer,footwear,1,5000,0,5000,true,0,0
+OL-2026-000409,ORD-2026-000214,FTW-3071,"Leather derby, oak",footwear,1,7100,710,6390,true,0,0
+OL-2026-000410,ORD-2026-000214,APP-7258,Quilted patch jacket,apparel,1,5500,0,5500,true,0,0
+OL-2026-000411,ORD-2026-000215,FTW-5978,"Walking sandal, moss",footwear,1,12100,1210,10890,true,0,0
+OL-2026-000412,ORD-2026-000215,GFT-1057,Morrow & Finch gift card,gift_card,1,3900,0,3900,false,0,0
+OL-2026-000413,ORD-2026-000215,APP-3839,Heavyweight jersey tee,apparel,1,4800,0,4800,true,0,0
+OL-2026-000414,ORD-2026-000216,APP-1996,Pleated wool trouser,apparel,1,10500,1050,9450,true,0,0
+OL-2026-000415,ORD-2026-000216,BTY-9857,Cedar hand wash,beauty,1,3050,305,2745,true,0,0
+OL-2026-000416,ORD-2026-000217,BTY-1192,Botanical face oil,beauty,1,4400,0,4400,true,0,0
+OL-2026-000417,ORD-2026-000218,FTW-6331,Suede field shoe,footwear,1,14750,0,14750,true,0,0
+OL-2026-000418,ORD-2026-000218,BTY-4284,Vetiver travel candle,beauty,1,3900,0,3900,true,0,0
+OL-2026-000419,ORD-2026-000218,FTW-5305,Suede field shoe,footwear,1,5495,0,5495,true,0,0
+OL-2026-000420,ORD-2026-000219,FTW-4938,"Leather derby, oak",footwear,1,10200,1530,8670,true,0,0
+OL-2026-000421,ORD-2026-000219,BTY-1014,Rosehip body balm,beauty,2,2050,0,4100,true,0,0
+OL-2026-000422,ORD-2026-000219,BTY-2019,Vetiver travel candle,beauty,1,3450,0,3450,true,0,0
+OL-2026-000423,ORD-2026-000220,APP-3548,Quilted patch jacket,apparel,1,8295,415,7880,true,0,0
+OL-2026-000424,ORD-2026-000221,ACC-5175,Waxed canvas pouch,accessories,1,3600,540,3060,true,0,0
+OL-2026-000425,ORD-2026-000222,GFT-9125,Morrow & Finch gift card,gift_card,1,4350,0,4350,false,0,0
+OL-2026-000426,ORD-2026-000222,APP-3754,Pleated wool trouser,apparel,1,5400,0,5400,true,0,0
+OL-2026-000427,ORD-2026-000222,FTW-7810,Canvas low trainer,footwear,1,12200,1830,10370,true,0,0
+OL-2026-000428,ORD-2026-000223,FTW-4414,Suede field shoe,footwear,1,10700,0,10700,true,0,0
+OL-2026-000429,ORD-2026-000223,APP-1527,Heavyweight jersey tee,apparel,1,4550,0,4550,true,0,0
+OL-2026-000430,ORD-2026-000223,BTY-9663,Rosehip body balm,beauty,1,4500,0,4500,true,0,0
+OL-2026-000431,ORD-2026-000224,APP-6557,Ribbed merino crew,apparel,1,9850,1478,8372,true,0,0
+OL-2026-000432,ORD-2026-000224,FTW-6243,Canvas low trainer,footwear,1,9300,0,9300,true,0,0
+OL-2026-000433,ORD-2026-000225,BTY-9285,Cedar hand wash,beauty,1,3445,172,3273,true,0,0
+OL-2026-000434,ORD-2026-000226,APP-2497,Quilted patch jacket,apparel,1,11900,1190,10710,true,0,0
+OL-2026-000435,ORD-2026-000226,APP-2366,Washed cotton overshirt,apparel,1,5250,788,4462,true,1,4462
+OL-2026-000436,ORD-2026-000227,APP-7569,Heavyweight jersey tee,apparel,1,5250,0,5250,true,0,0
+OL-2026-000437,ORD-2026-000227,FTW-5117,"Walking sandal, moss",footwear,1,14000,1400,12600,true,0,0
+OL-2026-000438,ORD-2026-000228,ACC-7400,Brass key ring,accessories,1,2295,230,2065,true,0,0
+OL-2026-000439,ORD-2026-000228,APP-6995,Pleated wool trouser,apparel,1,3950,0,3950,true,0,0
+OL-2026-000440,ORD-2026-000229,FTW-3786,"Leather derby, oak",footwear,1,12700,1270,11430,true,0,0
+OL-2026-000441,ORD-2026-000230,ACC-3059,Merino beanie,accessories,1,1795,0,1795,true,1,1795
+OL-2026-000442,ORD-2026-000230,BTY-8924,Mineral bath soak,beauty,1,2350,0,2350,true,0,0
+OL-2026-000443,ORD-2026-000231,ACC-8190,Merino beanie,accessories,1,2495,0,2495,true,1,2495
+OL-2026-000444,ORD-2026-000232,APP-8584,Pleated wool trouser,apparel,1,3850,0,3850,true,0,0
+OL-2026-000445,ORD-2026-000233,HME-7927,Stoneware serving bowl,home,1,5345,267,5078,true,0,0
+OL-2026-000446,ORD-2026-000234,APP-9981,Washed cotton overshirt,apparel,1,5300,795,4505,true,0,0
+OL-2026-000447,ORD-2026-000234,APP-7090,Pleated wool trouser,apparel,1,5045,1261,3784,true,0,0
+OL-2026-000448,ORD-2026-000235,APP-8095,Heavyweight jersey tee,apparel,1,10400,0,10400,true,0,0
+OL-2026-000449,ORD-2026-000235,FTW-1984,"Chelsea boot, waxed",footwear,1,9550,0,9550,true,0,0
+OL-2026-000450,ORD-2026-000236,APP-4191,Quilted patch jacket,apparel,1,5600,0,5600,true,0,0
+OL-2026-000451,ORD-2026-000236,HME-3630,Oak desk tray,home,1,3395,0,3395,true,0,0
+OL-2026-000452,ORD-2026-000236,ACC-8812,Brass key ring,accessories,1,4945,742,4203,true,0,0
+OL-2026-000453,ORD-2026-000236,APP-5075,Linen camp collar shirt,apparel,1,10950,0,10950,true,0,0
+OL-2026-000454,ORD-2026-000237,APP-9193,Ribbed merino crew,apparel,1,6450,0,6450,true,0,0
+OL-2026-000455,ORD-2026-000237,FTW-7248,Canvas low trainer,footwear,1,14000,2100,11900,true,0,0
+OL-2026-000456,ORD-2026-000238,APP-8305,Ribbed merino crew,apparel,1,12500,1250,11250,true,0,0
+OL-2026-000457,ORD-2026-000238,FTW-3151,"Leather derby, oak",footwear,1,11050,0,11050,true,0,0
+OL-2026-000458,ORD-2026-000238,FTW-2506,"Chelsea boot, waxed",footwear,1,8400,840,7560,true,0,0
+OL-2026-000459,ORD-2026-000238,APP-6506,Pleated wool trouser,apparel,1,9500,950,8550,true,0,0
+OL-2026-000460,ORD-2026-000239,APP-7307,Pleated wool trouser,apparel,1,4545,227,4318,true,0,0
+OL-2026-000461,ORD-2026-000240,APP-5814,Linen camp collar shirt,apparel,1,9050,0,9050,true,0,0
+OL-2026-000462,ORD-2026-000240,APP-6801,Heavyweight jersey tee,apparel,1,10900,0,10900,true,0,0
+OL-2026-000463,ORD-2026-000241,APP-6809,Quilted patch jacket,apparel,1,9400,1880,7520,true,0,0
+OL-2026-000464,ORD-2026-000242,APP-6473,Quilted patch jacket,apparel,1,7100,0,7100,true,0,0
+OL-2026-000465,ORD-2026-000242,APP-6234,Washed cotton overshirt,apparel,1,12545,1254,11291,true,0,0
+OL-2026-000466,ORD-2026-000243,FTW-6704,"Leather derby, oak",footwear,1,9300,0,9300,true,0,0
+OL-2026-000467,ORD-2026-000244,FTW-2666,"Chelsea boot, waxed",footwear,1,6350,635,5715,true,1,5715
+OL-2026-000468,ORD-2026-000245,FTW-2138,Suede field shoe,footwear,1,9495,0,9495,true,0,0
+OL-2026-000469,ORD-2026-000245,APP-1358,Quilted patch jacket,apparel,1,6550,0,6550,true,0,0
+OL-2026-000470,ORD-2026-000246,HME-3672,Brushed cotton throw,home,1,3800,0,3800,true,0,0
+OL-2026-000471,ORD-2026-000246,APP-3611,Washed cotton overshirt,apparel,1,4250,0,4250,true,0,0
+OL-2026-000472,ORD-2026-000247,APP-9160,Linen camp collar shirt,apparel,1,8350,0,8350,true,0,0
+OL-2026-000473,ORD-2026-000247,FTW-4310,"Walking sandal, moss",footwear,1,6200,0,6200,true,1,6200
+OL-2026-000474,ORD-2026-000248,BTY-7480,Mineral bath soak,beauty,1,2050,0,2050,true,0,0
+OL-2026-000475,ORD-2026-000249,HME-4000,"Ribbed glass tumbler, set of two",home,1,4100,0,4100,true,0,0
+OL-2026-000476,ORD-2026-000249,APP-6298,Heavyweight jersey tee,apparel,1,10150,0,10150,true,1,10150
+OL-2026-000477,ORD-2026-000250,APP-7520,Pleated wool trouser,apparel,1,5600,0,5600,true,1,5600
+OL-2026-000478,ORD-2026-000250,APP-7727,Ribbed merino crew,apparel,1,4300,0,4300,true,0,0
+OL-2026-000479,ORD-2026-000251,APP-6796,Heavyweight jersey tee,apparel,1,5250,525,4725,true,0,0
+OL-2026-000480,ORD-2026-000251,BTY-4865,Vetiver travel candle,beauty,1,1850,185,1665,true,0,0
+OL-2026-000481,ORD-2026-000251,APP-3410,Heavyweight jersey tee,apparel,1,10700,1605,9095,true,0,0
+OL-2026-000482,ORD-2026-000251,HME-1223,Brushed cotton throw,home,1,5950,298,5652,true,0,0
+OL-2026-000483,ORD-2026-000252,ACC-3660,Brass key ring,accessories,1,2700,0,2700,true,0,0
+OL-2026-000484,ORD-2026-000252,ACC-5533,Linen pocket square,accessories,1,5495,0,5495,true,0,0
+OL-2026-000485,ORD-2026-000253,FTW-2764,"Walking sandal, moss",footwear,1,10150,0,10150,true,0,0
+OL-2026-000486,ORD-2026-000253,APP-5160,Linen camp collar shirt,apparel,1,7750,1162,6588,true,0,0
+OL-2026-000487,ORD-2026-000254,APP-8021,Pleated wool trouser,apparel,1,3500,350,3150,true,0,0
+OL-2026-000488,ORD-2026-000254,FTW-4395,"Chelsea boot, waxed",footwear,1,15450,0,15450,true,0,0
+OL-2026-000489,ORD-2026-000255,APP-3263,Linen camp collar shirt,apparel,1,12100,1815,10285,true,0,0
+OL-2026-000490,ORD-2026-000255,APP-8008,Quilted patch jacket,apparel,1,9550,0,9550,true,0,0
+OL-2026-000491,ORD-2026-000256,APP-1993,Heavyweight jersey tee,apparel,1,4150,0,4150,true,0,0
+OL-2026-000492,ORD-2026-000256,FTW-1464,Canvas low trainer,footwear,1,15000,0,15000,true,0,0
+OL-2026-000493,ORD-2026-000257,FTW-1584,"Walking sandal, moss",footwear,1,8450,422,8028,true,0,0
+OL-2026-000494,ORD-2026-000257,HME-7293,Beeswax pillar candle,home,1,2395,240,2155,true,0,0
+OL-2026-000495,ORD-2026-000257,FTW-5780,"Chelsea boot, waxed",footwear,1,8195,0,8195,true,0,0
+OL-2026-000496,ORD-2026-000257,HME-5325,Stoneware serving bowl,home,1,8350,0,8350,true,0,0
+OL-2026-000497,ORD-2026-000258,FTW-8315,Suede field shoe,footwear,1,6100,610,5490,true,0,0
+OL-2026-000498,ORD-2026-000258,APP-1135,Quilted patch jacket,apparel,1,11650,0,11650,true,0,0
+OL-2026-000499,ORD-2026-000259,FTW-2571,"Leather derby, oak",footwear,1,12650,0,12650,true,0,0
+OL-2026-000500,ORD-2026-000259,APP-8815,Pleated wool trouser,apparel,1,8350,0,8350,true,0,0
+OL-2026-000501,ORD-2026-000260,APP-9956,Pleated wool trouser,apparel,1,10950,0,10950,true,0,0
+OL-2026-000502,ORD-2026-000260,BTY-9179,Botanical face oil,beauty,1,3745,562,3183,true,0,0
+OL-2026-000503,ORD-2026-000260,APP-6222,Pleated wool trouser,apparel,1,9450,0,9450,true,0,0
+OL-2026-000504,ORD-2026-000261,FTW-7609,Suede field shoe,footwear,1,6300,630,5670,true,0,0
+OL-2026-000505,ORD-2026-000261,APP-6864,Washed cotton overshirt,apparel,1,7950,0,7950,true,0,0
+OL-2026-000506,ORD-2026-000261,FTW-3053,"Walking sandal, moss",footwear,1,4700,0,4700,true,1,4700
+OL-2026-000507,ORD-2026-000262,HME-6502,"Ribbed glass tumbler, set of two",home,1,7700,0,7700,true,1,7700
+OL-2026-000508,ORD-2026-000262,ACC-9238,Merino beanie,accessories,1,4950,0,4950,true,1,4950
+OL-2026-000509,ORD-2026-000263,APP-8266,Washed cotton overshirt,apparel,1,3900,0,3900,true,0,0
+OL-2026-000510,ORD-2026-000263,APP-6310,Pleated wool trouser,apparel,1,9245,0,9245,true,0,0
+OL-2026-000511,ORD-2026-000264,APP-4569,Heavyweight jersey tee,apparel,1,4145,414,3731,true,0,0
+OL-2026-000512,ORD-2026-000265,APP-3390,Linen camp collar shirt,apparel,1,6550,0,6550,true,0,0
+OL-2026-000513,ORD-2026-000265,BTY-6003,Rosehip body balm,beauty,1,1200,180,1020,true,0,0
+OL-2026-000514,ORD-2026-000265,HME-9844,"Ribbed glass tumbler, set of two",home,1,7845,0,7845,true,0,0
+OL-2026-000515,ORD-2026-000265,FTW-1619,Suede field shoe,footwear,1,5750,0,5750,true,0,0
+OL-2026-000516,ORD-2026-000266,APP-4314,Ribbed merino crew,apparel,1,4195,210,3985,true,0,0
+OL-2026-000517,ORD-2026-000266,APP-9511,Quilted patch jacket,apparel,1,7495,750,6745,true,1,6745
+OL-2026-000518,ORD-2026-000267,ACC-6446,Linen pocket square,accessories,1,3250,325,2925,true,0,0
+OL-2026-000519,ORD-2026-000268,ACC-8216,Linen pocket square,accessories,1,3400,850,2550,true,0,0
+OL-2026-000520,ORD-2026-000269,BTY-1782,Mineral bath soak,beauty,2,3950,395,7505,true,0,0
+OL-2026-000521,ORD-2026-000269,APP-9201,Heavyweight jersey tee,apparel,1,8350,418,7932,true,0,0
+OL-2026-000522,ORD-2026-000269,APP-8825,Linen camp collar shirt,apparel,1,11545,1732,9813,true,0,0
+OL-2026-000523,ORD-2026-000270,APP-1499,Heavyweight jersey tee,apparel,1,8800,0,8800,true,0,0
+OL-2026-000524,ORD-2026-000270,APP-7009,Heavyweight jersey tee,apparel,1,5600,0,5600,true,0,0
+OL-2026-000525,ORD-2026-000271,APP-9165,Washed cotton overshirt,apparel,1,9945,0,9945,true,0,0
+OL-2026-000526,ORD-2026-000271,HME-1645,Beeswax pillar candle,home,1,8250,0,8250,true,0,0
+OL-2026-000527,ORD-2026-000272,FTW-3189,Suede field shoe,footwear,1,13100,655,12445,true,0,0
+OL-2026-000528,ORD-2026-000272,ACC-6102,Waxed canvas pouch,accessories,1,5350,0,5350,true,0,0
+OL-2026-000529,ORD-2026-000273,FTW-1880,Canvas low trainer,footwear,1,14550,728,13822,true,0,0
+OL-2026-000530,ORD-2026-000274,APP-3774,Linen camp collar shirt,apparel,1,11550,2310,9240,true,0,0
+OL-2026-000531,ORD-2026-000274,APP-8577,Washed cotton overshirt,apparel,1,9200,1840,7360,true,0,0
+OL-2026-000532,ORD-2026-000274,HME-6528,Stoneware serving bowl,home,1,2645,0,2645,true,0,0
+OL-2026-000533,ORD-2026-000274,HME-4269,Beeswax pillar candle,home,1,7895,1184,6711,true,0,0
+OL-2026-000534,ORD-2026-000275,HME-9340,Beeswax pillar candle,home,1,3650,548,3102,true,0,0
+OL-2026-000535,ORD-2026-000275,APP-9251,Washed cotton overshirt,apparel,1,9400,0,9400,true,0,0
+OL-2026-000536,ORD-2026-000276,BTY-6591,Botanical face oil,beauty,1,3250,0,3250,true,0,0
+OL-2026-000537,ORD-2026-000276,FTW-3957,Canvas low trainer,footwear,1,8850,885,7965,true,0,0
+OL-2026-000538,ORD-2026-000277,FTW-6440,"Walking sandal, moss",footwear,1,12450,1868,10582,true,0,0
+OL-2026-000539,ORD-2026-000277,HME-3673,Brushed cotton throw,home,1,6900,0,6900,true,0,0
+OL-2026-000540,ORD-2026-000277,FTW-1685,"Chelsea boot, waxed",footwear,1,4850,485,4365,true,0,0
+OL-2026-000541,ORD-2026-000277,APP-1239,Quilted patch jacket,apparel,1,5050,252,4798,true,0,0
+OL-2026-000542,ORD-2026-000278,FTW-2959,"Walking sandal, moss",footwear,1,8500,1275,7225,true,0,0
+OL-2026-000543,ORD-2026-000279,APP-8198,Ribbed merino crew,apparel,1,11545,1154,10391,true,0,0
+OL-2026-000544,ORD-2026-000280,APP-5455,Heavyweight jersey tee,apparel,1,7850,392,7458,true,0,0
+OL-2026-000545,ORD-2026-000281,APP-3947,Heavyweight jersey tee,apparel,1,10900,0,10900,true,0,0
+OL-2026-000546,ORD-2026-000281,BTY-7372,Mineral bath soak,beauty,2,1845,0,3690,true,0,0
+OL-2026-000547,ORD-2026-000282,BTY-9701,Rosehip body balm,beauty,1,2250,0,2250,true,0,0
+OL-2026-000548,ORD-2026-000282,BTY-7764,Vetiver travel candle,beauty,2,4250,425,8075,true,0,0
+OL-2026-000549,ORD-2026-000282,BTY-9357,Cedar hand wash,beauty,1,3900,390,3510,true,0,0
+OL-2026-000550,ORD-2026-000283,FTW-6188,"Chelsea boot, waxed",footwear,1,8700,0,8700,true,0,0
+OL-2026-000551,ORD-2026-000283,APP-8284,Pleated wool trouser,apparel,1,11200,1680,9520,true,0,0
+OL-2026-000552,ORD-2026-000284,GFT-8721,Morrow & Finch gift card,gift_card,1,8245,824,7421,false,0,0
+OL-2026-000553,ORD-2026-000284,BTY-3568,Mineral bath soak,beauty,1,3050,0,3050,true,0,0
+OL-2026-000554,ORD-2026-000284,FTW-7245,"Chelsea boot, waxed",footwear,1,6100,0,6100,true,0,0
+OL-2026-000555,ORD-2026-000285,FTW-9890,Canvas low trainer,footwear,1,14800,0,14800,true,0,0
+OL-2026-000556,ORD-2026-000285,APP-3938,Quilted patch jacket,apparel,1,6000,0,6000,true,0,0
+OL-2026-000557,ORD-2026-000285,BTY-6393,Mineral bath soak,beauty,2,1150,230,2070,true,0,0
+OL-2026-000558,ORD-2026-000286,FTW-3604,"Leather derby, oak",footwear,1,12650,3162,9488,true,0,0
+OL-2026-000559,ORD-2026-000286,FTW-3724,Suede field shoe,footwear,1,10450,0,10450,true,0,0
+OL-2026-000560,ORD-2026-000287,FTW-8779,"Chelsea boot, waxed",footwear,1,13600,0,13600,true,0,0
+OL-2026-000561,ORD-2026-000288,APP-2670,Linen camp collar shirt,apparel,1,10295,515,9780,true,0,0
+OL-2026-000562,ORD-2026-000288,APP-7488,Quilted patch jacket,apparel,1,3950,592,3358,true,0,0
+OL-2026-000563,ORD-2026-000288,APP-6264,Heavyweight jersey tee,apparel,1,11800,0,11800,true,0,0
+OL-2026-000564,ORD-2026-000288,APP-8065,Washed cotton overshirt,apparel,1,3500,0,3500,true,0,0
+OL-2026-000565,ORD-2026-000289,FTW-4622,Canvas low trainer,footwear,1,5550,0,5550,true,0,0
+OL-2026-000566,ORD-2026-000289,ACC-5570,Waxed canvas pouch,accessories,1,4395,0,4395,true,1,4395
+OL-2026-000567,ORD-2026-000289,APP-6965,Heavyweight jersey tee,apparel,1,10500,525,9975,true,0,0
+OL-2026-000568,ORD-2026-000290,HME-4897,"Ribbed glass tumbler, set of two",home,1,7495,0,7495,true,0,0
+OL-2026-000569,ORD-2026-000290,ACC-8114,Brass key ring,accessories,1,3600,180,3420,true,0,0
+OL-2026-000570,ORD-2026-000290,APP-6290,Heavyweight jersey tee,apparel,1,11650,0,11650,true,0,0
+OL-2026-000571,ORD-2026-000291,HME-7014,Beeswax pillar candle,home,1,4600,0,4600,true,0,0
+OL-2026-000572,ORD-2026-000292,HME-4838,Brushed cotton throw,home,1,2650,0,2650,true,0,0
+OL-2026-000573,ORD-2026-000292,HME-9260,Stoneware serving bowl,home,1,4250,0,4250,true,0,0

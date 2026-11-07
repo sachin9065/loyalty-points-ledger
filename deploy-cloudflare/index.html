@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173a2f">
+  <title>Ledgerline — Morrow &amp; Finch loyalty ledger</title>
+  <meta name="description" content="A traceable loyalty ledger for every point earned, redeemed, expired and returned. Synthetic build 2026.1.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="6.5" height="6.5"/><rect x="14" y="3.5" width="6.5" height="6.5"/><rect x="3.5" y="14" width="6.5" height="6.5"/><rect x="14" y="14" width="6.5" height="6.5"/></symbol>
+    <symbol id="i-ledger" viewBox="0 0 24 24"><path d="M5 3.5h11.5A2.5 2.5 0 0 1 19 6v14.5H7A2 2 0 0 1 5 18.5Z"/><path d="M5 17.5h14M8.5 8h7M8.5 11.5h7"/></symbol>
+    <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.25"/><path d="M3.5 20v-1.4A5.1 5.1 0 0 1 8.6 13.5h.8a5.1 5.1 0 0 1 5.1 5.1V20"/><path d="M15 5.4a3.25 3.25 0 0 1 0 5.2M17.3 13.8a4.5 4.5 0 0 1 3.2 4.3V20"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.5 4.8 6v5.5c0 4.2 3 7.3 7.2 9 4.2-1.7 7.2-4.8 7.2-9V6Z"/><path d="m8.6 12 2.2 2.2 4.7-4.7"/></symbol>
+    <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="2.2"/><circle cx="15" cy="17" r="2.2"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5Z"/><path d="M4 20.5A2.5 2.5 0 0 1 6.5 18H20M8 7h8M8 10.5h6"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3.5v11M7.5 10.5 12 15l4.5-4.5M4.5 20.5h15"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M14 7l5 5-5 5"/></symbol>
+    <symbol id="i-arrow-up" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.2 4.2"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m8 10 4 4 4-4"/></symbol>
+    <symbol id="i-left" viewBox="0 0 24 24"><path d="m14 6-6 6 6 6"/></symbol>
+    <symbol id="i-right" viewBox="0 0 24 24"><path d="m10 6 6 6-6 6"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="1"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m4.5 12.5 5 5 10-11"/></symbol>
+    <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 3.5 21 20H3Z"/><path d="M12 9v5M12 17.2v.3"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v5.3l3.5 2"/></symbol>
+    <symbol id="i-link" viewBox="0 0 24 24"><path d="M9.5 14.5 14.5 9.5M7.3 17.5l-1.1 1.1a3.5 3.5 0 0 1-5-5l3-3a3.5 3.5 0 0 1 5 0M16.7 6.5l1.1-1.1a3.5 3.5 0 0 1 5 5l-3 3a3.5 3.5 0 0 1-5 0" transform="translate(-1.5 0)"/></symbol>
+    <symbol id="i-terminal" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="1.5"/><path d="m7 9 3 3-3 3M12.5 15H17"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+    <symbol id="i-database" viewBox="0 0 24 24"><ellipse cx="12" cy="5.5" rx="7.5" ry="3"/><path d="M4.5 5.5v6c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-6M4.5 11.5v6c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-6"/></symbol>
+    <symbol id="i-scale" viewBox="0 0 24 24"><path d="M12 3.5v17M6 7h12M4 14l3-7 3 7a3 3 0 0 1-6 0ZM14 14l3-7 3 7a3 3 0 0 1-6 0Z"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 10.5V17M12 7.2v.3"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3v4M12 17v4M3 12h4M17 12h4M5.6 5.6l2.8 2.8M15.6 15.6l2.8 2.8M18.4 5.6l-2.8 2.8M8.4 15.6l-2.8 2.8"/></symbol>
+    <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 5h16l-6.5 7.4V20l-3-1.6v-6Z"/></symbol>
+  </svg>
+
+  <div class="app-shell">
+    <aside class="rail" id="sidebar" aria-label="Primary navigation">
+      <div class="rail-top">
+        <button class="rail-close" id="railClose" aria-label="Close navigation">
+          <svg class="icon"><use href="#i-x"></use></svg>
+        </button>
+        <a class="brand" href="#overview" aria-label="Ledgerline overview">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 36 36">
+              <path d="M7 8.5h22M7 17.5h22M7 26.5h14" fill="none" stroke="currentColor" stroke-width="1.4"/>
+              <circle cx="27" cy="26.5" r="3" fill="#c65b38"/>
+            </svg>
+          </span>
+          <span class="brand-type">
+            <span class="brand-name">Ledgerline</span>
+            <span class="brand-sub">Morrow &amp; Finch</span>
+          </span>
+        </a>
+
+        <p class="rail-label">Workspace</p>
+        <nav class="rail-nav">
+          <a class="nav-link" href="#overview" data-route-link="overview">
+            <span class="nav-num">01</span>
+            <span class="nav-text">Overview</span>
+            <svg class="icon nav-icon"><use href="#i-grid"></use></svg>
+          </a>
+          <a class="nav-link" href="#ledger" data-route-link="ledger">
+            <span class="nav-num">02</span>
+            <span class="nav-text">Points ledger</span>
+            <svg class="icon nav-icon"><use href="#i-ledger"></use></svg>
+          </a>
+          <a class="nav-link" href="#accounts" data-route-link="accounts">
+            <span class="nav-num">03</span>
+            <span class="nav-text">Members</span>
+            <svg class="icon nav-icon"><use href="#i-users"></use></svg>
+          </a>
+          <a class="nav-link" href="#verification" data-route-link="verification">
+            <span class="nav-num">04</span>
+            <span class="nav-text">Verification</span>
+            <svg class="icon nav-icon"><use href="#i-shield"></use></svg>
+          </a>
+          <a class="nav-link" href="#studio" data-route-link="studio">
+            <span class="nav-num">05</span>
+            <span class="nav-text">Data studio</span>
+            <svg class="icon nav-icon"><use href="#i-sliders"></use></svg>
+          </a>
+          <a class="nav-link" href="#reference" data-route-link="reference">
+            <span class="nav-num">06</span>
+            <span class="nav-text">Field guide</span>
+            <svg class="icon nav-icon"><use href="#i-book"></use></svg>
+          </a>
+        </nav>
+
+        <p class="rail-label rail-label-secondary">Artifacts</p>
+        <nav class="rail-nav rail-nav-small">
+          <a class="nav-link" href="data/csv/points_transactions.csv" download>
+            <span class="nav-num">CSV</span><span class="nav-text">Full ledger</span><svg class="icon nav-icon"><use href="#i-download"></use></svg>
+          </a>
+          <a class="nav-link" href="docs/VALIDATION_SUMMARY.md" target="_blank" rel="noopener">
+            <span class="nav-num">QA</span><span class="nav-text">Validation notes</span><svg class="icon nav-icon"><use href="#i-arrow-up"></use></svg>
+          </a>
+          <a class="nav-link" href="data/json/ground_truth.json" target="_blank" rel="noopener">
+            <span class="nav-num">GT</span><span class="nav-text">Ground truth</span><svg class="icon nav-icon"><use href="#i-arrow-up"></use></svg>
+          </a>
+        </nav>
+      </div>
+
+      <div class="rail-foot">
+        <div class="rail-status-card">
+          <div class="rail-status-top">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Ledger healthy</span>
+          </div>
+          <p>Snapshot <span data-bind="asOfShort">01 Nov 2026</span></p>
+          <div class="rail-barcode" aria-hidden="true"></div>
+          <div class="rail-foot-row">
+            <span>Seed</span>
+            <code data-bind="seed">20261022</code>
+          </div>
+          <div class="rail-foot-row">
+            <span>Build</span>
+            <code data-bind="buildId">2026.1</code>
+          </div>
+        </div>
+        <p class="rail-caveat">Synthetic programme data.<br>No personal data used.</p>
+      </div>
+    </aside>
+
+    <div class="rail-scrim" id="railScrim" hidden></div>
+
+    <main class="workspace" id="main-content">
+      <header class="topbar">
+        <div class="topbar-left">
+          <button class="menu-button" id="menuButton" aria-label="Open navigation" aria-controls="sidebar" aria-expanded="false">
+            <svg class="icon"><use href="#i-menu"></use></svg>
+          </button>
+          <span class="topbar-brand">Morrow &amp; Finch / Loyalty operations</span>
+          <span class="topbar-divider" aria-hidden="true"></span>
+          <span class="topbar-current" id="topbarCurrent">Overview</span>
+        </div>
+        <div class="topbar-right">
+          <span class="topbar-live"><span class="status-dot" aria-hidden="true"></span> Reconciled</span>
+          <span class="topbar-divider" aria-hidden="true"></span>
+          <span class="topbar-date">As of 01 Nov 2026 · 09:00 UTC</span>
+          <a class="topbar-icon-button" href="data/ledgerline_bundle.zip" download aria-label="Download run bundle" title="Download run bundle">
+            <svg class="icon"><use href="#i-download"></use></svg>
+          </a>
+        </div>
+      </header>
+
+      <div class="page-wrap">
+        <div id="app" class="view-root" aria-live="polite"></div>
+
+        <footer class="site-footer">
+          <div class="footer-left">
+            <span class="footer-mark">L/L</span>
+            <span>Ledgerline is a synthetic demonstration build for Morrow &amp; Finch.</span>
+          </div>
+          <div class="footer-meta">
+            <span data-bind="seedLine">Seed 20261022</span>
+            <span class="footer-dot">·</span>
+            <span>Schema v2.1</span>
+            <span class="footer-dot">·</span>
+            <a href="docs/DATA_DICTIONARY.md" target="_blank" rel="noopener">Data dictionary <svg class="icon"><use href="#i-arrow-up"></use></svg></a>
+          </div>
+        </footer>
+      </div>
+    </main>
+  </div>
+
+  <div class="drawer-layer" id="drawerLayer" aria-hidden="true" hidden>
+    <button class="drawer-scrim" id="drawerScrim" tabindex="-1" aria-label="Close detail panel"></button>
+    <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+      <div class="drawer-head">
+        <span class="drawer-kicker" id="drawerKicker">Ledger detail</span>
+        <button class="drawer-close" id="drawerClose" aria-label="Close detail panel">
+          <svg class="icon"><use href="#i-x"></use></svg>
+        </button>
+      </div>
+      <div class="drawer-body" id="drawerBody"></div>
+    </aside>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

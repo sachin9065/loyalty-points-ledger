@@ -1,0 +1,164 @@
+{
+  "seed": 20261022,
+  "generated_at": "2026-11-01T09:00:00Z",
+  "run_a": {
+    "row_counts": {
+      "customers": 20000,
+      "loyalty_accounts": 20000,
+      "orders": 100000,
+      "order_lines": 198804,
+      "points_transactions": 300000,
+      "redemptions": 50056,
+      "expiry_batches": 15351,
+      "ground_truth_cases": 90
+    },
+    "checksums": {
+      "customers": {
+        "rows": 20000,
+        "sha256": "5c2c09ca83c50e14b21fc6a733ced86e66a020b4012a25cb77f742911f72ca97"
+      },
+      "loyalty_accounts": {
+        "rows": 20000,
+        "sha256": "b59bf29f1621551006caba167b2b6e06bb49e67c1e9ec0f8b555b8da141e3620"
+      },
+      "tiers": {
+        "rows": 4,
+        "sha256": "2053c1e53c0e9fc2edb61cffafe3a44959ad0d9b2991a752e0358883bd98e2fe"
+      },
+      "rules": {
+        "rows": 6,
+        "sha256": "cde4c5db17f25fb4457dfe88dc95ed5491b1a544eeafdb28d9058cee7435e9a3"
+      },
+      "rewards": {
+        "rows": 8,
+        "sha256": "bd5d5f2aae86bd46032b0e19df6e74c1a1ccb12fa0f853ff259018e28300f866"
+      },
+      "reward_tier_eligibility": {
+        "rows": 23,
+        "sha256": "216e15d4be98313ec7349ed7c0b567e8a2ee98c902e0211e90715b4d4614681e"
+      },
+      "rule_tier_rate": {
+        "rows": 8,
+        "sha256": "1e13eee0ccfeda047c88bc72ebfcd8b74c4d624dd1d2acb85628a3f96a64837f"
+      },
+      "tier_history": {
+        "rows": 58792,
+        "sha256": "1424c92a62d0a6e678e935e538358043dc88b0cc3b0000528f8f7320d8b48758"
+      },
+      "orders": {
+        "rows": 100000,
+        "sha256": "c64b9c2cfabb7e808a2ecfbb7c43918a852a12baed2dd2ac68c41c4fca4e4f0a"
+      },
+      "order_lines": {
+        "rows": 198804,
+        "sha256": "b43f054356d0cbe5f228f2dea2f837700ce65f2d37e36371e9c84e2625d8a793"
+      },
+      "points_transactions": {
+        "rows": 300000,
+        "sha256": "baf0c908fd6663a0ceef32f0ecb54e70a828fe3eb2531ffa319372f02fda898c"
+      },
+      "redemptions": {
+        "rows": 50056,
+        "sha256": "899b920fa34eceb27a1ec4a5fee8a9fbd417aba52645a5baf2c19d68393a983b"
+      },
+      "expiry_batches": {
+        "rows": 15351,
+        "sha256": "0e660b76f8b0ec696f27e23ea65e0a64af601aa4813d3ac7342a186be7a73c92"
+      },
+      "ground_truth": {
+        "rows": 90,
+        "sha256": "7d506f26cdba4c4535122f04e3627dfb76c314eee264e3d3aa89cd3e46329fd8"
+      }
+    }
+  },
+  "run_b": {
+    "row_counts": {
+      "customers": 20000,
+      "loyalty_accounts": 20000,
+      "orders": 100000,
+      "order_lines": 198804,
+      "points_transactions": 300000,
+      "redemptions": 50056,
+      "expiry_batches": 15351,
+      "ground_truth_cases": 90
+    },
+    "checksums": {
+      "customers": {
+        "rows": 20000,
+        "sha256": "5c2c09ca83c50e14b21fc6a733ced86e66a020b4012a25cb77f742911f72ca97"
+      },
+      "loyalty_accounts": {
+        "rows": 20000,
+        "sha256": "b59bf29f1621551006caba167b2b6e06bb49e67c1e9ec0f8b555b8da141e3620"
+      },
+      "tiers": {
+        "rows": 4,
+        "sha256": "2053c1e53c0e9fc2edb61cffafe3a44959ad0d9b2991a752e0358883bd98e2fe"
+      },
+      "rules": {
+        "rows": 6,
+        "sha256": "cde4c5db17f25fb4457dfe88dc95ed5491b1a544eeafdb28d9058cee7435e9a3"
+      },
+      "rewards": {
+        "rows": 8,
+        "sha256": "bd5d5f2aae86bd46032b0e19df6e74c1a1ccb12fa0f853ff259018e28300f866"
+      },
+      "reward_tier_eligibility": {
+        "rows": 23,
+        "sha256": "216e15d4be98313ec7349ed7c0b567e8a2ee98c902e0211e90715b4d4614681e"
+      },
+      "rule_tier_rate": {
+        "rows": 8,
+        "sha256": "1e13eee0ccfeda047c88bc72ebfcd8b74c4d624dd1d2acb85628a3f96a64837f"
+      },
+      "tier_history": {
+        "rows": 58792,
+        "sha256": "1424c92a62d0a6e678e935e538358043dc88b0cc3b0000528f8f7320d8b48758"
+      },
+      "orders": {
+        "rows": 100000,
+        "sha256": "c64b9c2cfabb7e808a2ecfbb7c43918a852a12baed2dd2ac68c41c4fca4e4f0a"
+      },
+      "order_lines": {
+        "rows": 198804,
+        "sha256": "b43f054356d0cbe5f228f2dea2f837700ce65f2d37e36371e9c84e2625d8a793"
+      },
+      "points_transactions": {
+        "rows": 300000,
+        "sha256": "baf0c908fd6663a0ceef32f0ecb54e70a828fe3eb2531ffa319372f02fda898c"
+      },
+      "redemptions": {
+        "rows": 50056,
+        "sha256": "899b920fa34eceb27a1ec4a5fee8a9fbd417aba52645a5baf2c19d68393a983b"
+      },
+      "expiry_batches": {
+        "rows": 15351,
+        "sha256": "0e660b76f8b0ec696f27e23ea65e0a64af601aa4813d3ac7342a186be7a73c92"
+      },
+      "ground_truth": {
+        "rows": 90,
+        "sha256": "7d506f26cdba4c4535122f04e3627dfb76c314eee264e3d3aa89cd3e46329fd8"
+      }
+    }
+  },
+  "tables_compared": 14,
+  "tables_identical": 14,
+  "identities": {
+    "customers": true,
+    "loyalty_accounts": true,
+    "tiers": true,
+    "rules": true,
+    "rewards": true,
+    "reward_tier_eligibility": true,
+    "rule_tier_rate": true,
+    "tier_history": true,
+    "orders": true,
+    "order_lines": true,
+    "points_transactions": true,
+    "redemptions": true,
+    "expiry_batches": true,
+    "ground_truth": true
+  },
+  "counts_identical": true,
+  "identical": true
+}

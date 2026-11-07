@@ -1,0 +1,9 @@
+reward_id,reward_name,category,points_cost,cash_value_cents,min_tier_rank,status,effective_from,effective_to
+RWD-01,Free standard delivery,delivery,300,499,1,active,2024-01-01,
+RWD-02,£5 reward voucher,voucher,500,500,1,active,2024-01-01,
+RWD-03,£10 reward voucher,voucher,1000,1000,1,active,2024-01-01,
+RWD-04,Morrow canvas tote,merchandise,1200,1800,2,active,2024-03-01,
+RWD-05,£25 reward voucher,voucher,2500,2500,2,active,2024-01-01,
+RWD-06,Priority alterations,service,1800,2200,3,active,2024-06-01,
+RWD-07,£50 reward voucher,voucher,5000,5000,3,active,2024-01-01,
+RWD-08,"Archive print, limited",merchandise,3200,4000,4,retired,2024-02-01,2025-12-31

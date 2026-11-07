@@ -1,0 +1,4 @@
+# Ledgerline — Cloudflare Pages (site-only deploy, data on R2)
+name = "ledgerline"
+compatibility_date = "2026-11-07"
+pages_build_output_dir = "deploy-cloudflare"

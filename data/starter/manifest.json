@@ -1,0 +1,342 @@
+{
+  "dataset": "Ledgerline loyalty ledger — Morrow & Finch synthetic build",
+  "build_id": "2026.1-20261022",
+  "seed": 20261022,
+  "as_of": "2026-11-01T09:00:00Z",
+  "generator": "1.4.2",
+  "synthetic": true,
+  "personal_data_used": false,
+  "external_sources": [],
+  "license": "Generated data CC BY 4.0; code MIT",
+  "row_counts": {
+    "customers": 200,
+    "loyalty_accounts": 200,
+    "tiers": 4,
+    "rules": 6,
+    "rewards": 8,
+    "reward_tier_eligibility": 23,
+    "rule_tier_rate": 8,
+    "tier_history": 598,
+    "orders": 1000,
+    "order_lines": 1982,
+    "points_transactions": 3000,
+    "redemptions": 556,
+    "expiry_batches": 185,
+    "ground_truth": 90
+  },
+  "checksums": {
+    "customers": {
+      "rows": 200,
+      "sha256": "adb44457938ca745a136337b40e4631ae59f6b48fb6ba73f6de9c57c49b81cd5"
+    },
+    "loyalty_accounts": {
+      "rows": 200,
+      "sha256": "5f0a40ade4a214c52d988522bc1bfc03839273694a22777c2a3736f17bca2910"
+    },
+    "tiers": {
+      "rows": 4,
+      "sha256": "2053c1e53c0e9fc2edb61cffafe3a44959ad0d9b2991a752e0358883bd98e2fe"
+    },
+    "rules": {
+      "rows": 6,
+      "sha256": "cde4c5db17f25fb4457dfe88dc95ed5491b1a544eeafdb28d9058cee7435e9a3"
+    },
+    "rewards": {
+      "rows": 8,
+      "sha256": "bd5d5f2aae86bd46032b0e19df6e74c1a1ccb12fa0f853ff259018e28300f866"
+    },
+    "reward_tier_eligibility": {
+      "rows": 23,
+      "sha256": "216e15d4be98313ec7349ed7c0b567e8a2ee98c902e0211e90715b4d4614681e"
+    },
+    "rule_tier_rate": {
+      "rows": 8,
+      "sha256": "1e13eee0ccfeda047c88bc72ebfcd8b74c4d624dd1d2acb85628a3f96a64837f"
+    },
+    "tier_history": {
+      "rows": 598,
+      "sha256": "b8ed294c87d777712fdc8a4394d2f39e057a722f65be70cee493ec0ae63008a8"
+    },
+    "orders": {
+      "rows": 1000,
+      "sha256": "a21b2b95e006f57c4f5ded04bb7d33f0e5895c29130cae7e7b7bd77a137e64b1"
+    },
+    "order_lines": {
+      "rows": 1982,
+      "sha256": "5c85fded4e454ede7359812ae002de786bb9bfe2e2f110d332a94de07df701fe"
+    },
+    "points_transactions": {
+      "rows": 3000,
+      "sha256": "1377bc9484cf7fe5252630c9aafe9dbc95a4c88315f2a4a40cbd365ed5fa2a56"
+    },
+    "redemptions": {
+      "rows": 556,
+      "sha256": "312bc473745a4ed2da3a423f004aec13e8f6de10d3f9de9935c4f3e71777a968"
+    },
+    "expiry_batches": {
+      "rows": 185,
+      "sha256": "cfe72ebaad54749c00720ca6c974a28f0cc31235973f376d0160407ab0f07214"
+    },
+    "ground_truth": {
+      "rows": 90,
+      "sha256": "7f725af697a6446d8f66edc0acc91accfd4eb3e0bae20e893a51cc9dbe360e78"
+    }
+  },
+  "validation": {
+    "passed": 19,
+    "warnings": 0,
+    "failed": 0,
+    "checks": [
+      {
+        "check_id": "PK-customers",
+        "label": "customers.customer_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-accounts",
+        "label": "loyalty_accounts.account_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-orders",
+        "label": "orders.order_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-lines",
+        "label": "order_lines.order_line_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-points",
+        "label": "points_transactions.points_txn_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-redemptions",
+        "label": "redemptions.redemption_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "PK-expiry",
+        "label": "expiry_batches.expiry_batch_id uniqueness",
+        "result": "pass",
+        "detail": "0 duplicate keys"
+      },
+      {
+        "check_id": "FK-001",
+        "label": "Foreign-key integrity",
+        "result": "pass",
+        "detail": "0 broken references"
+      },
+      {
+        "check_id": "ENUM-001",
+        "label": "Allowed enum values",
+        "result": "pass",
+        "detail": "0 invalid enum values"
+      },
+      {
+        "check_id": "DATE-001",
+        "label": "Date and lifecycle ordering",
+        "result": "pass",
+        "detail": "0 ordering failures"
+      },
+      {
+        "check_id": "REC-001",
+        "label": "Balance equals ledger",
+        "result": "pass",
+        "detail": "12 mismatches, 12 labelled"
+      },
+      {
+        "check_id": "RED-001",
+        "label": "Redemption never exceeds available balance",
+        "result": "pass",
+        "detail": "0 bad approvals"
+      },
+      {
+        "check_id": "REV-001",
+        "label": "Reversals reference original accrual",
+        "result": "pass",
+        "detail": "0 invalid reversal links"
+      },
+      {
+        "check_id": "RET-001",
+        "label": "Returned order points are reversed",
+        "result": "pass",
+        "detail": "0 unlabelled missing reversals; 24 labelled cases"
+      },
+      {
+        "check_id": "EXP-001",
+        "label": "Expiry batch idempotency",
+        "result": "pass",
+        "detail": "8 duplicate idempotency keys, all 8 labelled"
+      },
+      {
+        "check_id": "TIER-001",
+        "label": "Tier follows qualifying-spend rules",
+        "result": "pass",
+        "detail": "0 unlabelled tier mismatches; 10 labelled exceptions"
+      },
+      {
+        "check_id": "EXP-002",
+        "label": "Expiry batch totals reconcile",
+        "result": "pass",
+        "detail": "0 batch totals disagree with linked ledger rows"
+      },
+      {
+        "check_id": "CONC-001",
+        "label": "Concurrent attempt guard",
+        "result": "pass",
+        "detail": "0 groups without exactly one approval"
+      },
+      {
+        "check_id": "VOL-001",
+        "label": "Ledger volume target",
+        "result": "pass",
+        "detail": "3,000 vs 3,000 target"
+      }
+    ],
+    "issue_counts": {
+      "balance_differs_from_ledger": 12,
+      "concurrent_redemption_attempt": 20,
+      "points_expire_twice": 8,
+      "redemption_exceeds_available_points": 16,
+      "returned_order_keeps_all_points": 24,
+      "tier_uses_gross_spend": 10
+    }
+  },
+  "ground_truth_file": "json/ground_truth.json",
+  "reproducibility": null,
+  "files": [
+    {
+      "path": "csv/customers.csv",
+      "bytes": 27172
+    },
+    {
+      "path": "csv/expiry_batches.csv",
+      "bytes": 23291
+    },
+    {
+      "path": "csv/ground_truth.csv",
+      "bytes": 37117
+    },
+    {
+      "path": "csv/loyalty_accounts.csv",
+      "bytes": 27537
+    },
+    {
+      "path": "csv/order_lines.csv",
+      "bytes": 187822
+    },
+    {
+      "path": "csv/orders.csv",
+      "bytes": 109359
+    },
+    {
+      "path": "csv/points_transactions.csv",
+      "bytes": 555870
+    },
+    {
+      "path": "csv/redemptions.csv",
+      "bytes": 60412
+    },
+    {
+      "path": "csv/reward_tier_eligibility.csv",
+      "bytes": 511
+    },
+    {
+      "path": "csv/rewards.csv",
+      "bytes": 669
+    },
+    {
+      "path": "csv/rule_tier_rate.csv",
+      "bytes": 392
+    },
+    {
+      "path": "csv/rules.csv",
+      "bytes": 1133
+    },
+    {
+      "path": "csv/tier_history.csv",
+      "bytes": 59151
+    },
+    {
+      "path": "csv/tiers.csv",
+      "bytes": 239
+    },
+    {
+      "path": "jsonl/customers.jsonl",
+      "bytes": 63854
+    },
+    {
+      "path": "jsonl/expiry_batches.jsonl",
+      "bytes": 51309
+    },
+    {
+      "path": "jsonl/ground_truth.jsonl",
+      "bytes": 56152
+    },
+    {
+      "path": "jsonl/loyalty_accounts.jsonl",
+      "bytes": 74565
+    },
+    {
+      "path": "jsonl/order_lines.jsonl",
+      "bytes": 625095
+    },
+    {
+      "path": "jsonl/orders.jsonl",
+      "bytes": 343197
+    },
+    {
+      "path": "jsonl/points_transactions.jsonl",
+      "bytes": 1560635
+    },
+    {
+      "path": "jsonl/redemptions.jsonl",
+      "bytes": 176467
+    },
+    {
+      "path": "jsonl/reward_tier_eligibility.jsonl",
+      "bytes": 1541
+    },
+    {
+      "path": "jsonl/rewards.jsonl",
+      "bytes": 1821
+    },
+    {
+      "path": "jsonl/rule_tier_rate.jsonl",
+      "bytes": 920
+    },
+    {
+      "path": "jsonl/rules.jsonl",
+      "bytes": 1783
+    },
+    {
+      "path": "jsonl/tier_history.jsonl",
+      "bytes": 143971
+    },
+    {
+      "path": "jsonl/tiers.jsonl",
+      "bytes": 604
+    },
+    {
+      "path": "json/ground_truth.json",
+      "bytes": 62275
+    },
+    {
+      "path": "json/master_data.json",
+      "bytes": 33360
+    },
+    {
+      "path": "json/site-data.json",
+      "bytes": 564533
+    }
+  ]
+}

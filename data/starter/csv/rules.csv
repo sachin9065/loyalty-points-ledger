@@ -1,0 +1,7 @@
+rule_id,rule_code,version,name,effective_from,effective_to,parameters,status
+RULE-BONUS-V1,BONUS,1,Campaign and welcome bonus,2024-01-01T00:00:00Z,,"{""expiry_months"":12,""max_points"":500}",active
+RULE-EARN-2024-V1,EARN_RATE,1,"Earn rate, 2024 schedule",2024-01-01T00:00:00Z,2025-12-31T23:59:59Z,"{""basis"":""net_eligible_line_spend"",""points_per_gbp"":10,""rounding"":""floor""}",superseded
+RULE-EARN-2026-V2,EARN_RATE,2,"Earn rate, 2026 schedule",2026-01-01T00:00:00Z,,"{""basis"":""net_eligible_line_spend"",""points_per_gbp"":10,""rounding"":""floor""}",active
+RULE-EXPIRY-V1,EXPIRY,1,Points expiry by lot,2024-01-01T00:00:00Z,,"{""accrual_months"":24,""allocation"":""expiry_first"",""bonus_months"":12}",active
+RULE-REDEEM-V2,REDEMPTION,2,Reward redemption,2024-01-01T00:00:00Z,,"{""max_share_of_basket"":0.5,""minimum_points"":300,""one_open_attempt_per_account"":true,""points_per_gbp"":100}",active
+RULE-TIER-V1,TIER_REVIEW,1,Trailing twelve-month tier review,2024-01-01T00:00:00Z,,"{""basis"":""net_eligible_spend_after_returns"",""lookback_days"":365,""review_cadence"":""on activity + annual_review""}",active

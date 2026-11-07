@@ -1,0 +1,4 @@
+{"qualify_spend_cents": 0, "rank": 1, "status": "active", "tier_id": "TIER-01", "tier_name": "Member", "valid_from": "2024-01-01", "valid_to": ""}
+{"qualify_spend_cents": 10000, "rank": 2, "status": "active", "tier_id": "TIER-02", "tier_name": "Silver", "valid_from": "2024-01-01", "valid_to": ""}
+{"qualify_spend_cents": 35000, "rank": 3, "status": "active", "tier_id": "TIER-03", "tier_name": "Gold", "valid_from": "2024-01-01", "valid_to": ""}
+{"qualify_spend_cents": 80000, "rank": 4, "status": "active", "tier_id": "TIER-04", "tier_name": "Platinum", "valid_from": "2024-01-01", "valid_to": ""}

@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,region,city,acquisition_channel,marketing_consent,status,joined_at,updated_at
+C-000001,Aisha,Abbott,aisha.abbott.00001@example.test,Yorkshire,Leeds,online,true,active,2023-03-30T10:54:11Z,2026-11-01T09:00:00Z
+C-000002,Alfie,Bryant,alfie.bryant.00002@example.test,Greater London,London,store,false,active,2023-10-07T12:34:08Z,2026-11-01T09:00:00Z
+C-000003,Amara,Doyle,amara.doyle.00003@example.test,Scotland,Edinburgh,online,true,active,2023-05-03T08:47:12Z,2026-11-01T09:00:00Z
+C-000004,Ana,Gill,ana.gill.00004@example.test,South West,Bristol,online,true,active,2023-04-06T18:07:23Z,2026-11-01T09:00:00Z
+C-000005,Arjun,Jackson,arjun.jackson.00005@example.test,Scotland,Edinburgh,online,false,active,2022-04-29T13:09:29Z,2026-11-01T09:00:00Z
+C-000006,Bea,MacDonald,bea.macdonald.00006@example.test,East of England,Cambridge,online,true,active,2022-09-20T14:06:53Z,2026-11-01T09:00:00Z
+C-000007,Ben,Nichols,ben.nichols.00007@example.test,Greater London,London,app,true,active,2022-12-25T08:08:54Z,2026-11-01T09:00:00Z
+C-000008,Callum,Reynolds,callum.reynolds.00008@example.test,Scotland,Edinburgh,online,false,active,2022-10-19T09:06:19Z,2026-11-01T09:00:00Z
+C-000009,Camille,Smith,camille.smith.00009@example.test,Greater London,London,online,true,active,2023-01-17T11:40:04Z,2026-11-01T09:00:00Z
+C-000010,Chloe,White,chloe.white.00010@example.test,Greater London,London,online,false,active,2023-11-27T11:00:46Z,2026-11-01T09:00:00Z
+C-000011,Clara,Bennett,clara.bennett.00011@example.test,Yorkshire,Leeds,online,true,active,2022-08-28T20:54:33Z,2026-11-01T09:00:00Z
+C-000012,Daniel,Cox,daniel.cox.00012@example.test,Greater London,London,referral,false,active,2022-08-31T16:29:00Z,2026-11-01T09:00:00Z
+C-000013,Dara,Foster,dara.foster.00013@example.test,North West,Manchester,online,true,active,2022-02-12T13:58:02Z,2026-11-01T09:00:00Z
+C-000014,Dev,Hill,dev.hill.00014@example.test,South East,Brighton,referral,false,active,2022-01-19T20:29:46Z,2026-11-01T09:00:00Z
+C-000015,Elena,Lawson,elena.lawson.00015@example.test,Yorkshire,Leeds,store,true,active,2023-04-17T08:35:57Z,2026-11-01T09:00:00Z
+C-000016,Eli,Morris,eli.morris.00016@example.test,South West,Bristol,online,true,active,2023-08-07T21:42:54Z,2026-11-01T09:00:00Z
+C-000017,Emeka,Powell,emeka.powell.00017@example.test,West Midlands,Birmingham,online,true,active,2023-10-01T10:36:22Z,2026-11-01T09:00:00Z
+C-000018,Esme,Scott,esme.scott.00018@example.test,Greater London,London,online,true,active,2022-05-02T11:32:18Z,2026-11-01T09:00:00Z
+C-000019,Farah,Walsh,farah.walsh.00019@example.test,West Midlands,Birmingham,app,true,active,2023-10-09T11:44:37Z,2026-11-01T09:00:00Z
+C-000020,Felix,Anand,felix.anand.00020@example.test,North West,Manchester,store,true,active,2023-10-14T10:45:07Z,2026-11-01T09:00:00Z
+C-000021,Freya,Clarke,freya.clarke.00021@example.test,Yorkshire,Leeds,store,false,active,2023-11-02T08:35:09Z,2026-11-01T09:00:00Z
+C-000022,Gemma,Farrell,gemma.farrell.00022@example.test,Greater London,London,online,false,active,2022-12-05T14:32:36Z,2026-11-01T09:00:00Z
+C-000023,Grace,Hamilton,grace.hamilton.00023@example.test,Greater London,London,app,true,active,2023-11-08T08:38:43Z,2026-11-01T09:00:00Z
+C-000024,Hana,Kapoor,hana.kapoor.00024@example.test,South East,Brighton,store,false,active,2023-02-21T11:04:39Z,2026-11-01T09:00:00Z
+C-000025,Hari,McCarthy,hari.mccarthy.00025@example.test,Greater London,London,referral,true,active,2022-11-13T15:04:06Z,2026-11-01T09:00:00Z
+C-000026,Harriet,Parker,harriet.parker.00026@example.test,Scotland,Edinburgh,store,true,active,2022-11-13T11:23:11Z,2026-11-01T09:00:00Z
+C-000027,Iris,Rogers,iris.rogers.00027@example.test,South East,Brighton,store,true,active,2022-02-13T08:06:41Z,2026-11-01T09:00:00Z
+C-000028,Isaac,Taylor,isaac.taylor.00028@example.test,Greater London,London,online,true,active,2023-09-08T18:47:30Z,2026-11-01T09:00:00Z
+C-000029,Ivy,Young,ivy.young.00029@example.test,North West,Manchester,store,false,active,2023-03-04T08:08:35Z,2026-11-01T09:00:00Z
+C-000030,Jade,Brown,jade.brown.00030@example.test,South West,Bristol,online,true,active,2022-02-27T15:25:32Z,2026-11-01T09:00:00Z
+C-000031,Jamie,Dillon,jamie.dillon.00031@example.test,Greater London,London,app,true,active,2022-03-16T08:58:42Z,2026-11-01T09:00:00Z
+C-000032,Jana,Gibson,jana.gibson.00032@example.test,Greater London,London,store,true,active,2023-06-01T10:10:36Z,2026-11-01T09:00:00Z
+C-000033,Joel,Ibrahim,joel.ibrahim.00033@example.test,Yorkshire,Leeds,online,true,active,2022-10-02T14:48:02Z,2026-11-01T09:00:00Z
+C-000034,Jonah,Lynch,jonah.lynch.00034@example.test,Greater London,London,online,true,active,2022-10-09T10:42:04Z,2026-11-01T09:00:00Z
+C-000035,Juno,Nguyen,juno.nguyen.00035@example.test,East of England,Cambridge,online,true,active,2023-03-18T17:11:19Z,2026-11-01T09:00:00Z
+C-000036,Kai,Reid,kai.reid.00036@example.test,Greater London,London,online,true,active,2023-02-20T10:55:12Z,2026-11-01T09:00:00Z
+C-000037,Kara,Singh,kara.singh.00037@example.test,South East,Brighton,store,false,active,2022-10-05T15:30:22Z,2026-11-01T09:00:00Z
+C-000038,Kieran,West,kieran.west.00038@example.test,South East,Brighton,app,true,active,2022-03-17T19:36:38Z,2026-11-01T09:00:00Z
+C-000039,Lara,Barker,lara.barker.00039@example.test,West Midlands,Birmingham,online,false,active,2023-01-22T11:01:18Z,2026-11-01T09:00:00Z
+C-000040,Leah,Costa,leah.costa.00040@example.test,South East,Brighton,online,false,active,2022-12-07T19:58:42Z,2026-11-01T09:00:00Z
+C-000041,Leo,Fleming,leo.fleming.00041@example.test,Greater London,London,online,false,active,2023-03-03T08:42:38Z,2026-11-01T09:00:00Z
+C-000042,Lila,Henderson,lila.henderson.00042@example.test,West Midlands,Birmingham,online,true,active,2022-03-25T10:18:47Z,2026-11-01T09:00:00Z
+C-000043,Lina,Lane,lina.lane.00043@example.test,Greater London,London,app,false,inactive,2022-11-02T12:50:47Z,2026-11-01T09:00:00Z
+C-000044,Luca,Morgan,luca.morgan.00044@example.test,Greater London,London,online,true,active,2023-07-10T20:19:10Z,2026-11-01T09:00:00Z
+C-000045,Mae,Poole,mae.poole.00045@example.test,West Midlands,Birmingham,online,false,active,2023-11-17T19:30:03Z,2026-11-01T09:00:00Z
+C-000046,Maya,Sanders,maya.sanders.00046@example.test,South East,Brighton,store,false,active,2022-07-14T20:42:21Z,2026-11-01T09:00:00Z
+C-000047,Miles,Wallace,miles.wallace.00047@example.test,South East,Brighton,online,false,active,2022-06-16T17:49:51Z,2026-11-01T09:00:00Z
+C-000048,Mina,Allen,mina.allen.00048@example.test,Greater London,London,store,false,active,2023-11-02T09:57:57Z,2026-11-01T09:00:00Z
+C-000049,Nadia,Chan,nadia.chan.00049@example.test,South West,Bristol,online,true,active,2023-08-08T16:00:32Z,2026-11-01T09:00:00Z
+C-000050,Nell,Evans,nell.evans.00050@example.test,East of England,Cambridge,referral,true,active,2022-11-21T10:40:10Z,2026-11-01T09:00:00Z
+C-000051,Nia,Hall,nia.hall.00051@example.test,South East,Brighton,online,true,active,2022-12-17T08:39:38Z,2026-11-01T09:00:00Z
+C-000052,Noah,Jones,noah.jones.00052@example.test,South East,Brighton,online,true,active,2022-10-25T10:30:02Z,2026-11-01T09:00:00Z
+C-000053,Nora,Matthews,nora.matthews.00053@example.test,Scotland,Edinburgh,app,true,active,2022-05-06T17:58:46Z,2026-11-01T09:00:00Z
+C-000054,Obi,Palmer,obi.palmer.00054@example.test,Greater London,London,online,true,inactive,2023-11-29T11:02:30Z,2026-11-01T09:00:00Z
+C-000055,Olive,Robinson,olive.robinson.00055@example.test,Yorkshire,Leeds,app,true,active,2023-09-25T19:23:16Z,2026-11-01T09:00:00Z
+C-000056,Omar,Sullivan,omar.sullivan.00056@example.test,Greater London,London,app,true,active,2023-09-01T20:09:49Z,2026-11-01T09:00:00Z
+C-000057,Orla,Wright,orla.wright.00057@example.test,West Midlands,Birmingham,online,false,active,2022-04-03T21:11:58Z,2026-11-01T09:00:00Z
+C-000058,Owen,Brennan,owen.brennan.00058@example.test,Greater London,London,online,false,active,2022-02-03T09:19:56Z,2026-11-01T09:00:00Z
+C-000059,Pia,Diaz,pia.diaz.00059@example.test,Scotland,Edinburgh,online,true,active,2023-11-18T16:15:59Z,2026-11-01T09:00:00Z
+C-000060,Rafi,Garcia,rafi.garcia.00060@example.test,Greater London,London,referral,false,active,2022-07-29T15:38:39Z,2026-11-01T09:00:00Z
+C-000061,Raya,Hussain,raya.hussain.00061@example.test,Greater London,London,referral,false,active,2023-02-13T09:11:18Z,2026-11-01T09:00:00Z
+C-000062,Remi,Lopez,remi.lopez.00062@example.test,West Midlands,Birmingham,online,true,active,2022-07-31T09:29:52Z,2026-11-01T09:00:00Z
+C-000063,Rhea,Newman,rhea.newman.00063@example.test,South East,Brighton,online,true,active,2023-02-06T08:34:57Z,2026-11-01T09:00:00Z
+C-000064,Rosa,Reed,rosa.reed.00064@example.test,North West,Manchester,store,true,active,2023-01-27T10:29:46Z,2026-11-01T09:00:00Z
+C-000065,Ruben,Simpson,ruben.simpson.00065@example.test,South East,Brighton,referral,true,active,2023-12-01T20:05:51Z,2026-11-01T09:00:00Z
+C-000066,Ruth,Wells,ruth.wells.00066@example.test,West Midlands,Birmingham,online,true,active,2022-09-07T21:22:42Z,2026-11-01T09:00:00Z
+C-000067,Sami,Baines,sami.baines.00067@example.test,North West,Manchester,app,false,deactivated,2022-06-28T09:27:24Z,2026-11-01T09:00:00Z
+C-000068,Sana,Cooper,sana.cooper.00068@example.test,South East,Brighton,online,true,active,2023-04-16T09:17:05Z,2026-11-01T09:00:00Z
+C-000069,Sara,Fitzgerald,sara.fitzgerald.00069@example.test,Scotland,Edinburgh,online,true,active,2022-08-31T08:36:41Z,2026-11-01T09:00:00Z
+C-000070,Sean,Hayes,sean.hayes.00070@example.test,Scotland,Edinburgh,online,true,active,2022-07-14T11:17:24Z,2026-11-01T09:00:00Z
+C-000071,Seth,Kumar,seth.kumar.00071@example.test,Greater London,London,store,true,active,2023-04-09T09:08:50Z,2026-11-01T09:00:00Z
+C-000072,Shay,Moore,shay.moore.00072@example.test,Yorkshire,Leeds,online,true,active,2022-06-29T19:43:17Z,2026-11-01T09:00:00Z
+C-000073,Sofia,Phillips,sofia.phillips.00073@example.test,West Midlands,Birmingham,referral,true,active,2023-01-20T14:15:00Z,2026-11-01T09:00:00Z
+C-000074,Sona,Said,sona.said.00074@example.test,South East,Brighton,referral,false,active,2022-12-06T15:37:06Z,2026-11-01T09:00:00Z
+C-000075,Tara,Walker,tara.walker.00075@example.test,South East,Brighton,store,false,active,2023-01-03T09:27:49Z,2026-11-01T09:00:00Z
+C-000076,Theo,Ali,theo.ali.00076@example.test,Greater London,London,online,true,active,2023-10-17T17:23:04Z,2026-11-01T09:00:00Z
+C-000077,Tilly,Carter,tilly.carter.00077@example.test,Greater London,London,referral,true,active,2023-10-18T20:34:17Z,2026-11-01T09:00:00Z
+C-000078,Tom,Ellis,tom.ellis.00078@example.test,North West,Manchester,app,false,active,2023-02-15T18:58:13Z,2026-11-01T09:00:00Z
+C-000079,Una,Green,una.green.00079@example.test,Scotland,Edinburgh,online,false,active,2023-10-16T19:54:53Z,2026-11-01T09:00:00Z
+C-000080,Veda,Johnson,veda.johnson.00080@example.test,West Midlands,Birmingham,app,false,active,2022-08-16T09:10:36Z,2026-11-01T09:00:00Z
+C-000081,Willa,Mason,willa.mason.00081@example.test,South East,Brighton,store,true,active,2023-05-22T09:06:59Z,2026-11-01T09:00:00Z
+C-000082,Yara,Owen,yara.owen.00082@example.test,Scotland,Edinburgh,online,true,active,2023-11-25T10:07:07Z,2026-11-01T09:00:00Z
+C-000083,Yusuf,Robertson,yusuf.robertson.00083@example.test,South East,Brighton,store,true,active,2022-03-20T11:39:09Z,2026-11-01T09:00:00Z
+C-000084,Zara,Stone,zara.stone.00084@example.test,West Midlands,Birmingham,online,true,active,2022-01-12T08:22:13Z,2026-11-01T09:00:00Z
+C-000085,Zoe,Wood,zoe.wood.00085@example.test,Greater London,London,app,true,active,2022-05-29T12:21:48Z,2026-11-01T09:00:00Z
+C-000086,Aisha,Brennan,aisha.brennan.00086@example.test,North West,Manchester,online,true,active,2023-12-19T08:47:04Z,2026-11-01T09:00:00Z
+C-000087,Alfie,Diaz,alfie.diaz.00087@example.test,North West,Manchester,online,false,active,2023-06-03T12:12:54Z,2026-11-01T09:00:00Z
+C-000088,Amara,Garcia,amara.garcia.00088@example.test,Greater London,London,online,true,active,2022-03-16T19:19:52Z,2026-11-01T09:00:00Z
+C-000089,Ana,Hussain,ana.hussain.00089@example.test,West Midlands,Birmingham,app,false,active,2023-07-13T17:29:03Z,2026-11-01T09:00:00Z
+C-000090,Arjun,Lopez,arjun.lopez.00090@example.test,South East,Brighton,app,false,active,2023-09-24T19:17:37Z,2026-11-01T09:00:00Z
+C-000091,Bea,Newman,bea.newman.00091@example.test,Wales,Cardiff,online,true,active,2022-12-20T11:46:28Z,2026-11-01T09:00:00Z
+C-000092,Ben,Reed,ben.reed.00092@example.test,South East,Brighton,store,true,active,2022-01-21T11:55:09Z,2026-11-01T09:00:00Z
+C-000093,Callum,Simpson,callum.simpson.00093@example.test,Greater London,London,app,true,active,2022-06-03T15:22:15Z,2026-11-01T09:00:00Z
+C-000094,Camille,Wells,camille.wells.00094@example.test,Greater London,London,online,true,active,2022-08-18T18:24:53Z,2026-11-01T09:00:00Z
+C-000095,Chloe,Baines,chloe.baines.00095@example.test,Greater London,London,online,true,active,2023-07-18T08:56:59Z,2026-11-01T09:00:00Z
+C-000096,Clara,Cooper,clara.cooper.00096@example.test,West Midlands,Birmingham,app,true,active,2022-08-17T10:49:39Z,2026-11-01T09:00:00Z
+C-000097,Daniel,Fitzgerald,daniel.fitzgerald.00097@example.test,Greater London,London,app,false,active,2022-06-01T18:49:13Z,2026-11-01T09:00:00Z
+C-000098,Dara,Hayes,dara.hayes.00098@example.test,Scotland,Edinburgh,online,true,active,2023-07-29T20:10:02Z,2026-11-01T09:00:00Z
+C-000099,Dev,Kumar,dev.kumar.00099@example.test,North West,Manchester,store,false,active,2022-11-05T17:21:15Z,2026-11-01T09:00:00Z
+C-000100,Elena,Moore,elena.moore.00100@example.test,West Midlands,Birmingham,online,true,active,2022-12-28T09:01:05Z,2026-11-01T09:00:00Z
+C-000101,Eli,Phillips,eli.phillips.00101@example.test,Yorkshire,Leeds,app,true,active,2022-01-31T18:05:12Z,2026-11-01T09:00:00Z
+C-000102,Emeka,Said,emeka.said.00102@example.test,Greater London,London,referral,true,active,2023-08-23T20:48:36Z,2026-11-01T09:00:00Z
+C-000103,Esme,Walker,esme.walker.00103@example.test,North West,Manchester,online,true,active,2023-09-23T14:04:49Z,2026-11-01T09:00:00Z
+C-000104,Farah,Ali,farah.ali.00104@example.test,Greater London,London,online,false,active,2023-09-16T11:52:04Z,2026-11-01T09:00:00Z
+C-000105,Felix,Carter,felix.carter.00105@example.test,South West,Bristol,store,true,active,2022-05-18T19:09:37Z,2026-11-01T09:00:00Z
+C-000106,Freya,Ellis,freya.ellis.00106@example.test,Greater London,London,online,false,active,2022-09-01T20:30:09Z,2026-11-01T09:00:00Z
+C-000107,Gemma,Green,gemma.green.00107@example.test,Greater London,London,online,false,active,2023-08-02T07:46:11Z,2026-11-01T09:00:00Z
+C-000108,Grace,Johnson,grace.johnson.00108@example.test,Greater London,London,online,false,active,2022-10-22T18:42:47Z,2026-11-01T09:00:00Z
+C-000109,Hana,Mason,hana.mason.00109@example.test,Scotland,Edinburgh,referral,true,active,2023-09-06T19:51:31Z,2026-11-01T09:00:00Z
+C-000110,Hari,Owen,hari.owen.00110@example.test,Greater London,London,app,true,active,2022-08-03T18:11:08Z,2026-11-01T09:00:00Z
+C-000111,Harriet,Robertson,harriet.robertson.00111@example.test,South East,Brighton,app,true,active,2022-01-21T17:09:07Z,2026-11-01T09:00:00Z
+C-000112,Iris,Stone,iris.stone.00112@example.test,South East,Brighton,online,true,active,2022-01-14T09:46:40Z,2026-11-01T09:00:00Z
+C-000113,Isaac,Wood,isaac.wood.00113@example.test,South East,Brighton,online,true,active,2023-05-10T09:54:51Z,2026-11-01T09:00:00Z
+C-000114,Ivy,Bolan,ivy.bolan.00114@example.test,Wales,Cardiff,online,false,active,2023-03-21T11:56:42Z,2026-11-01T09:00:00Z
+C-000115,Jade,Dawson,jade.dawson.00115@example.test,South East,Brighton,referral,false,active,2023-01-12T09:25:44Z,2026-11-01T09:00:00Z
+C-000116,Jamie,Gallagher,jamie.gallagher.00116@example.test,South East,Brighton,online,true,active,2022-01-22T11:24:45Z,2026-11-01T09:00:00Z
+C-000117,Jana,Hughes,jana.hughes.00117@example.test,Greater London,London,store,false,active,2022-09-05T12:43:08Z,2026-11-01T09:00:00Z
+C-000118,Joel,Lloyd,joel.lloyd.00118@example.test,South East,Brighton,store,true,active,2023-08-24T07:58:48Z,2026-11-01T09:00:00Z
+C-000119,Jonah,Nelson,jonah.nelson.00119@example.test,Scotland,Edinburgh,referral,true,active,2022-02-23T10:53:54Z,2026-11-01T09:00:00Z
+C-000120,Juno,Rahman,juno.rahman.00120@example.test,South East,Brighton,online,true,deactivated,2022-10-30T15:32:10Z,2026-11-01T09:00:00Z
+C-000121,Kai,Shaw,kai.shaw.00121@example.test,North West,Manchester,store,true,deactivated,2023-01-11T08:43:44Z,2026-11-01T09:00:00Z
+C-000122,Kara,Webb,kara.webb.00122@example.test,North West,Manchester,store,true,active,2022-07-21T11:17:37Z,2026-11-01T09:00:00Z
+C-000123,Kieran,Bailey,kieran.bailey.00123@example.test,West Midlands,Birmingham,app,false,active,2022-10-06T21:27:05Z,2026-11-01T09:00:00Z
+C-000124,Lara,Cook,lara.cook.00124@example.test,East of England,Cambridge,online,false,active,2023-03-31T21:30:48Z,2026-11-01T09:00:00Z
+C-000125,Leah,Fischer,leah.fischer.00125@example.test,Yorkshire,Leeds,app,true,active,2022-11-26T11:46:50Z,2026-11-01T09:00:00Z
+C-000126,Leo,Hart,leo.hart.00126@example.test,Greater London,London,store,true,active,2023-04-11T19:15:38Z,2026-11-01T09:00:00Z
+C-000127,Lila,Khan,lila.khan.00127@example.test,South East,Brighton,online,true,active,2022-02-05T11:28:38Z,2026-11-01T09:00:00Z
+C-000128,Lina,Mitchell,lina.mitchell.00128@example.test,Greater London,London,store,false,active,2022-01-13T09:34:56Z,2026-11-01T09:00:00Z
+C-000129,Luca,Peters,luca.peters.00129@example.test,South West,Bristol,online,true,active,2022-09-17T15:14:59Z,2026-11-01T09:00:00Z
+C-000130,Mae,Russell,mae.russell.00130@example.test,North West,Manchester,online,true,active,2023-10-09T11:52:33Z,2026-11-01T09:00:00Z
+C-000131,Maya,Turner,maya.turner.00131@example.test,Greater London,London,store,true,active,2023-05-25T10:35:37Z,2026-11-01T09:00:00Z
+C-000132,Miles,Ahmed,miles.ahmed.00132@example.test,Greater London,London,online,true,active,2023-04-25T18:56:41Z,2026-11-01T09:00:00Z
+C-000133,Mina,Campbell,mina.campbell.00133@example.test,West Midlands,Birmingham,store,true,active,2023-06-08T16:41:35Z,2026-11-01T09:00:00Z
+C-000134,Nadia,Edwards,nadia.edwards.00134@example.test,North West,Manchester,store,true,active,2022-11-30T09:57:25Z,2026-11-01T09:00:00Z
+C-000135,Nell,Gray,nell.gray.00135@example.test,South West,Bristol,app,false,active,2023-07-05T20:27:55Z,2026-11-01T09:00:00Z
+C-000136,Nia,Jensen,nia.jensen.00136@example.test,South West,Bristol,online,false,active,2023-07-09T20:12:43Z,2026-11-01T09:00:00Z
+C-000137,Noah,Martin,noah.martin.00137@example.test,Scotland,Edinburgh,online,true,active,2023-07-29T10:01:36Z,2026-11-01T09:00:00Z
+C-000138,Nora,Okafor,nora.okafor.00138@example.test,Scotland,Edinburgh,online,true,active,2022-11-10T09:31:49Z,2026-11-01T09:00:00Z
+C-000139,Obi,Roberts,obi.roberts.00139@example.test,Greater London,London,referral,false,active,2023-09-11T14:35:08Z,2026-11-01T09:00:00Z
+C-000140,Olive,Stewart,olive.stewart.00140@example.test,Greater London,London,store,true,active,2023-01-05T16:53:46Z,2026-11-01T09:00:00Z
+C-000141,Omar,Wilson,omar.wilson.00141@example.test,Greater London,London,online,false,active,2022-05-09T08:16:42Z,2026-11-01T09:00:00Z
+C-000142,Orla,Black,orla.black.00142@example.test,North West,Manchester,referral,true,active,2023-12-18T08:54:05Z,2026-11-01T09:00:00Z
+C-000143,Owen,Davies,owen.davies.00143@example.test,Wales,Cardiff,store,true,inactive,2023-05-31T09:36:54Z,2026-11-01T09:00:00Z
+C-000144,Pia,Fraser,pia.fraser.00144@example.test,Yorkshire,Leeds,store,true,active,2022-02-20T10:58:55Z,2026-11-01T09:00:00Z
+C-000145,Rafi,Howard,rafi.howard.00145@example.test,Greater London,London,store,true,active,2022-12-27T07:15:06Z,2026-11-01T09:00:00Z
+C-000146,Raya,Lewis,raya.lewis.00146@example.test,East of England,Cambridge,online,false,active,2023-03-14T08:42:42Z,2026-11-01T09:00:00Z
+C-000147,Remi,Nair,remi.nair.00147@example.test,Scotland,Edinburgh,store,true,active,2023-06-20T10:15:40Z,2026-11-01T09:00:00Z
+C-000148,Rhea,Quinn,rhea.quinn.00148@example.test,South West,Bristol,app,true,active,2022-12-17T09:48:45Z,2026-11-01T09:00:00Z
+C-000149,Rosa,Sharma,rosa.sharma.00149@example.test,South West,Bristol,online,false,active,2022-05-18T12:32:37Z,2026-11-01T09:00:00Z
+C-000150,Ruben,Watson,ruben.watson.00150@example.test,Greater London,London,app,true,active,2023-11-02T20:47:41Z,2026-11-01T09:00:00Z
+C-000151,Ruth,Armstrong,ruth.armstrong.00151@example.test,Greater London,London,online,false,active,2023-11-25T08:19:12Z,2026-11-01T09:00:00Z
+C-000152,Sami,Collins,sami.collins.00152@example.test,Greater London,London,app,false,active,2023-05-02T08:55:15Z,2026-11-01T09:00:00Z
+C-000153,Sana,Fernandez,sana.fernandez.00153@example.test,Scotland,Edinburgh,app,true,active,2023-01-16T13:09:56Z,2026-11-01T09:00:00Z
+C-000154,Sara,Harris,sara.harris.00154@example.test,East of England,Cambridge,app,true,active,2022-10-17T14:15:08Z,2026-11-01T09:00:00Z
+C-000155,Sean,Kennedy,sean.kennedy.00155@example.test,North West,Manchester,online,true,active,2023-09-23T11:03:13Z,2026-11-01T09:00:00Z
+C-000156,Seth,Miller,seth.miller.00156@example.test,West Midlands,Birmingham,online,false,active,2022-09-16T09:36:18Z,2026-11-01T09:00:00Z
+C-000157,Shay,Pearson,shay.pearson.00157@example.test,South East,Brighton,store,true,active,2023-08-25T14:39:40Z,2026-11-01T09:00:00Z
+C-000158,Sofia,Ross,sofia.ross.00158@example.test,West Midlands,Birmingham,app,true,active,2022-12-11T11:37:16Z,2026-11-01T09:00:00Z
+C-000159,Sona,Thompson,sona.thompson.00159@example.test,Greater London,London,online,true,active,2022-05-14T21:51:41Z,2026-11-01T09:00:00Z
+C-000160,Tara,Achebe,tara.achebe.00160@example.test,Greater London,London,app,true,active,2023-11-01T09:43:46Z,2026-11-01T09:00:00Z
+C-000161,Theo,Byrne,theo.byrne.00161@example.test,Yorkshire,Leeds,online,true,active,2022-03-11T11:30:53Z,2026-11-01T09:00:00Z
+C-000162,Tilly,Duncan,tilly.duncan.00162@example.test,North West,Manchester,online,true,active,2022-02-16T14:44:16Z,2026-11-01T09:00:00Z
+C-000163,Tom,Grant,tom.grant.00163@example.test,Greater London,London,online,false,active,2023-07-05T10:08:47Z,2026-11-01T09:00:00Z
+C-000164,Una,James,una.james.00164@example.test,Scotland,Edinburgh,app,true,active,2022-05-05T10:13:54Z,2026-11-01T09:00:00Z
+C-000165,Veda,Marsh,veda.marsh.00165@example.test,Greater London,London,online,true,active,2023-01-11T08:57:13Z,2026-11-01T09:00:00Z
+C-000166,Willa,O'Brien,willa.obrien.00166@example.test,South West,Bristol,online,false,active,2022-09-19T11:09:17Z,2026-11-01T09:00:00Z
+C-000167,Yara,Richardson,yara.richardson.00167@example.test,Greater London,London,store,true,active,2022-06-29T16:27:40Z,2026-11-01T09:00:00Z
+C-000168,Yusuf,Spencer,yusuf.spencer.00168@example.test,Wales,Cardiff,referral,true,active,2022-06-21T14:08:03Z,2026-11-01T09:00:00Z
+C-000169,Zara,Williams,zara.williams.00169@example.test,North West,Manchester,online,false,active,2022-09-27T18:08:13Z,2026-11-01T09:00:00Z
+C-000170,Zoe,Bhat,zoe.bhat.00170@example.test,Wales,Cardiff,online,true,active,2023-05-15T11:45:41Z,2026-11-01T09:00:00Z
+C-000171,Aisha,Davies,aisha.davies.00171@example.test,Yorkshire,Leeds,store,false,active,2023-05-16T10:30:03Z,2026-11-01T09:00:00Z
+C-000172,Alfie,Fraser,alfie.fraser.00172@example.test,North West,Manchester,online,false,active,2022-04-29T14:14:07Z,2026-11-01T09:00:00Z
+C-000173,Amara,Howard,amara.howard.00173@example.test,Scotland,Edinburgh,referral,false,active,2023-04-08T19:15:11Z,2026-11-01T09:00:00Z
+C-000174,Ana,Lewis,ana.lewis.00174@example.test,East of England,Cambridge,app,true,active,2023-01-06T09:58:55Z,2026-11-01T09:00:00Z
+C-000175,Arjun,Nair,arjun.nair.00175@example.test,East of England,Cambridge,online,false,active,2023-02-07T13:47:39Z,2026-11-01T09:00:00Z
+C-000176,Bea,Quinn,bea.quinn.00176@example.test,South West,Bristol,app,false,active,2023-12-17T07:47:12Z,2026-11-01T09:00:00Z
+C-000177,Ben,Sharma,ben.sharma.00177@example.test,South East,Brighton,store,true,active,2022-03-31T09:29:32Z,2026-11-01T09:00:00Z
+C-000178,Callum,Watson,callum.watson.00178@example.test,South East,Brighton,app,true,active,2023-11-09T16:07:57Z,2026-11-01T09:00:00Z
+C-000179,Camille,Armstrong,camille.armstrong.00179@example.test,Greater London,London,store,true,active,2023-11-24T11:08:25Z,2026-11-01T09:00:00Z
+C-000180,Chloe,Collins,chloe.collins.00180@example.test,Greater London,London,app,true,active,2023-05-15T12:57:31Z,2026-11-01T09:00:00Z
+C-000181,Clara,Fernandez,clara.fernandez.00181@example.test,Greater London,London,online,true,active,2022-09-18T13:10:35Z,2026-11-01T09:00:00Z
+C-000182,Daniel,Harris,daniel.harris.00182@example.test,West Midlands,Birmingham,store,true,active,2023-04-07T08:55:31Z,2026-11-01T09:00:00Z
+C-000183,Dara,Kennedy,dara.kennedy.00183@example.test,West Midlands,Birmingham,app,false,active,2022-11-27T10:52:19Z,2026-11-01T09:00:00Z
+C-000184,Dev,Miller,dev.miller.00184@example.test,South West,Bristol,referral,true,active,2022-12-04T09:14:37Z,2026-11-01T09:00:00Z
+C-000185,Elena,Pearson,elena.pearson.00185@example.test,South East,Brighton,online,true,active,2023-06-20T10:15:40Z,2026-11-01T09:00:00Z
+C-000186,Eli,Ross,eli.ross.00186@example.test,North West,Manchester,app,true,active,2023-02-23T11:15:39Z,2026-11-01T09:00:00Z
+C-000187,Emeka,Thompson,emeka.thompson.00187@example.test,South West,Bristol,online,true,active,2022-03-12T18:01:10Z,2026-11-01T09:00:00Z
+C-000188,Esme,Achebe,esme.achebe.00188@example.test,South East,Brighton,store,false,active,2023-10-30T16:16:58Z,2026-11-01T09:00:00Z
+C-000189,Farah,Byrne,farah.byrne.00189@example.test,South East,Brighton,store,false,active,2023-03-18T15:47:41Z,2026-11-01T09:00:00Z
+C-000190,Felix,Duncan,felix.duncan.00190@example.test,Yorkshire,Leeds,online,true,active,2023-11-14T09:46:15Z,2026-11-01T09:00:00Z
+C-000191,Freya,Grant,freya.grant.00191@example.test,Yorkshire,Leeds,referral,true,active,2022-09-23T12:44:58Z,2026-11-01T09:00:00Z
+C-000192,Gemma,James,gemma.james.00192@example.test,North West,Manchester,online,true,active,2022-04-29T11:44:56Z,2026-11-01T09:00:00Z
+C-000193,Grace,Marsh,grace.marsh.00193@example.test,North West,Manchester,online,true,active,2023-11-12T07:17:37Z,2026-11-01T09:00:00Z
+C-000194,Hana,O'Brien,hana.obrien.00194@example.test,Greater London,London,store,false,active,2023-03-13T10:57:45Z,2026-11-01T09:00:00Z
+C-000195,Hari,Richardson,hari.richardson.00195@example.test,East of England,Cambridge,online,true,active,2023-07-23T09:57:42Z,2026-11-01T09:00:00Z
+C-000196,Harriet,Spencer,harriet.spencer.00196@example.test,Yorkshire,Leeds,app,false,active,2023-12-02T10:53:00Z,2026-11-01T09:00:00Z
+C-000197,Iris,Williams,iris.williams.00197@example.test,North West,Manchester,referral,true,active,2023-10-17T08:13:42Z,2026-11-01T09:00:00Z
+C-000198,Isaac,Bhat,isaac.bhat.00198@example.test,South East,Brighton,store,true,active,2022-01-04T11:33:49Z,2026-11-01T09:00:00Z
+C-000199,Ivy,Dalton,ivy.dalton.00199@example.test,East of England,Cambridge,online,false,active,2022-11-05T10:34:04Z,2026-11-01T09:00:00Z
+C-000200,Jade,Fox,jade.fox.00200@example.test,South East,Brighton,online,true,active,2023-04-24T14:56:58Z,2026-11-01T09:00:00Z

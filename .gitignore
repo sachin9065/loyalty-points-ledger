@@ -1,0 +1,19 @@
+# Generated large datasets
+data/csv/points_transactions.csv
+data/jsonl/points_transactions.jsonl
+data/jsonl/order_lines.jsonl
+data/sql/seed.sql
+
+# Generated full exports
+data/exports/
+data/full/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

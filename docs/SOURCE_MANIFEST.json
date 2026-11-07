@@ -1,0 +1,41 @@
+{
+  "dataset": "Ledgerline loyalty ledger — Morrow & Finch synthetic build",
+  "build_id": "2026.1-20261022",
+  "version": "1.4.2",
+  "generated_at": "2026-11-01T09:00:00Z",
+  "seed": 20261022,
+  "synthetic": true,
+  "external_sources": [],
+  "reference_data": "Schema and workflow patterns are original; no public dataset was copied.",
+  "provenance": "All records generated locally by generator/generate.py using business rules and a fixed seed.",
+  "license": {
+    "generated_data": "CC BY 4.0",
+    "code": "MIT",
+    "attribution": "Ledgerline demonstration build"
+  },
+  "personal_data": {
+    "used": false,
+    "note": "Names, emails and addresses are synthetic. Emails use the reserved .test domain."
+  },
+  "transformations": [
+    "Tier rank derived from trailing 365-day net-eligible spend after returns.",
+    "Earn points derived per eligible line from net line spend, policy version and tier multiplier.",
+    "Return reversal amounts derived pro rata from the original line accrual.",
+    "Redemption decisions evaluated sequentially against the running ledger balance.",
+    "Expiry batches derived from lot expiry dates and remaining lot balance.",
+    "Materialised account metrics derived from the immutable points ledger."
+  ],
+  "fields_discarded": [],
+  "volumes": {
+    "customers": 20000,
+    "loyalty_accounts": 20000,
+    "orders": 100000,
+    "order_lines": 198804,
+    "points_transactions": 300000,
+    "redemptions": 50056,
+    "expiry_batches": 15351,
+    "ground_truth_cases": 90
+  },
+  "checksums": "manifest.json",
+  "ground_truth_separated": true
+}

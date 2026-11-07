@@ -1,0 +1,5 @@
+tier_id,tier_name,rank,qualify_spend_cents,valid_from,valid_to,status
+TIER-01,Member,1,0,2024-01-01,,active
+TIER-02,Silver,2,10000,2024-01-01,,active
+TIER-03,Gold,3,35000,2024-01-01,,active
+TIER-04,Platinum,4,80000,2024-01-01,,active
